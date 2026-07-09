@@ -37,20 +37,26 @@ The objective is to demonstrate practical data analysis skills that are commonly
 ## 📂 Project Structure
 
 ```text
-Uber-Trip-Analysis/
+Uber Trip Analysis/
 │
 ├── data/
-│   └── uber_trips.csv
+│   ├── customers.csv
+│   ├── drivers.csv
+│   ├── trips.csv
 │
 ├── sql/
-│   ├── create_tables.sql
-│   ├── data_cleaning.sql
-│   ├── business_queries.sql
 │
-├── python/
-│   ├── app.py
+│
+└── Python_Analysis/
 │   ├── database.py
-│   ├── charts.py
+│   ├── app.py
+│   └── pages/
+│        ├──1_Home.py
+│        ├──Customers.py
+│        ├──Drivers.py
+│        ├──Loctions.py
+│        ├──Revenue.py
+│        ├──Trip.py
 │
 ├── dashboard_screenshots/
 │
@@ -78,6 +84,8 @@ Uber-Trip-Analysis/
 | Vehicle Type    |
 | Payment Method  |
 | Trip Status     |
+| Booking Date    |
+| Booking Time    |
 | Rating          |
 
 ### Drivers Table
