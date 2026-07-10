@@ -1,0 +1,5001 @@
+pickup_location,drop_location,trips,revenue
+"Yamuna Bank","Vasant Kunj",10,4812.9
+"Ghaziabad Railway Station","New Delhi Railway Station",9,4026.1499999999996
+AIIMS,"Noida Sector 137",9,3360.3
+"Greater Noida West","Sector 45 Gurugram",9,3686.8
+"Malviya Nagar","Mayur Vihar",9,3481.3500000000004
+"Knowledge Park",Pitampura,9,4586.7
+"Noida Sector 37",Dwarka,9,1156.75
+Dwarka,"Logix Mall",9,4335.6
+"Cyber City",Sahibabad,9,3991.5
+Aerocity,"Defence Colony",8,3721.1499999999996
+"Jama Masjid","South Extension",8,3770.35
+"DLF Phase 2","Noida City Centre",8,5618.45
+"Delta 1","Karol Bagh",8,3817
+"Vasant Kunj",Loni,8,2741.2
+Indirapuram,"Mohan Nagar",8,6009.2
+"Crossings Republik",Saket,8,3822
+"Chandni Chowk","Mohan Nagar",8,6244.85
+"Sarojini Nagar","Huda City Centre",8,2894.5
+"Karol Bagh","Hauz Khas",8,4100.35
+"Ghaziabad Railway Station",Indirapuram,8,3378.25
+"Anand Vihar Railway Station",Saket,8,2089
+"Pragati Maidan","Greater Noida West",8,4905.900000000001
+"Old Delhi Railway Station","Sector 56 Gurugram",8,3338.3
+"Cyber City","Wave City Center",8,3729.7
+Dwarka,"Kashmere Gate",8,4477.35
+"DLF Phase 1","Anand Vihar Railway Station",8,3392.1000000000004
+"Vasant Kunj","Golf Course Road",8,4006.4
+"Noida Sector 78","IFFCO Chowk",7,3055.25
+"Noida Sector 137","South Extension",7,3189.6
+"Model Town","Kashmere Gate",7,2921.9
+"DLF Phase 3","Crossings Republik",7,3324.25
+"Udyog Vihar","Green Park",7,3550.35
+Manesar,"Vasant Kunj",7,3631.7000000000003
+"Noida Sector 137",Indirapuram,7,2724.8999999999996
+"Rajouri Garden","Botanical Garden",7,3916.3
+"Chandni Chowk",Daryaganj,7,2787.5
+"Beta 1",Vaishali,7,4114.7
+"Cyber Hub","Wave City Center",7,4214.15
+"Connaught Place","Noida Sector 18",7,3406.5
+"Malviya Nagar","Greater Kailash",7,3536
+"Anand Vihar Railway Station","DLF Phase 2",7,5413.5
+Daryaganj,"Crossings Republik",7,4396.4
+"Film City Noida",Saket,7,3086
+"Airport T3",Saket,7,3973.15
+"Jama Masjid","Laxmi Nagar",7,4648.5
+"Model Town","Mandi House",7,2674.15
+"Karol Bagh","Preet Vihar",7,4109.4
+"Golf Course Road","Noida Sector 15",7,3650.2
+"Logix Mall","MG Road",7,4643
+"Beta 1","Noida City Centre",7,3654.8
+"Dilshad Garden","Greater Kailash",7,3572.95
+"Noida Sector 37","Hauz Khas",7,1738.95
+"Anand Vihar Railway Station","Cyber City",7,4191.1
+INA,"Noida Sector 16",7,2820.4
+"IFFCO Chowk","New Delhi Railway Station",7,2308.2
+Surajpur,"Civil Lines",7,2556.55
+"Noida Sector 78","Jama Masjid",7,8453.95
+"Knowledge Park","Civil Lines",7,3530.5
+"Vasant Kunj",Indirapuram,7,4243.75
+Aerocity,"MG Road",7,3239.5
+"Pragati Maidan",Pitampura,7,2304.85
+"Cyber Hub",Seelampur,7,4324.15
+Janakpuri,"DLF Phase 2",7,2282
+"Cyber City","Sector 45 Gurugram",7,4906.349999999999
+"Civil Lines","Film City Noida",7,2549
+Indirapuram,"Ghaziabad Railway Station",7,4733.5
+"Nehru Place",Loni,7,6146.95
+"Noida Sector 16","Connaught Place",7,2445.3
+"Greater Noida West","Pragati Maidan",7,3956.8500000000004
+"Sector 56 Gurugram","Old Delhi Railway Station",7,3013.6
+"Defence Colony","MG Road",7,6801.5
+"Nehru Place",Seelampur,7,3396
+"Vasant Kunj","Ghaziabad Railway Station",7,2149.5
+"Dilshad Garden","DLF Phase 2",7,4976.5
+Seelampur,"Greater Noida West",7,2721.45
+"Hauz Khas",Kaushambi,7,4225
+"MG Road",Aerocity,7,3454.75
+"New Delhi Railway Station","Gamma 1",7,3165.3
+"Noida Sector 15",Kalkaji,7,2512.75
+"Connaught Place",Bisrakh,7,3804.3
+"Mandi House","Noida Sector 63",7,3281.2
+"Gamma 1","Noida Sector 78",7,4856.3
+Vaishali,"Kashmere Gate",7,3718.75
+"Wave City Center","Botanical Garden",7,2593.8
+Seelampur,"RK Puram",7,3279
+"MG Road","Red Fort",7,3043
+Vasundhara,"Civil Lines",7,2608
+Loni,"Udyog Vihar",7,3320.5
+Seelampur,"Dilshad Garden",7,3615.2
+"IFFCO Chowk","Noida Sector 62",7,3315
+"Golf Course Road",Janakpuri,7,4265.05
+"Sector 14 Gurugram","MG Road",7,3460.45
+"IFFCO Chowk",INA,6,1988.25
+Kalkaji,Kaushambi,6,2239
+"Botanical Garden",Indirapuram,6,2555.8
+Surajpur,"Mayur Vihar",6,3562.1
+"RK Puram","Nehru Place",6,1869.75
+"Airport T3","Dilshad Garden",6,2429.1
+"Sector 29 Gurugram",Ecotech,6,2595.6
+"Model Town","Gamma 1",6,3122
+Seelampur,"Hauz Khas",6,3056
+Daryaganj,"Cyber Hub",6,1106.5
+"Film City Noida","Pragati Maidan",6,2971
+Saket,"Pari Chowk",6,2075.5
+AIIMS,Janakpuri,6,3258.95
+"Nehru Place","New Delhi Railway Station",6,2484.05
+"Old Delhi Railway Station","Sarojini Nagar",6,2564.2000000000003
+"DLF Mall of India",Rohini,6,2987.9
+"Pari Chowk",Surajpur,6,3210.7
+Vasundhara,Janakpuri,6,3580.7
+"Noida Sector 62","DLF Phase 2",6,2748.55
+"DLF Phase 3",Kaushambi,6,3362
+"Crossings Republik","Noida Sector 15",6,2973.7
+"Cyber Hub","Vasant Kunj",6,2160.65
+"Sohna Road","Noida Sector 76",6,4336.6
+"Sector 14 Gurugram","Connaught Place",6,2071.95
+"Greater Kailash","Malviya Nagar",6,2238.65
+"Knowledge Park","Alpha 1",6,3523.5
+"Film City Noida","Kashmere Gate",6,2879.25
+Dwarka,"Vasant Kunj",6,2240.1
+Bisrakh,"Anand Vihar Railway Station",6,3080.5
+"Golf Course Road","DLF Phase 3",6,3550.75
+"Model Town","Botanical Garden",6,3341.8999999999996
+Surajpur,"Ghaziabad Railway Station",6,2293.6
+"Green Park","Noida Sector 37",6,3016.6000000000004
+Sahibabad,"Gamma 1",6,2830
+"Greater Kailash","Film City Noida",6,3454.5
+"Noida Sector 76",Bisrakh,6,3479.55
+Kaushambi,Ecotech,6,2358.55
+"Karol Bagh",Janakpuri,6,4169.6
+"South Extension",Aerocity,6,2957.6
+"Ghaziabad Railway Station","Model Town",6,3536.05
+"DLF Phase 4",Seelampur,6,2575.5
+"Noida Sector 62",Ecotech,6,3028.5
+"Sector 56 Gurugram","Green Park",6,3039.25
+"Dilshad Garden","Vasant Kunj",6,4003.4000000000005
+Rohini,"Noida Sector 137",6,3721.05
+Bisrakh,Indirapuram,6,2943.25
+"Laxmi Nagar",Indirapuram,6,2579.9
+"Crossings Republik","Delta 1",6,4411.25
+"Sector 14 Gurugram","Kashmere Gate",6,2760.2
+"Green Park","Cyber Hub",6,4234.6
+Rohini,"Logix Mall",6,2055.5
+"Cyber City",Rohini,6,4329
+Bisrakh,"Sector 14 Gurugram",6,2545.5
+Rohini,"Red Fort",6,1663.5
+Surajpur,"Cyber Hub",6,2342.75
+"Beta 1","Golf Course Road",6,3081.6
+"Wave City Center","Noida City Centre",6,2826.3
+"Film City Noida","Hauz Khas",6,2066.55
+"Model Town","Sector 14 Gurugram",6,1721.9
+"DLF Mall of India","Model Town",6,3044.95
+Surajpur,"Knowledge Park",6,4300.8
+"Red Fort","Nehru Place",6,2474.5
+"Chandni Chowk","Old Delhi Railway Station",6,3324.1
+"Noida Sector 15","Knowledge Park",6,2824.6499999999996
+Kalkaji,"New Delhi Railway Station",6,4476.75
+Surajpur,ITO,6,3912.4
+"Lajpat Nagar","Kashmere Gate",6,1673.8
+"Preet Vihar","Defence Colony",6,2895.7
+"IFFCO Chowk","Mandi House",6,2059.8999999999996
+"Udyog Vihar","IGI Airport T1",6,3292.75
+Mahipalpur,"Noida City Centre",6,2663.4
+"MG Road","Alpha 1",6,3851
+"Sector 14 Gurugram","RK Puram",6,1042.75
+"Huda City Centre","Logix Mall",6,1766.5
+"Alpha 1",Vasundhara,6,3077.75
+"Noida Sector 78","Alpha 1",6,2528.5
+"Laxmi Nagar",Aerocity,6,3039.2
+"Ghaziabad Railway Station","Mayur Vihar",6,2690.6
+INA,Daryaganj,6,3387
+"Noida Sector 15","Laxmi Nagar",6,3199.3500000000004
+"Greater Noida West","Greater Kailash",6,2246.25
+Vaishali,"Film City Noida",6,1511.9
+Vaishali,"Sector 56 Gurugram",6,2671.5
+"MG Road","Green Park",6,3333.5
+"Chandni Chowk","Sohna Road",6,3871.5
+"Pari Chowk",Shahdara,6,2303.5
+Rohini,"Laxmi Nagar",6,2401
+"Airport T3",Pitampura,6,4156.75
+"Preet Vihar","Raj Nagar Extension",6,2073
+"Rajouri Garden",Sahibabad,6,2555
+"Hauz Khas","Pari Chowk",6,2117.25
+Loni,"Noida Sector 137",6,3642.5
+"South Extension","Dilshad Garden",6,3754
+"Mandi House",Sahibabad,6,2169.2
+"Rajouri Garden","Yamuna Bank",6,4381.45
+"Sohna Road",Indirapuram,6,3149.5
+"Noida Sector 62","Noida Sector 63",6,2882.55
+Indirapuram,INA,6,4653.75
+"Nehru Place",Akshardham,6,4075
+"Vasant Kunj","Airport T3",6,2354
+Indirapuram,"Sector 56 Gurugram",6,2596.5
+Vasundhara,"Preet Vihar",6,3682
+"Sohna Road",AIIMS,6,2152.25
+Dwarka,"South Extension",6,2139
+"Crossings Republik",Kalkaji,6,1907.45
+"Greater Noida West",Janakpuri,6,2658.3
+"DLF Mall of India","Sector 56 Gurugram",6,2454.5
+"Preet Vihar","Cyber City",6,4548.5
+"Huda City Centre","Connaught Place",6,2882.35
+"Wave City Center",Seelampur,6,3002.75
+Janakpuri,Indirapuram,6,3467.3
+"Knowledge Park","Delta 1",6,2941.25
+"Dilshad Garden",Vaishali,6,3324.75
+"Sohna Road","DLF Phase 3",6,1874.7
+"Wave City Center",Dwarka,6,3536.9000000000005
+"Anand Vihar ISBT","Lajpat Nagar",6,3394.55
+"Dilshad Garden","Udyog Vihar",6,2535.1
+Loni,"Green Park",6,3642
+Kaushambi,"Knowledge Park",6,1704.6
+Vasundhara,"Beta 1",6,2881.75
+Kaushambi,"DLF Phase 3",6,2268
+"Sector 29 Gurugram","Noida Sector 137",6,3276.1
+"DLF Phase 4","DLF Mall of India",6,1977.75
+Manesar,"Preet Vihar",6,2701.7
+"Raj Nagar Extension","Noida City Centre",6,3394.15
+"Sohna Road",Manesar,6,3368.75
+"New Delhi Railway Station","Red Fort",6,2839.45
+"Ghaziabad Railway Station","DLF Phase 1",6,2284.75
+"Noida Sector 37","Sarojini Nagar",6,2905.5
+Saket,Aerocity,6,3326.3
+"Raj Nagar Extension","IFFCO Chowk",6,3731.9
+"Raj Nagar Extension",AIIMS,6,2476.75
+AIIMS,Saket,6,2638.65
+"Chandni Chowk","Noida Sector 62",6,2747.1
+"Chandni Chowk","Greater Noida West",6,2701.45
+"Sohna Road","Beta 1",6,6568.6
+AIIMS,Vaishali,6,2261.3
+"Connaught Place",Pitampura,6,2316.75
+Manesar,"Sohna Road",6,2777.9
+Akshardham,"South Extension",6,3449.65
+Manesar,"Lajpat Nagar",6,8287.5
+Kalkaji,"Airport T3",6,2393.2000000000003
+"Connaught Place",Rohini,6,3938.25
+"Noida Sector 78","Gamma 1",6,2771.1
+Kalkaji,"Connaught Place",6,2891.7
+"Old Delhi Railway Station","Ghaziabad Railway Station",6,2773
+"Green Park","Noida Sector 62",6,2986.05
+"Noida Sector 16","MG Road",6,2260.5
+"Kashmere Gate","IFFCO Chowk",6,6265.549999999999
+Bisrakh,"DLF Phase 2",6,3578.1000000000004
+"Model Town","Noida Sector 63",6,3000
+"Beta 1",Ecotech,6,2959.6
+"Red Fort","Knowledge Park",6,2595
+Kalkaji,"Noida Sector 16",6,1722.15
+"Malviya Nagar","Vasant Kunj",6,2820
+Pitampura,"Film City Noida",6,3490.2
+"Noida Sector 62","Mandi House",6,2531.75
+"Sector 45 Gurugram",Daryaganj,6,2043.6
+"Sarojini Nagar","Rajouri Garden",6,1619.75
+"Dilshad Garden",Kaushambi,6,3149.5
+"Mohan Nagar","Preet Vihar",6,2123.6
+"Mohan Nagar","Sector 56 Gurugram",6,2871.85
+"Sector 14 Gurugram","Defence Colony",6,3024.3
+Loni,"Red Fort",6,4305.1
+Manesar,"Delta 1",6,3468
+Aerocity,"Sohna Road",6,2842.75
+"Sector 56 Gurugram","Jama Masjid",6,2301.5
+Bisrakh,"Noida Sector 62",6,3589.2
+"Delta 1","Golf Course Road",6,2310.9
+INA,"Udyog Vihar",6,3174.5
+Aerocity,"IGI Airport T1",6,3298.9
+"Noida Sector 78","Raj Nagar Extension",6,3662.5
+"Lajpat Nagar","Raj Nagar Extension",6,3219.8500000000004
+"Sohna Road",Bisrakh,6,3370.5
+"Civil Lines","Noida Sector 63",6,2696.7999999999997
+"Mandi House",Mahipalpur,6,2947
+"Dilshad Garden","Sector 29 Gurugram",6,2293.05
+"Old Delhi Railway Station","Lajpat Nagar",6,1797.75
+"Kashmere Gate","Sarojini Nagar",6,2113.6
+"MG Road","DLF Phase 1",6,1641.75
+"Vasant Kunj","Laxmi Nagar",6,4229.4
+"Anand Vihar Railway Station","RK Puram",6,2367.75
+"Defence Colony","DLF Phase 1",6,3534.5
+"RK Puram","Red Fort",6,3307.8
+Kaushambi,"Airport T3",6,2583.65
+"Lajpat Nagar","Jama Masjid",6,2326.4
+"Botanical Garden","DLF Mall of India",6,4694.7
+"RK Puram","Connaught Place",6,2566.1
+"Connaught Place","Noida Sector 76",6,1872.5
+"Chandni Chowk",AIIMS,6,3740.5499999999997
+"Karol Bagh","Mohan Nagar",6,3379.9
+"Knowledge Park","Hauz Khas",6,4140.8
+"Hauz Khas","Udyog Vihar",6,4258.15
+Mahipalpur,"Karol Bagh",6,2312.1
+Janakpuri,Akshardham,6,2623.25
+"New Delhi Railway Station",Daryaganj,6,3720.75
+"Ghaziabad Railway Station","RK Puram",6,1533
+"Nehru Place","Preet Vihar",6,3151.55
+Daryaganj,"Kashmere Gate",6,2474.95
+Bisrakh,"Cyber City",6,3217.8
+"DLF Mall of India",INA,6,2557.7
+"DLF Phase 1","Lajpat Nagar",6,2987.3
+INA,"Old Delhi Railway Station",6,1945.6499999999999
+"Red Fort",ITO,6,1168.5
+"Yamuna Bank","Rajouri Garden",6,4056.25
+"Noida Sector 76","Gamma 1",6,2245.45
+Mahipalpur,"RK Puram",6,3418.5
+"Noida Sector 37","Noida Sector 62",6,2697.1
+"Noida Sector 63","Delta 1",6,2211.9
+"Logix Mall","Noida Sector 15",6,2824
+"Lajpat Nagar",Janakpuri,6,2424.85
+"Sector 56 Gurugram",Pitampura,6,1390.25
+"New Delhi Railway Station","Sector 14 Gurugram",6,3483
+Ecotech,INA,6,2714.3
+"Ghaziabad Railway Station","Greater Kailash",6,3172.75
+"Gamma 1","Dilshad Garden",6,2202.5
+"Jama Masjid","DLF Phase 4",6,1991.1
+Loni,"Model Town",6,2933.3
+"Civil Lines","DLF Phase 2",6,3378.7000000000003
+Indirapuram,"Logix Mall",6,3450.3500000000004
+"DLF Phase 3",Ecotech,6,2357.5
+"Noida Sector 16","Mayur Vihar",6,3646
+"Sohna Road","Laxmi Nagar",6,2426
+"Noida Sector 76","Alpha 1",6,3580.7
+"Botanical Garden","Rajouri Garden",6,1873.1
+"Jama Masjid","Raj Nagar Extension",6,4480
+"Jama Masjid","Sarojini Nagar",6,3663.2000000000003
+"Hauz Khas","Cyber Hub",5,1833
+"IGI Airport T1","Karol Bagh",5,2331.9
+"DLF Phase 2","Anand Vihar Railway Station",5,1776.3
+Pitampura,"MG Road",5,2543.75
+"Sector 45 Gurugram","MG Road",5,2103.5
+"Sohna Road","Kashmere Gate",5,3030
+"Delta 1","Green Park",5,1496
+"Sector 45 Gurugram",Shahdara,5,2376.15
+"Jama Masjid","Mohan Nagar",5,2339
+"Mayur Vihar","Sector 45 Gurugram",5,2963.05
+"Alpha 1","Anand Vihar ISBT",5,1924.5
+"DLF Mall of India","Ambience Mall",5,3313.5
+"Noida Sector 137","Cyber Hub",5,3484.7000000000003
+"Alpha 1",Akshardham,5,2571.5
+"IGI Airport T1",Mahipalpur,5,2423.4
+"Greater Noida West","Red Fort",5,3719.1
+"Pari Chowk","Sarojini Nagar",5,1924.9
+"Alpha 1","Preet Vihar",5,2479.25
+"DLF Phase 3","Airport T3",5,2167
+AIIMS,Loni,5,2265.5
+"Noida Sector 137","Huda City Centre",5,2681.25
+"Mandi House","Model Town",5,4022.5
+"Hauz Khas","Alpha 1",5,3004
+Aerocity,"Mandi House",5,2250.95
+Manesar,"Ghaziabad Railway Station",5,2981.5
+"Laxmi Nagar","Cyber City",5,2770.4
+"Delta 1",Indirapuram,5,3940.6
+Bisrakh,Rohini,5,3656.25
+"Film City Noida",Pitampura,5,3122.25
+"Raj Nagar Extension",Daryaganj,5,4019.15
+Daryaganj,"Knowledge Park",5,1481.75
+Vaishali,"Mohan Nagar",5,3493.5
+Mahipalpur,"Vasant Kunj",5,3237.5
+"Knowledge Park","Model Town",5,1947.2
+Sahibabad,"Jama Masjid",5,1743.3
+"Ambience Mall","Vasant Kunj",5,2564.5
+"Greater Kailash",Seelampur,5,3689.5
+"South Extension","Greater Noida West",5,3769.2999999999997
+"Noida Sector 16",AIIMS,5,3551.75
+"Noida Sector 76","Mayur Vihar",5,2075
+"Noida Sector 62",Daryaganj,5,2419
+"Anand Vihar ISBT","Noida City Centre",5,1517.5
+"Defence Colony","IGI Airport T1",5,3856.35
+"IGI Airport T1","Beta 1",5,1841.25
+"Noida City Centre","Anand Vihar ISBT",5,3063
+"Green Park","Ambience Mall",5,3830.5
+"Beta 1","Noida Sector 18",5,1927.5
+"Green Park","Golf Course Road",5,2995.2000000000003
+"Greater Kailash",Saket,5,2347
+"South Extension",Kalkaji,5,2137.2
+Daryaganj,"Nehru Place",5,2103.6
+Aerocity,"Noida Sector 137",5,3716.5
+"Pari Chowk",Loni,5,1879.6
+"Noida Sector 15","Jama Masjid",5,1347
+"Red Fort","Noida Sector 63",5,1705.25
+"Hauz Khas","Model Town",5,1857.8
+"Noida Sector 76","Rajouri Garden",5,1852.25
+"Anand Vihar ISBT","DLF Phase 3",5,2921.75
+Bisrakh,"Noida Sector 63",5,2477.8
+"Chandni Chowk","Noida City Centre",5,2496
+"Old Delhi Railway Station","Botanical Garden",5,1625.3
+"DLF Phase 2",Mahipalpur,5,1298.5
+"Lajpat Nagar","Sector 14 Gurugram",5,2129
+"Defence Colony","Rajouri Garden",5,3051.25
+"Mayur Vihar","Noida Sector 15",5,5052
+Saket,"Noida Sector 76",5,2211.3
+"Defence Colony","Logix Mall",5,2871
+Sahibabad,"DLF Phase 4",5,2900.5
+Aerocity,"Logix Mall",5,3622.5
+"Jama Masjid","Noida Sector 16",5,3047.4
+"Karol Bagh","Greater Noida West",5,1599.5
+"DLF Phase 3",Aerocity,5,1782.45
+"Wave City Center","IGI Airport T1",5,2434.7
+"Kashmere Gate","Green Park",5,3129.25
+"Laxmi Nagar","Beta 1",5,2597.1
+"Cyber Hub","Sector 56 Gurugram",5,3471.85
+"Model Town","Red Fort",5,2899.15
+Kaushambi,Shahdara,5,7270.299999999999
+"Rajouri Garden",Shahdara,5,3654.95
+Loni,"Sector 56 Gurugram",5,857.55
+Bisrakh,Manesar,5,1973
+Mahipalpur,"Anand Vihar ISBT",5,1720.75
+"Pari Chowk","DLF Phase 4",5,2509.2
+Daryaganj,"RK Puram",5,2172.5
+"Sector 45 Gurugram","Udyog Vihar",5,2486.5
+"Noida Sector 37","DLF Phase 3",5,2765.5
+Seelampur,"Connaught Place",5,1294.9
+"Mayur Vihar",AIIMS,5,3807.9
+"Civil Lines","Noida Sector 137",5,3275.5
+"South Extension","DLF Phase 4",5,1950.5
+"Noida City Centre","Green Park",5,2822.15
+"Pari Chowk","Kashmere Gate",5,1569.25
+AIIMS,"Botanical Garden",5,2152.75
+"Noida Sector 137","Noida Sector 78",5,3737.5
+"Laxmi Nagar",Manesar,5,2814.25
+"Malviya Nagar",Surajpur,5,2849
+"Huda City Centre","Cyber City",5,2726.5
+"Defence Colony",AIIMS,5,2205.7999999999997
+"Ambience Mall","Mandi House",5,2527
+"Connaught Place","Old Delhi Railway Station",5,3086.2
+"IFFCO Chowk","Beta 1",5,2442.5
+"Old Delhi Railway Station","Civil Lines",5,2052.6
+"Film City Noida","Defence Colony",5,2877
+"Gamma 1",Saket,5,2776
+"Wave City Center","Knowledge Park",5,2959.2
+"MG Road","Model Town",5,2831.5
+"Noida Sector 137","Noida Sector 62",5,1618.5
+"Yamuna Bank",Sahibabad,5,1965.8
+Pitampura,Kalkaji,5,2015.9
+"Mayur Vihar",Janakpuri,5,2766.95
+"Mayur Vihar","Noida Sector 18",5,2802.55
+"Sector 14 Gurugram","Chandni Chowk",5,3470.3999999999996
+"DLF Phase 1",Janakpuri,5,2327.75
+Kaushambi,"DLF Phase 2",5,2453.1000000000004
+"Noida Sector 76",Surajpur,5,1532
+"Noida Sector 18","Pragati Maidan",5,1726.35
+"New Delhi Railway Station","IFFCO Chowk",5,3348.45
+"Model Town","Mohan Nagar",5,2364.25
+Kalkaji,"Laxmi Nagar",5,1530.7
+"MG Road","Mayur Vihar",5,2226.5
+Dwarka,"Chandni Chowk",5,1866.9
+"Golf Course Road","Lajpat Nagar",5,2465.25
+"IGI Airport T1","Mandi House",5,1807.5
+Indirapuram,"Defence Colony",5,2688.9
+"Sector 56 Gurugram","Mayur Vihar",5,1853.15
+"Rajouri Garden","Dilshad Garden",5,1843.5
+INA,"Karol Bagh",5,2800.2
+Seelampur,Ecotech,5,1899.2
+Loni,Vasundhara,5,3288.45
+AIIMS,Bisrakh,5,2357.9
+"Nehru Place","Noida Sector 15",5,2247.25
+Dwarka,"Cyber Hub",5,2174.25
+"Cyber City",Indirapuram,5,2209.55
+"Jama Masjid",Ecotech,5,1872.2
+"Greater Kailash","Vasant Kunj",5,2313
+Daryaganj,"Noida Sector 15",5,1882.3
+"Hauz Khas",Daryaganj,5,4569
+"Mayur Vihar","DLF Phase 4",5,3645
+"Sohna Road","Raj Nagar Extension",5,2664.5
+"Noida Sector 62","IFFCO Chowk",5,2601.75
+"Wave City Center","Sector 45 Gurugram",5,2072.6
+"Noida Sector 76","DLF Phase 2",5,2274.85
+"Old Delhi Railway Station","Noida Sector 76",5,1872.2
+"Airport T3","DLF Phase 4",5,3848.1
+Sahibabad,Loni,5,1574.5
+Bisrakh,Seelampur,5,3756.5
+Daryaganj,"DLF Phase 3",5,2126.25
+Ecotech,"Civil Lines",5,2245
+"Raj Nagar Extension",Vaishali,5,2974.15
+"Pari Chowk","Mohan Nagar",5,2357.9
+"Old Delhi Railway Station",Indirapuram,5,1692.45
+Akshardham,"Dilshad Garden",5,2342.7
+"Old Delhi Railway Station",Sahibabad,5,4041
+"DLF Mall of India",Mahipalpur,5,1817.5
+"Green Park",Sahibabad,5,1510
+Loni,Surajpur,5,2953.7
+Aerocity,"Cyber City",5,2802.1
+"Ghaziabad Railway Station","Laxmi Nagar",5,2232.5
+Kalkaji,"Model Town",5,2156
+Dwarka,"Film City Noida",5,1247.4
+"Noida Sector 137","Malviya Nagar",5,3074.3
+"Knowledge Park",Vaishali,5,1302
+"Yamuna Bank","Greater Kailash",5,3076.55
+"DLF Mall of India","Golf Course Road",5,2484.8
+Saket,"Noida Sector 78",5,2028.25
+Sahibabad,"IGI Airport T1",5,1990.5
+"Laxmi Nagar","Hauz Khas",5,2340.8
+"Logix Mall",Bisrakh,5,3051.5
+"Sector 14 Gurugram",Mahipalpur,5,2026.5
+Rohini,"Pari Chowk",5,1535.6
+"Chandni Chowk",Vasundhara,5,2078.7
+"Preet Vihar","Noida Sector 137",5,2302.65
+"DLF Phase 3","Kashmere Gate",5,2069.5
+Bisrakh,Loni,5,1709.8
+"Film City Noida","Cyber Hub",5,3734.3500000000004
+"Cyber Hub","DLF Phase 1",5,2801.7
+"Ambience Mall","Raj Nagar Extension",5,2924.1
+"Film City Noida","Sector 14 Gurugram",5,2352.25
+"Dilshad Garden","Yamuna Bank",5,3860
+AIIMS,Indirapuram,5,2228.8
+"Udyog Vihar","Lajpat Nagar",5,3024.55
+"Knowledge Park",Dwarka,5,2635.25
+Akshardham,"Botanical Garden",5,1320
+AIIMS,"Vasant Kunj",5,1776
+"Film City Noida","Green Park",5,3092.25
+"Preet Vihar",Manesar,5,1711
+"Sarojini Nagar","IGI Airport T1",5,3082
+"Mohan Nagar","Mayur Vihar",5,1296
+"Sohna Road","Sector 29 Gurugram",5,2457.25
+Kaushambi,"Sarojini Nagar",5,2291.2
+"Old Delhi Railway Station","Mohan Nagar",5,1830
+"Preet Vihar","Logix Mall",5,2508.25
+"Ambience Mall","IGI Airport T1",5,2889.1
+"Kashmere Gate",Manesar,5,1499.25
+"IFFCO Chowk","Gamma 1",5,2041.6499999999999
+Seelampur,Saket,5,1966
+Indirapuram,"Botanical Garden",5,2941.5
+"DLF Phase 4","Dilshad Garden",5,3511.5
+"Karol Bagh","South Extension",5,2163.8
+Shahdara,"Old Delhi Railway Station",5,2701.25
+"Film City Noida","DLF Phase 1",5,1146.3
+"DLF Phase 1",Kaushambi,5,1678.65
+"Noida City Centre",Mahipalpur,5,2245.7
+Indirapuram,"Noida Sector 62",5,2682.2
+"South Extension",Janakpuri,5,2693.5
+"Sector 56 Gurugram","New Delhi Railway Station",5,2970.75
+"Vasant Kunj",ITO,5,3902.25
+AIIMS,"Noida Sector 37",5,3820.3
+Indirapuram,Kalkaji,5,3178.5
+"Airport T3","Noida Sector 76",5,1775.6999999999998
+"Chandni Chowk","Huda City Centre",5,2037.9
+"Pragati Maidan","Knowledge Park",5,433.9
+"Cyber Hub","Noida Sector 78",5,5356.95
+"Botanical Garden","Noida Sector 137",5,2405.9
+"Gamma 1","Noida Sector 18",5,2830.25
+"Anand Vihar Railway Station","Chandni Chowk",5,1459.8000000000002
+"Film City Noida",Mahipalpur,5,1919
+ITO,"Jama Masjid",5,2813
+Akshardham,"Sector 29 Gurugram",5,2958.05
+Shahdara,"New Delhi Railway Station",5,2265.25
+"Sector 56 Gurugram","IGI Airport T1",5,1863
+Seelampur,"DLF Phase 1",5,2262.5
+"Sector 56 Gurugram","DLF Mall of India",5,2386.25
+"DLF Phase 4",Kaushambi,5,2432
+"Lajpat Nagar","Noida Sector 18",5,2721
+"MG Road","Anand Vihar ISBT",5,2902.8999999999996
+"Botanical Garden",ITO,5,2643.5
+"Cyber Hub",Pitampura,5,3300.4
+"Sector 14 Gurugram","Malviya Nagar",5,2404.55
+"Sector 14 Gurugram","Golf Course Road",5,1810.9
+"Connaught Place",Ecotech,5,2380.5
+"Cyber Hub","Noida Sector 18",5,1512.75
+"Nehru Place",Manesar,5,1602.7
+"DLF Phase 3","Sector 14 Gurugram",5,3304.25
+"Laxmi Nagar","Noida Sector 137",5,3715.1
+"Jama Masjid","Cyber City",5,1946.4
+ITO,Manesar,5,2647.75
+"Sector 56 Gurugram","Crossings Republik",5,2419.3
+"Mandi House","Vasant Kunj",5,3777.25
+"Old Delhi Railway Station",Vasundhara,5,2888
+"Sector 56 Gurugram",Vaishali,5,2285
+"Noida Sector 63",Vasundhara,5,1681.8
+Seelampur,"Cyber Hub",5,3151.2
+"Sector 29 Gurugram","Noida Sector 63",5,2476.8
+"Film City Noida",Loni,5,2942.75
+"Noida Sector 37",Sahibabad,5,1509.1
+"RK Puram","Old Delhi Railway Station",5,2517.6
+"Old Delhi Railway Station","Connaught Place",5,1831.5
+"Mandi House","Noida City Centre",5,2002.25
+Manesar,"Sector 56 Gurugram",5,3309
+Loni,"Sector 29 Gurugram",5,2787.8
+Mahipalpur,Dwarka,5,3605.65
+"Model Town","Noida Sector 62",5,2157.3
+Loni,Bisrakh,5,1833
+"Knowledge Park","Noida Sector 62",5,1464.5
+Janakpuri,"Mandi House",5,2097.2
+"Mohan Nagar",Kaushambi,5,1973
+Pitampura,"Golf Course Road",5,1391.7
+"DLF Phase 3","Huda City Centre",5,1565.5
+"Beta 1","Sohna Road",5,2371.7
+"Laxmi Nagar",Akshardham,5,2806.25
+"Mayur Vihar",Akshardham,5,2423.75
+"Knowledge Park","Cyber City",5,3115.1000000000004
+"Golf Course Road","Anand Vihar ISBT",5,1845.25
+"Gamma 1","Crossings Republik",5,2293.75
+"IGI Airport T1",INA,5,2115.2
+Pitampura,"Alpha 1",5,2329.5
+Shahdara,Pitampura,5,3790.75
+Bisrakh,"Huda City Centre",5,1360.25
+"Noida Sector 16","Nehru Place",5,2775.7
+"Film City Noida","Karol Bagh",5,4073.75
+"Sector 14 Gurugram","Noida City Centre",5,2268.6
+"Beta 1","Sector 14 Gurugram",5,1460.5
+"IFFCO Chowk","Cyber City",5,1744.1
+"Mandi House","Cyber Hub",5,1936.8
+AIIMS,"Dilshad Garden",5,1908.1
+"Sector 29 Gurugram","Anand Vihar Railway Station",5,1908.5
+"Film City Noida","Noida Sector 78",5,2960.4
+"Red Fort","South Extension",5,2566.8
+"Old Delhi Railway Station",Saket,5,1164.75
+"RK Puram","Gamma 1",5,4068.6
+"Kashmere Gate","DLF Phase 4",5,2747.05
+Vasundhara,"Red Fort",5,3856.9
+Kalkaji,"Cyber Hub",5,3045.2
+"Mayur Vihar","DLF Mall of India",5,2049
+"Alpha 1","Beta 1",5,2566.65
+Rohini,"Sector 56 Gurugram",5,2619.3
+"Yamuna Bank","Noida City Centre",5,1781.75
+"Sector 56 Gurugram",Indirapuram,5,2388.25
+"Noida Sector 78","Greater Noida West",5,2358.7
+"IGI Airport T1","Pragati Maidan",5,3964.25
+"Mayur Vihar",Ecotech,5,2594.5
+Daryaganj,"Rajouri Garden",5,2630.9
+INA,Sahibabad,5,2322.4
+Manesar,"Nehru Place",5,1682.45
+"Sector 14 Gurugram","Raj Nagar Extension",5,2136
+Daryaganj,Loni,5,2525.4
+"Noida Sector 18",Kaushambi,5,3547
+"South Extension","Sector 45 Gurugram",5,2737.5
+"Jama Masjid","Noida Sector 15",5,3941.4
+"Botanical Garden","Connaught Place",5,2368.75
+"Raj Nagar Extension","Noida Sector 76",5,3032.5
+"DLF Phase 4","DLF Phase 1",5,2710.25
+"Mayur Vihar","Anand Vihar Railway Station",5,1465.4
+"Greater Noida West",Bisrakh,5,3827.75
+"Mohan Nagar","Logix Mall",5,2271.5
+Vaishali,"Pari Chowk",5,938.75
+"Hauz Khas","Noida Sector 76",5,3112.8
+Akshardham,"Vasant Kunj",5,1708.6
+"Crossings Republik","Mayur Vihar",5,3452.9
+"Noida Sector 62",Kaushambi,5,2955.5
+"Noida Sector 78","Yamuna Bank",5,3305.3
+"South Extension","Anand Vihar ISBT",5,2662.3999999999996
+Vasundhara,Sahibabad,5,2108.4
+"Raj Nagar Extension","Cyber Hub",5,2519
+"Ghaziabad Railway Station",Kalkaji,5,2579.5
+"Crossings Republik",Ecotech,5,2813.5
+"Model Town","Vasant Kunj",5,2192
+Daryaganj,Dwarka,5,3039.5
+Dwarka,"Sarojini Nagar",5,3041.5
+"DLF Mall of India","Noida Sector 15",5,4694.25
+Vaishali,AIIMS,5,1288.3
+Saket,"Sohna Road",5,3111.7
+Seelampur,"MG Road",5,2334.75
+"Sector 45 Gurugram","Chandni Chowk",5,2511
+"Cyber City",Akshardham,5,2432.9
+"Anand Vihar Railway Station","Noida Sector 63",5,2596.65
+"Botanical Garden",Surajpur,5,2754.45
+"Lajpat Nagar","Udyog Vihar",5,2115.2
+"IFFCO Chowk","Connaught Place",5,5524
+AIIMS,Manesar,5,2675.3
+"Wave City Center","Model Town",5,1786.5
+"Chandni Chowk","Noida Sector 16",5,2649.5
+"Noida Sector 62","Pari Chowk",5,2909.55
+"Anand Vihar ISBT","Malviya Nagar",5,2319
+Pitampura,"Pari Chowk",5,3292.75
+"Delta 1","Red Fort",5,2511.9
+"Ambience Mall","DLF Phase 4",5,1978.25
+Daryaganj,"Noida Sector 78",5,2244.6
+"Noida Sector 18","RK Puram",5,1539.1
+"DLF Phase 4",ITO,5,2543.25
+Surajpur,Shahdara,5,3546.25
+"Noida Sector 78",AIIMS,5,2098.1
+"Noida Sector 63","Malviya Nagar",5,1405.2
+"Ghaziabad Railway Station",Shahdara,5,2985.3
+Indirapuram,"Noida Sector 78",5,4083.6000000000004
+"Red Fort","Airport T3",5,2777.4
+"Film City Noida","Laxmi Nagar",5,2911.5
+Loni,"Cyber City",5,2551.9
+"Golf Course Road","Knowledge Park",5,1349.2
+"Noida Sector 78","DLF Phase 2",5,2373.75
+Vaishali,Akshardham,5,2015.25
+"Cyber City","Noida Sector 18",5,3273.6
+"IFFCO Chowk","IGI Airport T1",5,1844.5
+"Airport T3","Old Delhi Railway Station",5,2334.5
+"Civil Lines",Mahipalpur,5,3104.05
+"Delta 1",Rohini,5,1667
+"Green Park",Loni,5,2304.5
+Manesar,"DLF Phase 3",5,2135.25
+"Model Town",AIIMS,5,3042.5
+"Dilshad Garden","Ghaziabad Railway Station",5,3128.5
+INA,"Sarojini Nagar",5,2040.3
+"Sector 29 Gurugram",Shahdara,5,2520
+"Airport T3","Noida Sector 37",5,1813.25
+Saket,"Mohan Nagar",5,2856.75
+"Huda City Centre",Janakpuri,5,2391.3
+"DLF Phase 4","Noida Sector 76",5,1930.5
+"Airport T3","Sector 45 Gurugram",5,2227.45
+Vasundhara,"DLF Phase 2",5,3035.75
+"Green Park","Mayur Vihar",5,3134
+"MG Road",Pitampura,5,2820.25
+"Kashmere Gate","Preet Vihar",5,1929.2
+"IFFCO Chowk","Red Fort",5,1988.75
+AIIMS,"Noida Sector 16",5,1881.75
+"Ghaziabad Railway Station","IGI Airport T1",5,3661.25
+"Pragati Maidan","Noida Sector 63",5,3564.75
+"Lajpat Nagar","Noida Sector 62",5,535
+"Airport T3","Alpha 1",5,1967.1
+"Sector 29 Gurugram",Sahibabad,5,2250.4
+"South Extension","IFFCO Chowk",5,2196
+"DLF Phase 1","Botanical Garden",5,2867.45
+"Noida Sector 16",INA,5,2711.5
+Seelampur,"New Delhi Railway Station",5,1852.5
+"Defence Colony",Janakpuri,5,2793.5
+"Wave City Center","RK Puram",5,2442.5
+"Sector 29 Gurugram","Vasant Kunj",5,1712.5
+Ecotech,Daryaganj,5,2033.2
+"Connaught Place","MG Road",5,2325.95
+"Noida Sector 137","Civil Lines",5,2784.7
+"Mayur Vihar","Cyber Hub",5,3129.2
+"DLF Mall of India","Noida Sector 18",5,2147.25
+"Sector 56 Gurugram",Daryaganj,5,2222.2
+"Model Town","Noida Sector 18",5,1511.8
+Daryaganj,"Model Town",5,3087.75
+Akshardham,"Sector 56 Gurugram",5,1963.4
+"Noida Sector 78",Kalkaji,5,2131
+"Noida Sector 18","Model Town",5,2341.7
+"Malviya Nagar","Civil Lines",5,2536.25
+"Noida Sector 15",Mahipalpur,5,1795.75
+"MG Road",ITO,5,2412.7
+Akshardham,"Pari Chowk",5,2437
+"Raj Nagar Extension","Wave City Center",5,1802.6
+"Gamma 1","Yamuna Bank",5,2042.75
+"Sector 45 Gurugram","Logix Mall",5,1044.4
+Manesar,"Noida Sector 37",5,2033.1
+ITO,Rohini,5,1760.8000000000002
+Janakpuri,Sahibabad,5,2045.5
+"Pragati Maidan",Seelampur,5,3405.25
+"Ghaziabad Railway Station","Vasant Kunj",5,2153.7
+Manesar,"MG Road",5,2468.75
+"Vasant Kunj","Alpha 1",5,2459.25
+"Film City Noida",Vaishali,5,2659.75
+Janakpuri,"Lajpat Nagar",5,2196.6
+"Nehru Place","DLF Mall of India",5,1801.5
+"Laxmi Nagar","DLF Phase 4",5,3290.5
+"Logix Mall",Kalkaji,5,2336.25
+Aerocity,"Pari Chowk",5,2400.25
+"Greater Kailash",Vasundhara,5,3871.15
+"Sector 45 Gurugram","Noida Sector 62",5,1700
+Shahdara,Akshardham,5,2334.1
+Mahipalpur,"DLF Phase 3",5,3569.7
+"Chandni Chowk","Anand Vihar ISBT",5,3757
+"Beta 1","Knowledge Park",5,1878.5
+Surajpur,Loni,5,2580.75
+"Pragati Maidan","Greater Kailash",5,2395.15
+"South Extension","Defence Colony",5,-154.70000000000005
+"Connaught Place","Beta 1",5,4222.25
+"Sarojini Nagar","Wave City Center",5,3386
+"Mandi House","MG Road",5,2378.3
+Dwarka,"Sector 56 Gurugram",5,3919
+Daryaganj,"Noida Sector 137",5,2544.5
+"Noida Sector 63","Preet Vihar",5,2296.25
+ITO,"Noida Sector 76",5,2919.5
+"DLF Phase 2","Jama Masjid",5,2440.35
+Vaishali,"Greater Kailash",5,3817.75
+"Sector 56 Gurugram",Loni,5,2093.2
+"Yamuna Bank","Defence Colony",5,2850.25
+"Greater Kailash",Bisrakh,5,3627
+"Beta 1","DLF Phase 1",5,1659.25
+"South Extension","Ambience Mall",5,3042
+"Huda City Centre","South Extension",5,3237
+Pitampura,"Delta 1",5,2358.5
+Manesar,"DLF Phase 2",5,2224.5
+Pitampura,"DLF Phase 4",5,1699.75
+Manesar,"IFFCO Chowk",5,2061
+"Cyber City",ITO,5,1882.65
+Bisrakh,Ecotech,5,2716.5
+"Raj Nagar Extension","Anand Vihar Railway Station",5,1312
+"Preet Vihar","Hauz Khas",5,2179
+"Noida City Centre","Old Delhi Railway Station",5,3047.7000000000003
+"Laxmi Nagar","Green Park",5,2558.5
+"Botanical Garden","Logix Mall",5,2457
+"Huda City Centre","Greater Noida West",5,2210.5
+"Noida City Centre","Huda City Centre",5,2777.25
+"Vasant Kunj","South Extension",5,2818.55
+"Greater Noida West","Gamma 1",5,2032.7
+"Huda City Centre","Dilshad Garden",5,1598.5
+"Beta 1",Pitampura,5,3512.6
+"Beta 1","Ambience Mall",5,3211.75
+"Anand Vihar Railway Station","Cyber Hub",5,3265.85
+Rohini,"Dilshad Garden",5,1513.5
+AIIMS,"Noida Sector 18",5,1519.75
+"Rajouri Garden","Noida Sector 18",5,1947.25
+Ecotech,Vaishali,5,3121.2
+Ecotech,"Noida Sector 15",5,3499.6
+"Crossings Republik","Cyber Hub",5,2436.5
+Loni,"IGI Airport T1",5,2127.8
+"Noida Sector 37","Sector 29 Gurugram",5,2221.7
+"Wave City Center","Civil Lines",5,3026.1499999999996
+"Noida Sector 18",AIIMS,5,1478.5
+"RK Puram","Ambience Mall",5,4243.6
+"Sohna Road","Nehru Place",5,3630.2
+"Airport T3","DLF Phase 1",5,1656
+"Noida Sector 37","South Extension",5,4412.6
+"Karol Bagh","Noida Sector 37",5,8513
+Dwarka,Vaishali,5,3578.5
+INA,"Anand Vihar ISBT",5,2994
+Janakpuri,"Sector 56 Gurugram",5,2629.4
+"Anand Vihar ISBT","Sector 45 Gurugram",5,2401.2
+"Alpha 1","Kashmere Gate",5,1599.2
+"IFFCO Chowk",Ecotech,5,1909.25
+"Sarojini Nagar",Ecotech,5,2702.35
+"RK Puram","Dilshad Garden",5,1655
+"New Delhi Railway Station","Pragati Maidan",5,1629.2
+"Logix Mall","Hauz Khas",5,2286.5
+"Noida Sector 37",Surajpur,5,2408.7
+Sahibabad,Mahipalpur,5,1806.5
+"Rajouri Garden","Greater Kailash",5,2027.4
+"Pragati Maidan","Nehru Place",5,3395.75
+"Green Park",Kalkaji,5,3251.75
+"Kashmere Gate","DLF Phase 2",5,3977.2
+"DLF Phase 2","Lajpat Nagar",5,2233
+Pitampura,"Gamma 1",5,4073.5
+Kaushambi,"Malviya Nagar",5,2260.4
+"Noida Sector 76","Anand Vihar Railway Station",5,1694.7
+"DLF Phase 2",Vaishali,5,2695
+"Noida Sector 37","Noida Sector 16",5,1547
+"Beta 1","Airport T3",5,3243.8
+Vasundhara,Daryaganj,5,2756
+"Pari Chowk","Alpha 1",5,2527.5
+"Noida Sector 78","Civil Lines",5,1079.45
+"Beta 1","Greater Kailash",5,4179.5
+"Civil Lines","Nehru Place",5,1820.5
+Shahdara,"Noida Sector 62",5,2010.8
+"Noida Sector 76","Jama Masjid",5,2069
+"Sector 56 Gurugram",Surajpur,5,3133.4
+Dwarka,Vasundhara,5,2768.75
+"Yamuna Bank","Gamma 1",5,1816.6
+"Noida Sector 62",Aerocity,5,5084.75
+"DLF Phase 2","IGI Airport T1",5,2119
+Rohini,"South Extension",5,1926.45
+"Delta 1","Logix Mall",5,2331
+"Sector 56 Gurugram","Sector 45 Gurugram",5,2024.5
+"Ambience Mall","Ghaziabad Railway Station",5,2613
+Sahibabad,Aerocity,5,2491.6
+Aerocity,"Chandni Chowk",5,1593.4
+Dwarka,"Sohna Road",5,2475.5
+"Lajpat Nagar","DLF Phase 3",5,1819.4
+"Noida Sector 15","Noida City Centre",5,1731.5
+Pitampura,Rohini,5,2766
+"Mohan Nagar","Ambience Mall",5,2415.4
+Vasundhara,"Noida Sector 16",5,2940.8
+"Noida Sector 137","Wave City Center",5,2384
+"Sohna Road","Cyber Hub",5,1845.4499999999998
+Bisrakh,"Wave City Center",5,2883.25
+"Hauz Khas",Rohini,5,3052.9
+"Noida Sector 16","Sector 45 Gurugram",5,1845.3
+"Nehru Place","Anand Vihar Railway Station",5,1825.5
+"Jama Masjid",Aerocity,5,2143.65
+"Chandni Chowk","Lajpat Nagar",5,1943.75
+INA,"Gamma 1",5,2057.5
+"Udyog Vihar","Model Town",5,2434.2
+"Sector 45 Gurugram","Noida City Centre",5,1625.35
+Indirapuram,"Wave City Center",5,2737.5
+ITO,AIIMS,5,2034
+"Sector 45 Gurugram",Ecotech,5,3193.5
+"Civil Lines","Model Town",5,2716.15
+"Sarojini Nagar","Noida Sector 16",5,1970.9
+"Malviya Nagar","Nehru Place",5,2396
+"Film City Noida","Greater Noida West",5,4670.25
+"Pragati Maidan","Noida Sector 37",5,4278.1
+"Hauz Khas","South Extension",5,1692.75
+AIIMS,"Green Park",5,3391.9
+Bisrakh,"Jama Masjid",5,4002.3
+"Sector 45 Gurugram","Alpha 1",5,2575.6
+"Greater Noida West","Raj Nagar Extension",5,2241.4
+"Defence Colony","Greater Noida West",5,2951.25
+Surajpur,Seelampur,5,1691.3
+"Sarojini Nagar",Kalkaji,5,2159.2
+"Civil Lines","South Extension",5,2752.5
+"New Delhi Railway Station","DLF Phase 4",5,3038.2
+"Knowledge Park","Chandni Chowk",5,1490.4
+"Green Park","Knowledge Park",5,2585.9
+"DLF Mall of India","Sarojini Nagar",5,3949
+"Film City Noida",Rohini,5,3199.75
+"Ghaziabad Railway Station","Wave City Center",5,1683.5
+"Sector 45 Gurugram",Indirapuram,5,3623.5
+"Green Park","Beta 1",5,1141.7
+"Cyber Hub",Kalkaji,5,3367.5
+"Mayur Vihar","Laxmi Nagar",5,2438.55
+"RK Puram","Noida Sector 18",5,2994.2
+"Beta 1","Kashmere Gate",5,1484.5000000000002
+"Mohan Nagar",Vasundhara,5,3200.95
+Pitampura,"Civil Lines",5,1560
+Ecotech,"Model Town",5,2559.2
+"Dilshad Garden","Rajouri Garden",5,1699.25
+"Dilshad Garden",Janakpuri,5,2528.45
+"Sarojini Nagar",Kaushambi,5,8163.3
+Loni,Rohini,5,1872
+"Raj Nagar Extension","Connaught Place",5,2939.25
+"DLF Phase 1",Saket,5,3246
+"Connaught Place","Rajouri Garden",5,3231.25
+"Ambience Mall","Logix Mall",5,3298.05
+Ecotech,"Sector 14 Gurugram",5,2845
+"Nehru Place","Yamuna Bank",5,3455
+"Golf Course Road","Delta 1",5,2621
+"Nehru Place",ITO,5,3224.3
+"Civil Lines","Udyog Vihar",5,2233.5
+"Red Fort",Janakpuri,5,4931.3
+"Preet Vihar","Laxmi Nagar",5,3290.8
+Ecotech,"Laxmi Nagar",5,2858.05
+"South Extension","Huda City Centre",4,3407.5
+Pitampura,"Noida Sector 137",4,1393
+"Sarojini Nagar","Botanical Garden",4,2343.8
+"RK Puram","Jama Masjid",4,1009.5
+"Red Fort",Bisrakh,4,1422
+"Pragati Maidan",Janakpuri,4,2115.25
+Vasundhara,"Sohna Road",4,2137
+"Defence Colony","Golf Course Road",4,2588
+"Kashmere Gate",Dwarka,4,1869.8
+"Lajpat Nagar","Rajouri Garden",4,2817.1
+"South Extension",Sahibabad,4,2363.5
+Bisrakh,"Gamma 1",4,2379.6
+"Ghaziabad Railway Station",Manesar,4,1367
+Pitampura,"Yamuna Bank",4,2477.7
+Aerocity,Kalkaji,4,2623.75
+"Old Delhi Railway Station","DLF Phase 3",4,3130
+"Noida Sector 78","Model Town",4,2187.5
+"Beta 1","Jama Masjid",4,1945.5
+"Karol Bagh","Raj Nagar Extension",4,2579
+"Green Park","Logix Mall",4,971
+"Vasant Kunj","Noida Sector 62",4,1334
+"Noida Sector 137","Beta 1",4,2053.75
+"Noida Sector 16","DLF Phase 2",4,1819.5
+"Cyber Hub","Ambience Mall",4,1891
+Indirapuram,"DLF Phase 1",4,673.5
+"Greater Noida West","Noida Sector 76",4,2300.5
+"South Extension","Logix Mall",4,1796.1
+"Raj Nagar Extension","Kashmere Gate",4,2847
+"Greater Noida West","Mayur Vihar",4,1847
+"RK Puram","Cyber City",4,1610.6
+"Civil Lines","Vasant Kunj",4,1689.3
+Aerocity,"Ambience Mall",4,1371
+"Noida Sector 62","Beta 1",4,1818.7
+"Airport T3","Mayur Vihar",4,2658.6
+"Wave City Center","DLF Phase 2",4,2127.3
+"Knowledge Park",Kaushambi,4,1277.75
+"Gamma 1","Old Delhi Railway Station",4,2063
+"IGI Airport T1","DLF Phase 2",4,976
+Ecotech,"Sector 29 Gurugram",4,2791.5
+"Model Town","Laxmi Nagar",4,3992.75
+"South Extension",Seelampur,4,1269.5
+"DLF Phase 1","Red Fort",4,2119.05
+"Sohna Road","Dilshad Garden",4,1715.5
+"Greater Kailash","Raj Nagar Extension",4,2084.4
+Indirapuram,"Sector 29 Gurugram",4,2119
+"South Extension","DLF Phase 3",4,3703.9
+"Rajouri Garden",Dwarka,4,2237.9
+"Red Fort","Cyber Hub",4,1747.75
+"Malviya Nagar","DLF Phase 3",4,2012.7
+Kalkaji,"Sohna Road",4,1556.5
+"Laxmi Nagar","Sector 29 Gurugram",4,767.6999999999999
+Kaushambi,Rohini,4,1603
+"New Delhi Railway Station",Indirapuram,4,2218.65
+"Nehru Place",Janakpuri,4,1604.75
+"Delta 1",Kaushambi,4,1925.75
+Rohini,"Kashmere Gate",4,3282.7
+"Noida Sector 18",Dwarka,4,1279
+AIIMS,"Film City Noida",4,1583.5
+"Rajouri Garden",Loni,4,2635.2
+"Raj Nagar Extension","Noida Sector 37",4,1396.85
+"Hauz Khas","RK Puram",4,2012.5
+Saket,"Sarojini Nagar",4,2958.05
+"Mohan Nagar","Sector 45 Gurugram",4,1716.4
+"Raj Nagar Extension",Sahibabad,4,1765.5
+"Preet Vihar","Vasant Kunj",4,1868.5
+"Ambience Mall","MG Road",4,1555.75
+"Noida Sector 63","Huda City Centre",4,1986.25
+"Old Delhi Railway Station","Pari Chowk",4,1676.5
+"Mandi House","Greater Noida West",4,1730.1
+"Raj Nagar Extension","Yamuna Bank",4,2100
+Janakpuri,"Karol Bagh",4,1479.7
+"Kashmere Gate","Knowledge Park",4,2193.9
+"Greater Noida West","Nehru Place",4,2099
+"Delta 1","Pragati Maidan",4,2281.5
+"Mohan Nagar","Alpha 1",4,1707.5
+"Red Fort",Ecotech,4,3146.8
+"Sarojini Nagar","Sector 56 Gurugram",4,1936
+Bisrakh,"Defence Colony",4,1733
+"Noida Sector 62","Noida Sector 76",4,2320
+"Greater Kailash","Preet Vihar",4,1153.5
+"MG Road",Ecotech,4,1203
+"Noida Sector 15","New Delhi Railway Station",4,903.9000000000001
+"Connaught Place","Model Town",4,1737.75
+"Lajpat Nagar","Ambience Mall",4,2088.5
+ITO,"Kashmere Gate",4,1476
+"Noida City Centre","Red Fort",4,2608.5
+"Noida Sector 78","Noida Sector 137",4,-262.75
+"Noida Sector 78","IGI Airport T1",4,1169.0500000000002
+AIIMS,"Noida Sector 62",4,1419
+"Rajouri Garden","Civil Lines",4,304.5
+Saket,"Laxmi Nagar",4,1544.4
+"Noida Sector 37",Bisrakh,4,1605.25
+"Raj Nagar Extension","DLF Mall of India",4,1838.8000000000002
+"Noida Sector 137","Delta 1",4,1425.55
+Saket,Indirapuram,4,2220.6
+"Logix Mall",Rohini,4,1392.8
+"Old Delhi Railway Station",Manesar,4,2465.7
+"Green Park","Noida Sector 63",4,1704.8
+"IFFCO Chowk","Civil Lines",4,1595
+Saket,Ecotech,4,1834.6
+"Ambience Mall","Hauz Khas",4,2770.85
+"IFFCO Chowk","DLF Phase 3",4,2584.25
+Kaushambi,"Model Town",4,1625.7
+"Greater Kailash","Connaught Place",4,3021.25
+"Model Town","Civil Lines",4,1266.7
+"Botanical Garden","Noida Sector 63",4,2897.6
+"Cyber Hub","MG Road",4,1845.9
+"Noida Sector 62","Greater Noida West",4,2740.5
+"Anand Vihar ISBT","Rajouri Garden",4,1610
+"Cyber Hub","Anand Vihar ISBT",4,1963.75
+ITO,Indirapuram,4,1318.5
+ITO,"Ambience Mall",4,3572.5
+Vaishali,"Noida Sector 15",4,1359
+"IGI Airport T1",Akshardham,4,1810.25
+INA,Surajpur,4,3704
+"DLF Phase 1","Sector 14 Gurugram",4,2962
+"Noida Sector 137",Surajpur,4,2020
+"DLF Phase 4","Noida Sector 137",4,1268.5
+"Sector 29 Gurugram","Wave City Center",4,1884.5
+"Greater Noida West","DLF Phase 4",4,1987
+"Karol Bagh","Laxmi Nagar",4,1741.75
+"Ghaziabad Railway Station","Pragati Maidan",4,1652.6
+"Anand Vihar Railway Station","Sarojini Nagar",4,2664.5
+"Sector 45 Gurugram",ITO,4,2372.3
+"Noida Sector 18",ITO,4,2111.6
+AIIMS,"Delta 1",4,1717
+"Ambience Mall","Greater Noida West",4,3738.25
+"Raj Nagar Extension","Dilshad Garden",4,1534
+"Noida City Centre","RK Puram",4,2451
+"IGI Airport T1","Kashmere Gate",4,2023.9
+"Preet Vihar","Karol Bagh",4,1622.7
+"Red Fort","Mayur Vihar",4,1878.95
+"Green Park","Anand Vihar ISBT",4,1408
+"Huda City Centre","Noida Sector 37",4,1782.9
+"Mayur Vihar","Model Town",4,1835.1
+"Noida Sector 18","IGI Airport T1",4,2274.1000000000004
+"Noida Sector 37","Ambience Mall",4,1537.5
+"Nehru Place","Old Delhi Railway Station",4,1712.6
+"DLF Phase 1","Noida Sector 62",4,2258
+"Beta 1","Wave City Center",4,1399.1
+Rohini,"Malviya Nagar",4,2572.4
+"Noida Sector 18",Kalkaji,4,2027.4
+"Laxmi Nagar","Kashmere Gate",4,2991.5
+Pitampura,"Lajpat Nagar",4,2728.85
+ITO,"Nehru Place",4,1981.75
+"IGI Airport T1",Ecotech,4,1753.25
+"Greater Kailash","DLF Mall of India",4,1025
+Saket,"Sector 14 Gurugram",4,1816.8
+"DLF Phase 4","Malviya Nagar",4,1275.9
+"DLF Phase 4","Mohan Nagar",4,1555.8
+"Cyber City","Mandi House",4,1210.1
+"Udyog Vihar","Delta 1",4,2443.75
+"Udyog Vihar","Anand Vihar ISBT",4,1582
+"Yamuna Bank","Ghaziabad Railway Station",4,2751.5
+"Sohna Road",Aerocity,4,1512.05
+"Greater Noida West","Cyber City",4,2555.05
+"Pari Chowk",Vasundhara,4,2262.4
+"Hauz Khas","Sohna Road",4,2039.25
+"DLF Phase 2",INA,4,1588.25
+"Model Town","Wave City Center",4,2787.75
+"Malviya Nagar",Akshardham,4,1127.9
+"DLF Phase 3","Anand Vihar Railway Station",4,2529.7
+"Rajouri Garden",Kaushambi,4,2874
+"Noida Sector 76","DLF Phase 4",4,1786
+"DLF Mall of India",Manesar,4,3165
+Mahipalpur,"Hauz Khas",4,1978.5
+"Botanical Garden",Daryaganj,4,2324.75
+Mahipalpur,"Lajpat Nagar",4,1980.5
+"Noida Sector 37","Mayur Vihar",4,2523.6
+Bisrakh,"Golf Course Road",4,1820.9
+"Cyber Hub","Raj Nagar Extension",4,1824.3
+Vasundhara,"Delta 1",4,2076.7
+AIIMS,Ecotech,4,2712.5
+Ecotech,"Noida Sector 63",4,2628.5
+Bisrakh,"Old Delhi Railway Station",4,1768.7
+"Sector 56 Gurugram",Vasundhara,4,2604.95
+"Dilshad Garden",Aerocity,4,2448.25
+Vasundhara,"DLF Phase 4",4,1615.5
+"Nehru Place",Surajpur,4,1295.1
+"Noida City Centre",ITO,4,1819.5
+"Vasant Kunj","Anand Vihar ISBT",4,1898.25
+"Crossings Republik","Noida Sector 76",4,2334.4
+Seelampur,"Logix Mall",4,2141.3
+"Model Town","MG Road",4,3399
+"Sarojini Nagar","Sector 14 Gurugram",4,1816.4
+"DLF Phase 1","MG Road",4,1459.3
+"Sector 14 Gurugram","Sohna Road",4,1912.6
+"Knowledge Park","IGI Airport T1",4,2230.7
+"Huda City Centre","Anand Vihar Railway Station",4,1014.25
+"Pragati Maidan",AIIMS,4,2152.4
+Bisrakh,"DLF Phase 4",4,2477.1
+"Karol Bagh","Wave City Center",4,3888.5
+"Sector 29 Gurugram","Cyber City",4,2914.55
+"Model Town",Janakpuri,4,1914.5
+"Lajpat Nagar","DLF Phase 1",4,1239.75
+AIIMS,Dwarka,4,2098.5
+"Wave City Center","Sector 14 Gurugram",4,2491.7
+"Ambience Mall","Botanical Garden",4,1330.75
+Rohini,"DLF Phase 3",4,2987
+"Logix Mall",Sahibabad,4,1418.8
+"Noida Sector 16","Lajpat Nagar",4,1710
+Pitampura,"Botanical Garden",4,1042.7
+Vasundhara,"Noida Sector 15",4,1223.6
+"Connaught Place","Gamma 1",4,3149.5
+"Udyog Vihar","Dilshad Garden",4,1869
+Janakpuri,"Noida Sector 137",4,4504.45
+Saket,"Delta 1",4,3664
+"Vasant Kunj",Vasundhara,4,2411.25
+Seelampur,Janakpuri,4,2238.2
+"New Delhi Railway Station","Noida Sector 16",4,1518.6
+"Sector 14 Gurugram","Noida Sector 16",4,1416
+"Sarojini Nagar",Aerocity,4,1622.25
+ITO,Mahipalpur,4,1644.5
+"Civil Lines","New Delhi Railway Station",4,2007
+"Sarojini Nagar",Rohini,4,1766.9
+Dwarka,"Botanical Garden",4,2899
+"Noida Sector 63","Botanical Garden",4,1552.3
+"Karol Bagh","Delta 1",4,2358.8
+"Knowledge Park","Sector 45 Gurugram",4,2243.6
+"Model Town","Greater Kailash",4,2305.25
+"Lajpat Nagar","Pari Chowk",4,956.5
+"RK Puram","Model Town",4,1019.75
+"DLF Phase 1","Noida Sector 78",4,995
+"DLF Phase 2",Aerocity,4,1372
+"Film City Noida",Seelampur,4,2943.3
+"Botanical Garden","Preet Vihar",4,2843.85
+"Sarojini Nagar","Dilshad Garden",4,2093.75
+Bisrakh,"New Delhi Railway Station",4,-56.39999999999998
+"Yamuna Bank","DLF Phase 4",4,1618.8
+"Civil Lines","IGI Airport T1",4,1687
+"Noida Sector 16","Greater Noida West",4,1862
+Manesar,"Jama Masjid",4,2906.8
+"Dilshad Garden",Vasundhara,4,1898.2
+"Raj Nagar Extension","Sector 29 Gurugram",4,2300.5
+"Cyber City","Malviya Nagar",4,3387
+"Kashmere Gate","Sohna Road",4,2150.5
+"Pragati Maidan","Sector 29 Gurugram",4,1577.75
+Bisrakh,"Model Town",4,2987.35
+"Delta 1","Huda City Centre",4,5395.75
+"Delta 1","MG Road",4,2273.5
+"Chandni Chowk","Kashmere Gate",4,1246.5
+"Sector 45 Gurugram",Loni,4,2030.9
+"Pari Chowk","IGI Airport T1",4,1949
+"Sector 56 Gurugram","Nehru Place",4,1761.5
+"DLF Phase 4","Cyber Hub",4,1878.2
+Aerocity,Dwarka,4,2580
+"Malviya Nagar","Defence Colony",4,2120.5
+"Jama Masjid","Pragati Maidan",4,2092.6
+Manesar,Kaushambi,4,1816.45
+"Raj Nagar Extension","New Delhi Railway Station",4,1740.5
+"Greater Noida West","Mohan Nagar",4,2582.75
+"Gamma 1",Shahdara,4,2116
+"RK Puram","Noida Sector 76",4,2426.1
+"Yamuna Bank",Loni,4,2076.4
+"Noida Sector 16","Noida Sector 137",4,1847.3
+Seelampur,"Lajpat Nagar",4,962
+"Hauz Khas","Preet Vihar",4,1275.8
+"Rajouri Garden","Defence Colony",4,3029.25
+"Karol Bagh","DLF Phase 1",4,1838.1
+"Old Delhi Railway Station",Dwarka,4,1240.5
+"Udyog Vihar","Sarojini Nagar",4,1769.7
+"Nehru Place","Sector 45 Gurugram",4,2766
+INA,"Delta 1",4,1630.75
+"DLF Phase 2","Golf Course Road",4,1691.8
+"Raj Nagar Extension","DLF Phase 2",4,1610
+"MG Road","Noida Sector 18",4,2277.5
+"Mandi House","Ambience Mall",4,2241.5
+"New Delhi Railway Station",Vaishali,4,1273.0500000000002
+"Mohan Nagar","Anand Vihar Railway Station",4,1247.25
+Shahdara,"Golf Course Road",4,1472.7
+"Noida Sector 18","Sector 45 Gurugram",4,2233
+"New Delhi Railway Station","Film City Noida",4,2357
+Akshardham,"Laxmi Nagar",4,2546.6
+ITO,"Airport T3",4,2780.9
+ITO,"Sarojini Nagar",4,1354.1
+Pitampura,"Vasant Kunj",4,1594
+"MG Road",Dwarka,4,1395.75
+"DLF Phase 4","Logix Mall",4,1754.5
+"Beta 1","Red Fort",4,1029.8
+"Mandi House",Vasundhara,4,1789.75
+"Red Fort","DLF Phase 3",4,2210.55
+"Anand Vihar ISBT","IGI Airport T1",4,1964.75
+"Sarojini Nagar",Akshardham,4,1216.5
+"DLF Phase 3","Sector 45 Gurugram",4,2178.85
+Akshardham,"Yamuna Bank",4,2595.5
+Rohini,"DLF Phase 2",4,1021
+Sahibabad,"RK Puram",4,1644
+"Dilshad Garden",Loni,4,2327.2
+"Raj Nagar Extension","Karol Bagh",4,1982.5
+"Botanical Garden","Civil Lines",4,2406.75
+Saket,"Connaught Place",4,2114.75
+ITO,"Noida Sector 63",4,1976.4
+"Airport T3",Shahdara,4,1643.1
+"Knowledge Park","Golf Course Road",4,3103.75
+Loni,"Noida Sector 16",4,3486.25
+"Sohna Road","Ghaziabad Railway Station",4,1816.5
+"IFFCO Chowk","Yamuna Bank",4,1391.5
+"Kashmere Gate","Civil Lines",4,1587.5
+"Raj Nagar Extension",Manesar,4,638.2
+"Noida Sector 76","Golf Course Road",4,1308.6
+"Mohan Nagar","Laxmi Nagar",4,1814
+"Laxmi Nagar",Kaushambi,4,1029.7
+"New Delhi Railway Station","Beta 1",4,2211.25
+"South Extension","Noida Sector 15",4,830
+"Mandi House","Airport T3",4,2261.65
+"Anand Vihar Railway Station","Civil Lines",4,895.75
+"Golf Course Road",ITO,4,2179.5
+"Pragati Maidan","Sector 14 Gurugram",4,1358
+AIIMS,"Jama Masjid",4,3272
+"Lajpat Nagar","Crossings Republik",4,1210.9
+"Mayur Vihar","Preet Vihar",4,2471.25
+Indirapuram,"Model Town",4,1457
+"New Delhi Railway Station","Hauz Khas",4,2079.75
+"DLF Mall of India","Hauz Khas",4,1230.2
+"MG Road","South Extension",4,2517.8
+"Udyog Vihar",Indirapuram,4,1981.75
+"Defence Colony","Film City Noida",4,1367.5
+"DLF Phase 2","Airport T3",4,2136.9
+Sahibabad,"Laxmi Nagar",4,1839.9
+"Raj Nagar Extension","Golf Course Road",4,1390.7
+"Malviya Nagar","Jama Masjid",4,2345
+"Sector 45 Gurugram","Mandi House",4,1584
+Ecotech,Janakpuri,4,1609.7
+"Film City Noida","Model Town",4,1156.5
+Kalkaji,Akshardham,4,1593.35
+"Ambience Mall",Rohini,4,1936.05
+Daryaganj,INA,4,2806.5
+"Laxmi Nagar",Loni,4,3766.6
+"Defence Colony","Mohan Nagar",4,1919.8
+Ecotech,Vasundhara,4,2145.5
+Shahdara,"Pragati Maidan",4,2818.3
+"DLF Phase 4","Huda City Centre",4,2473.1
+"Ghaziabad Railway Station",Bisrakh,4,1903.1
+"Sarojini Nagar","Mandi House",4,1307.5
+"Hauz Khas",Indirapuram,4,1088.5
+"Noida Sector 76",Kalkaji,4,1370.95
+"Beta 1",Surajpur,4,2166
+AIIMS,"Airport T3",4,1869.25
+Dwarka,Aerocity,4,2089.25
+"Model Town","Greater Noida West",4,1444.5
+"Greater Noida West","Sector 56 Gurugram",4,2154.25
+Kalkaji,"IFFCO Chowk",4,2229.2
+"Ambience Mall",Kalkaji,4,1755.4
+Akshardham,"Kashmere Gate",4,1163
+Daryaganj,"Chandni Chowk",4,2062.55
+AIIMS,"Model Town",4,1786.5
+"Old Delhi Railway Station","Red Fort",4,1270.7
+"Golf Course Road","Mandi House",4,1426.7
+Shahdara,"Kashmere Gate",4,996.5999999999999
+"Noida City Centre","Logix Mall",4,2117.5
+Seelampur,"Malviya Nagar",4,2149.1
+"Vasant Kunj","Noida City Centre",4,2007.5
+Loni,"IFFCO Chowk",4,1724.6
+Seelampur,"Noida Sector 62",4,1623.8000000000002
+"Nehru Place","Greater Noida West",4,3920.75
+"Pragati Maidan","Delta 1",4,1363.6
+Janakpuri,"Red Fort",4,1633
+"Anand Vihar ISBT","Film City Noida",4,1273.65
+Kalkaji,"Yamuna Bank",4,1187
+"IFFCO Chowk",Kalkaji,4,2873.95
+"Laxmi Nagar","South Extension",4,1281.5
+Janakpuri,Pitampura,4,2897.5
+Daryaganj,"Greater Kailash",4,1436
+"Sector 56 Gurugram","Noida Sector 137",4,957.5
+"Greater Kailash","DLF Phase 2",4,1480.5
+Bisrakh,"Greater Noida West",4,2511.5
+Seelampur,"DLF Phase 2",4,1754
+"Laxmi Nagar",Sahibabad,4,1368.25
+"Connaught Place",Shahdara,4,1518.2
+"Delta 1","Sohna Road",4,1478.5
+Manesar,"Defence Colony",4,1858.4
+"Noida Sector 76","Greater Kailash",4,2420.15
+Vasundhara,"Mandi House",4,1373.4
+"IFFCO Chowk","Old Delhi Railway Station",4,2780.75
+"Laxmi Nagar","Mandi House",4,2341
+"Pragati Maidan","Noida Sector 78",4,2871.75
+"Noida Sector 78","Ambience Mall",4,2264.15
+"Greater Kailash","Udyog Vihar",4,1831.1
+"Chandni Chowk","Ghaziabad Railway Station",4,2465.75
+"Dilshad Garden","Greater Noida West",4,1904.6
+"Airport T3","MG Road",4,1672.7
+"Noida Sector 62","Cyber City",4,2051.5
+"Mohan Nagar","Ghaziabad Railway Station",4,1487.8
+"New Delhi Railway Station","Huda City Centre",4,2318.5
+Indirapuram,Dwarka,4,3202.4
+"Ghaziabad Railway Station",AIIMS,4,1176.6999999999998
+"Sector 29 Gurugram","Greater Noida West",4,1265.4
+"Golf Course Road",Pitampura,4,2150.3
+"Defence Colony","Lajpat Nagar",4,1773.9
+"Cyber Hub","Greater Noida West",4,1661
+"Udyog Vihar",Sahibabad,4,2033.25
+"Chandni Chowk","Knowledge Park",4,2108.6
+"Udyog Vihar","Botanical Garden",4,1788
+"Sohna Road","IGI Airport T1",4,2737
+"Logix Mall","Vasant Kunj",4,2227
+"South Extension","Noida City Centre",4,1439.75
+"Nehru Place","Lajpat Nagar",4,103.25
+"IFFCO Chowk","Film City Noida",4,2607.25
+"Noida Sector 15",Daryaganj,4,2103
+"Ghaziabad Railway Station","Defence Colony",4,1742.45
+"IGI Airport T1","DLF Mall of India",4,2323.75
+"Ghaziabad Railway Station","Hauz Khas",4,1937.9
+"Mayur Vihar","Alpha 1",4,1656
+"Alpha 1",Mahipalpur,4,2094.5
+"Preet Vihar","MG Road",4,1074.2
+"Karol Bagh","Red Fort",4,2491
+Seelampur,Loni,4,1250
+Bisrakh,"Botanical Garden",4,1914.55
+"Sector 56 Gurugram","Alpha 1",4,1664.9
+"Crossings Republik","IFFCO Chowk",4,1816.5
+"Anand Vihar ISBT","Raj Nagar Extension",4,2797.4
+"Golf Course Road",Indirapuram,4,1409
+"Defence Colony",Indirapuram,4,1252.4
+"Greater Kailash","DLF Phase 1",4,2485.5
+"Kashmere Gate","Airport T3",4,1628.5
+"Cyber Hub","IFFCO Chowk",4,2930.5
+Indirapuram,Daryaganj,4,1794.5
+"DLF Phase 4","Raj Nagar Extension",4,2707.5
+"Nehru Place","Sarojini Nagar",4,2316.5
+"Lajpat Nagar","Anand Vihar ISBT",4,2113
+"Cyber Hub","Hauz Khas",4,1775.95
+Surajpur,"Noida Sector 62",4,1866.6
+"Airport T3",Dwarka,4,1222.5
+"Chandni Chowk",Pitampura,4,2515.8
+"Sector 29 Gurugram",Rohini,4,1875.75
+"Hauz Khas","Noida Sector 37",4,1973
+"Noida Sector 63","Noida Sector 15",4,2403.25
+"Noida Sector 137","Greater Noida West",4,3447.5
+"Delta 1",Pitampura,4,3030.9
+Indirapuram,"Knowledge Park",4,1817
+Manesar,"Film City Noida",4,2673.5
+"Dilshad Garden",Seelampur,4,6162
+ITO,"Noida Sector 15",4,1376.75
+"Sector 29 Gurugram","Mandi House",4,1266
+"DLF Phase 1","Cyber Hub",4,852.4
+"Civil Lines","DLF Phase 4",4,1256.9
+INA,"Vasant Kunj",4,1692
+Manesar,"Sector 29 Gurugram",4,2345.25
+Sahibabad,"Yamuna Bank",4,1537.8
+"Connaught Place","Mohan Nagar",4,1185.5
+"Botanical Garden","Sector 29 Gurugram",4,2036.25
+"Lajpat Nagar","Film City Noida",4,2058.4
+"Udyog Vihar",Dwarka,4,3753
+"DLF Phase 1","Mandi House",4,2059.3
+"Vasant Kunj","Anand Vihar Railway Station",4,1196.6
+"MG Road","Noida Sector 78",4,1812
+Vasundhara,Bisrakh,4,2004.5
+"Preet Vihar","Jama Masjid",4,2194.2
+"Noida Sector 137",Rohini,4,2756.8
+"Preet Vihar","Pragati Maidan",4,2202.15
+"Malviya Nagar","Connaught Place",4,2804.9
+"Preet Vihar","Mayur Vihar",4,1920
+"MG Road","Gamma 1",4,3038
+"IFFCO Chowk","Mohan Nagar",4,1652
+"Mohan Nagar",AIIMS,4,1183
+"Film City Noida",Surajpur,4,1713
+Ecotech,Dwarka,4,2833.95
+"South Extension","Model Town",4,1904
+"Cyber City",Aerocity,4,2275
+"Huda City Centre","Noida City Centre",4,1394.5
+"Defence Colony","Gamma 1",4,1834.5
+"Defence Colony",Seelampur,4,1050.5
+"Botanical Garden","Anand Vihar Railway Station",4,1656
+"Dilshad Garden","Noida Sector 18",4,1822.8
+"MG Road",Bisrakh,4,1482
+"Old Delhi Railway Station",Janakpuri,4,1590
+Rohini,"Cyber City",4,2353.5
+"Red Fort","Chandni Chowk",4,1508.25
+Saket,Rohini,4,1219
+"Red Fort",Indirapuram,4,1421.5
+Surajpur,Rohini,4,1134.5
+Indirapuram,"Beta 1",4,902
+"DLF Mall of India","RK Puram",4,2015.6
+"Civil Lines",Bisrakh,4,1216.5
+"Dilshad Garden","Preet Vihar",4,1448.8999999999999
+"Sector 29 Gurugram","Crossings Republik",4,1459.8
+"Old Delhi Railway Station","Mayur Vihar",4,1770.5
+"Jama Masjid","DLF Phase 2",4,1782.5
+"Noida Sector 62","Vasant Kunj",4,2716
+INA,Dwarka,4,2029.5
+"Beta 1",Aerocity,4,2046.3
+Akshardham,"Sohna Road",4,1716
+"Noida Sector 137",Aerocity,4,2097.2
+Indirapuram,"Chandni Chowk",4,3087
+"Raj Nagar Extension","Beta 1",4,1682.4
+"Pari Chowk",Vaishali,4,1639.4
+"Sector 14 Gurugram",INA,4,3172.9
+"Noida Sector 37","RK Puram",4,2021
+"Greater Kailash","Gamma 1",4,1389.5
+AIIMS,"Knowledge Park",4,2816.5
+Rohini,"Udyog Vihar",4,1345.5
+"Sector 29 Gurugram","Alpha 1",4,1777.65
+"Old Delhi Railway Station",Kaushambi,4,1756
+"Noida City Centre","Sarojini Nagar",4,1876.25
+"DLF Phase 4","Gamma 1",4,1715.75
+"Alpha 1","Nehru Place",4,1952.4
+"Beta 1","South Extension",4,3103.5
+"Ghaziabad Railway Station","Cyber City",4,2560.75
+"Mandi House","DLF Phase 3",4,1272.5
+"Crossings Republik","Beta 1",4,1751.5
+Vasundhara,"Kashmere Gate",4,2833.1
+"Noida Sector 18","Raj Nagar Extension",4,1261.25
+"Malviya Nagar","Noida Sector 62",4,3725.75
+"Beta 1","Cyber City",4,1261.85
+"Malviya Nagar","Sarojini Nagar",4,1634
+"Malviya Nagar",AIIMS,4,1246.5
+Mahipalpur,Ecotech,4,1385.4
+Bisrakh,"Noida Sector 18",4,1455.5
+"Defence Colony","Preet Vihar",4,2587.5
+"DLF Phase 2",Dwarka,4,2084.45
+"DLF Phase 4","Sector 29 Gurugram",4,1276
+INA,"Knowledge Park",4,2270.5
+"Hauz Khas","Greater Noida West",4,1852.25
+"IFFCO Chowk","Malviya Nagar",4,2607.2
+"Gamma 1","Malviya Nagar",4,2557.6
+Indirapuram,"Green Park",4,2144.75
+"Ghaziabad Railway Station","Sohna Road",4,1156.5
+"Anand Vihar ISBT","Model Town",4,2195
+"Noida Sector 76","Preet Vihar",4,1936
+"Civil Lines","Dilshad Garden",4,2792.75
+Akshardham,"Cyber Hub",4,1348.2
+"DLF Phase 3",Shahdara,4,1885.75
+Manesar,"Noida Sector 18",4,2536
+Mahipalpur,Shahdara,4,1370
+"Greater Noida West","Civil Lines",4,1849.9
+"Golf Course Road","Airport T3",4,3552.25
+"Connaught Place","Sarojini Nagar",4,2485.65
+Janakpuri,"Noida Sector 15",4,1536
+"South Extension","Film City Noida",4,2691
+"Greater Kailash","Noida Sector 76",4,1444.25
+"Model Town","Jama Masjid",4,842.3
+"Noida Sector 62",ITO,4,1352.5
+"Preet Vihar","Delta 1",4,2278.5
+Shahdara,Mahipalpur,4,1725.25
+"Pragati Maidan","Noida Sector 18",4,2030.6
+Seelampur,"Jama Masjid",4,830.25
+"Vasant Kunj","Greater Kailash",4,2203.2
+"Delta 1","Noida City Centre",4,923.2
+Vasundhara,Kalkaji,4,2320.75
+"Model Town","New Delhi Railway Station",4,1996
+"Crossings Republik","Raj Nagar Extension",4,2358.55
+"Mayur Vihar","Nehru Place",4,1907.5
+"RK Puram","DLF Phase 4",4,2606
+Kalkaji,Loni,4,2097
+"Logix Mall","Noida Sector 18",4,982.7
+"Mandi House","Green Park",4,1482.5
+Vaishali,"DLF Phase 1",4,6118.2
+Akshardham,"Model Town",4,1965.25
+Indirapuram,"MG Road",4,1804.75
+"Malviya Nagar",Saket,4,4409
+"DLF Phase 2","Greater Kailash",4,1815.1
+"Gamma 1","IFFCO Chowk",4,2770.75
+"Knowledge Park","MG Road",4,3496.4
+Seelampur,"Airport T3",4,2004.45
+"Noida Sector 18","Defence Colony",4,1954
+"Red Fort","Old Delhi Railway Station",4,2251.5
+"Jama Masjid","Alpha 1",4,1739.7
+Aerocity,"Noida Sector 16",4,2225.75
+"Film City Noida","Udyog Vihar",4,1805
+"Noida City Centre","Chandni Chowk",4,2419.95
+"Ambience Mall",Indirapuram,4,1193.75
+"DLF Phase 2","Noida Sector 37",4,2178
+"Noida City Centre","Sector 56 Gurugram",4,1549.8
+"Noida Sector 15",Aerocity,4,1518.5
+"Laxmi Nagar","Sohna Road",4,2368.3
+Bisrakh,"Lajpat Nagar",4,2763.5
+"DLF Phase 3","Beta 1",4,2518.6
+"Noida Sector 37","Connaught Place",4,1809.85
+INA,"Film City Noida",4,2342.25
+Kalkaji,"Greater Kailash",4,2352.8
+"Mohan Nagar","Noida Sector 76",4,1746.5
+"Chandni Chowk","Sector 45 Gurugram",4,2943.45
+"DLF Mall of India","Laxmi Nagar",4,1753.9
+"Yamuna Bank","Cyber City",4,3000
+INA,"Sector 45 Gurugram",4,2745
+"Karol Bagh","Cyber City",4,2217
+"Sector 45 Gurugram","DLF Phase 4",4,918.5
+"IGI Airport T1",Surajpur,4,1573.5
+"DLF Mall of India",Daryaganj,4,1259.55
+"Anand Vihar ISBT","New Delhi Railway Station",4,2037.25
+"IGI Airport T1","Noida Sector 37",4,2875.5
+"Defence Colony","Anand Vihar ISBT",4,2147.5
+"Model Town",INA,4,1635.75
+"Huda City Centre",Mahipalpur,4,2083.7
+"Anand Vihar Railway Station","Lajpat Nagar",4,2300.5
+"DLF Phase 1","Vasant Kunj",4,1597.9
+Manesar,"Alpha 1",4,2288.2
+Dwarka,"Airport T3",4,1859.3
+"Noida Sector 37","DLF Mall of India",4,1173.5
+"Noida Sector 37","Cyber Hub",4,1417.9
+"Connaught Place","Delta 1",4,1732.25
+Vaishali,"Gamma 1",4,2094.6
+Manesar,Bisrakh,4,2080.5
+"Chandni Chowk","IFFCO Chowk",4,1118.5
+"Yamuna Bank",Mahipalpur,4,2196
+Kalkaji,"DLF Phase 3",4,2023.5
+"Laxmi Nagar","Udyog Vihar",4,2279.05
+"Ghaziabad Railway Station","Noida Sector 18",4,2997.5
+"Sarojini Nagar","Sohna Road",4,2202.05
+Saket,"Nehru Place",4,1212.35
+"Film City Noida","IFFCO Chowk",4,1819.8
+"Mohan Nagar",Surajpur,4,4386.15
+Saket,"Hauz Khas",4,1899.75
+"Defence Colony","Green Park",4,1273.8000000000002
+"Pragati Maidan","RK Puram",4,1491.5
+"Connaught Place","Noida Sector 15",4,2034
+"Connaught Place","Sector 14 Gurugram",4,1418.5
+"Defence Colony","DLF Phase 2",4,1130.55
+"Airport T3","Connaught Place",4,2298.1
+"Ghaziabad Railway Station",Ecotech,4,2229.35
+Akshardham,"Alpha 1",4,1545.6
+"Noida Sector 16",Surajpur,4,1721.1
+"Preet Vihar","Civil Lines",4,1046.4
+Saket,Loni,4,1376.8
+"Connaught Place","Green Park",4,1259.6
+Ecotech,"Noida Sector 37",4,1484.9
+"Pragati Maidan","Anand Vihar ISBT",4,1747.25
+"Noida Sector 78","Wave City Center",4,2029.5
+"Connaught Place",Kalkaji,4,3353
+"MG Road","Rajouri Garden",4,2346
+"Jama Masjid","Mayur Vihar",4,628
+"Rajouri Garden","Nehru Place",4,1372.5
+Ecotech,Aerocity,4,2713.05
+"Anand Vihar Railway Station","Karol Bagh",4,1416
+Vaishali,"Defence Colony",4,1788.1
+Kaushambi,"DLF Phase 4",4,2208.85
+"Karol Bagh","Noida Sector 16",4,1731.5
+"Noida Sector 37",Shahdara,4,1513
+"Botanical Garden","Ambience Mall",4,2296.2
+Seelampur,ITO,4,1700
+"Wave City Center","Mayur Vihar",4,2276.6
+"Yamuna Bank","Noida Sector 16",4,2055.5
+"Sector 14 Gurugram","Mohan Nagar",4,2371.75
+"Defence Colony",Aerocity,4,1170.7
+ITO,Vasundhara,4,2854.1
+"Noida Sector 137","Vasant Kunj",4,1436.5
+"Noida City Centre","Noida Sector 63",4,1973
+Dwarka,"Mayur Vihar",4,1677.2
+"Cyber City","RK Puram",4,261.6
+Shahdara,"Anand Vihar Railway Station",4,1965
+"Sarojini Nagar","Red Fort",4,4251
+"Noida Sector 18","Delta 1",4,1992
+"Huda City Centre","Vasant Kunj",4,1608.5
+"Red Fort","Delta 1",4,2836.5
+ITO,Kalkaji,4,2333.7
+"Mayur Vihar",Bisrakh,4,2376.5
+"DLF Phase 4","Cyber City",4,1878
+"Vasant Kunj","Gamma 1",4,1208.6
+"Jama Masjid","Green Park",4,495.5
+"Greater Kailash","Crossings Republik",4,2390.5
+"MG Road","Golf Course Road",4,2190.1
+"Sector 14 Gurugram","Sector 56 Gurugram",4,1779
+"Yamuna Bank","Noida Sector 18",4,1933.3
+"Knowledge Park","Noida Sector 63",4,4616.5
+"Cyber Hub","Chandni Chowk",4,1199.5
+"Crossings Republik","DLF Mall of India",4,2418.65
+"Yamuna Bank",Daryaganj,4,1438
+"Karol Bagh",Manesar,4,2725
+"DLF Mall of India",Loni,4,2197.5
+"Yamuna Bank","Noida Sector 76",4,1945.15
+Mahipalpur,"Airport T3",4,2254.25
+ITO,Saket,4,2354.25
+Vasundhara,"Noida Sector 76",4,938.2
+"DLF Mall of India","Mandi House",4,2262.5
+"Rajouri Garden","Anand Vihar Railway Station",4,2562.9
+Kaushambi,"Noida Sector 15",4,1614.9
+"Laxmi Nagar","Defence Colony",4,665.35
+Seelampur,Akshardham,4,1638.5
+"New Delhi Railway Station","Noida Sector 18",4,1357.75
+"Hauz Khas",AIIMS,4,2294
+"Greater Kailash",Kaushambi,4,1238.9
+"Mohan Nagar","Beta 1",4,2707.7
+Seelampur,"Nehru Place",4,2152.4
+"Noida Sector 76",Aerocity,4,1309.1999999999998
+"Sarojini Nagar",INA,4,1390.75
+"Udyog Vihar","Mohan Nagar",4,2398.1
+"Connaught Place",Vaishali,4,2387
+"Mandi House",Akshardham,4,1113.45
+"Gamma 1",Seelampur,4,2176
+Janakpuri,INA,4,1403
+"Noida Sector 37","Cyber City",4,1726.5
+"Malviya Nagar","Kashmere Gate",4,1928
+"Delta 1","Sarojini Nagar",4,2102
+"Green Park","Sector 45 Gurugram",4,2890.65
+"Gamma 1",Manesar,4,1809.4
+"MG Road","Lajpat Nagar",4,1658.3
+"Cyber Hub","Greater Kailash",4,2366.85
+"IGI Airport T1",Vasundhara,4,1004.9
+Loni,"Preet Vihar",4,1425.5
+"Anand Vihar Railway Station","Hauz Khas",4,1726.5
+"Rajouri Garden","Noida Sector 137",4,1883
+Surajpur,"Yamuna Bank",4,2627.5
+"Yamuna Bank","Mayur Vihar",4,2353.1
+"Noida Sector 62",Bisrakh,4,2071
+Loni,Seelampur,4,1617.1
+Pitampura,"Sector 56 Gurugram",4,1419
+Surajpur,"Greater Noida West",4,1450.75
+Vasundhara,"Lajpat Nagar",4,1714.25
+Saket,"Huda City Centre",4,2152
+"Connaught Place","Alpha 1",4,990
+Mahipalpur,"Connaught Place",4,1718.3
+Daryaganj,Ecotech,4,3151
+"Greater Noida West","Sarojini Nagar",4,2657
+"Noida Sector 16","Jama Masjid",4,3023.75
+"Sector 14 Gurugram","Film City Noida",4,1611.5
+"Crossings Republik",Akshardham,4,3012
+Pitampura,Saket,4,3220.25
+"Anand Vihar ISBT","MG Road",4,1881
+"Mandi House","Noida Sector 76",4,1659.4
+"Greater Noida West","Noida Sector 37",4,1008.7
+"Anand Vihar Railway Station","Wave City Center",4,295.6
+"Nehru Place","Gamma 1",4,2320.5
+"Old Delhi Railway Station","Ambience Mall",4,2122.8
+"Pragati Maidan","Film City Noida",4,1259.1
+"Mohan Nagar","Greater Noida West",4,1884.5
+"DLF Phase 2","IFFCO Chowk",4,914.5
+"Delta 1","Noida Sector 137",4,2686.9
+INA,"Wave City Center",4,1596
+"Dilshad Garden","Sarojini Nagar",4,2811.75
+"Noida Sector 63","DLF Mall of India",4,1554.35
+"Greater Noida West","Wave City Center",4,2142.5
+"DLF Mall of India","Noida Sector 78",4,1884.25
+"RK Puram","Greater Noida West",4,1792.5
+"Cyber City","Noida Sector 37",4,1445.65
+Sahibabad,Rohini,4,1216.7
+"Noida Sector 137","Chandni Chowk",4,1951.7
+Kalkaji,"Golf Course Road",4,1772.25
+Vasundhara,"Vasant Kunj",4,2181
+"Noida Sector 62","Rajouri Garden",4,1535
+Vasundhara,"Chandni Chowk",4,1521.5
+Manesar,ITO,4,3040
+"Noida Sector 16","Chandni Chowk",4,1434.3
+"RK Puram",Vasundhara,4,2350.5
+Dwarka,"Noida Sector 62",4,1260.4
+"Kashmere Gate",Vaishali,4,1521
+"Sarojini Nagar",Sahibabad,4,2128.2
+"Udyog Vihar","Nehru Place",4,3232.75
+"Old Delhi Railway Station","Huda City Centre",4,1721.25
+"RK Puram",Janakpuri,4,1875
+Sahibabad,"Cyber Hub",4,1214.5
+"Wave City Center","South Extension",4,1525.2
+"Logix Mall","Red Fort",4,2048
+"Noida City Centre","Noida Sector 78",4,1404
+"Green Park","Greater Kailash",4,2438.2
+"Laxmi Nagar","Huda City Centre",4,3711
+"Mayur Vihar",Kalkaji,4,1781
+"Sarojini Nagar",Surajpur,4,1347.9
+Shahdara,"Lajpat Nagar",4,1783.65
+"Anand Vihar Railway Station","South Extension",4,1607
+"Pari Chowk","Noida Sector 15",4,1576.3
+"Sector 45 Gurugram","Malviya Nagar",4,2741.8
+"Kashmere Gate","Greater Kailash",4,2680.5
+"Ambience Mall","Huda City Centre",4,1506.4
+"Connaught Place","Lajpat Nagar",4,2756.45
+"Mohan Nagar",Vaishali,4,1615.7
+"Cyber Hub",Sahibabad,4,2052.5
+Aerocity,"Golf Course Road",4,2551.7
+"Pari Chowk","Nehru Place",4,1088.3
+Saket,"Noida City Centre",4,2505.2
+Janakpuri,Dwarka,4,1875
+"Logix Mall","DLF Phase 4",4,1803
+Daryaganj,"Mandi House",4,1895.15
+"DLF Mall of India","Chandni Chowk",4,2589.5
+"Noida Sector 15","Sector 45 Gurugram",4,2159.75
+Kalkaji,"Pragati Maidan",4,1708.9
+"New Delhi Railway Station","Sector 56 Gurugram",4,2131.25
+Manesar,Shahdara,4,2265.5
+Vaishali,"IGI Airport T1",4,1156.3
+"DLF Mall of India","Mayur Vihar",4,1110
+"Anand Vihar ISBT","Udyog Vihar",4,4762.6
+Shahdara,"IFFCO Chowk",4,1130.6
+"Sector 45 Gurugram",Akshardham,4,2533.4
+"Noida Sector 137","Connaught Place",4,1393.25
+Manesar,"Yamuna Bank",4,2614.25
+Vasundhara,Rohini,4,1956.5
+Rohini,"Noida Sector 78",4,1643.6
+"Cyber City","IFFCO Chowk",4,2348
+"Noida Sector 76","Mohan Nagar",4,1816
+"Mohan Nagar","Sector 14 Gurugram",4,1482
+"RK Puram","Noida Sector 37",4,1100
+"Mohan Nagar",Kalkaji,4,3322
+"DLF Phase 1",Shahdara,4,1012.9000000000001
+Mahipalpur,"Pari Chowk",4,2490.3
+Akshardham,Dwarka,4,991
+"Mayur Vihar","DLF Phase 3",4,2435.25
+"Udyog Vihar",Saket,4,2288.5
+"Mandi House","Jama Masjid",4,2570.5
+"Green Park",Aerocity,4,1435.2
+"Hauz Khas","Old Delhi Railway Station",4,2403.8
+"Connaught Place","Red Fort",4,1592.5
+Rohini,"Noida Sector 62",4,1168.95
+"Ambience Mall","Airport T3",4,1967.4
+"Mohan Nagar",Saket,4,1804.3
+Loni,"Anand Vihar Railway Station",4,1922
+"Beta 1","Pari Chowk",4,1561.25
+"Logix Mall","IFFCO Chowk",4,1371.9
+"Nehru Place","Rajouri Garden",4,1144.75
+"Nehru Place","Beta 1",4,971
+Dwarka,"Malviya Nagar",4,3018.95
+"Pari Chowk",Sahibabad,4,1999.2
+"Raj Nagar Extension","Laxmi Nagar",4,1437
+Dwarka,"Huda City Centre",4,2243.4
+"Civil Lines","Malviya Nagar",4,1541
+"Ghaziabad Railway Station","DLF Phase 3",4,2056.25
+"Yamuna Bank","Sohna Road",4,1866.3
+Kaushambi,"Sector 29 Gurugram",4,1936.5
+"Noida Sector 16",Rohini,4,2620.4
+"Kashmere Gate",Janakpuri,4,2654.25
+"Malviya Nagar","Laxmi Nagar",4,2895.25
+"Noida Sector 15","Noida Sector 62",4,1503.25
+"Gamma 1",ITO,4,2970.15
+"DLF Phase 3",Vaishali,4,1640
+"Huda City Centre","Wave City Center",4,2337.5
+Vaishali,"Model Town",4,1772
+"Sector 45 Gurugram","Karol Bagh",4,1641
+"Gamma 1","Pari Chowk",4,2262.75
+"Red Fort","Film City Noida",4,1820
+"Connaught Place","Golf Course Road",4,1724.6
+Loni,"Mayur Vihar",4,2182.5
+Vaishali,"Noida Sector 137",4,1629.5
+"Yamuna Bank","Noida Sector 37",4,2459.2
+Daryaganj,"Connaught Place",4,2379.5
+Aerocity,"DLF Mall of India",4,1975.75
+Mahipalpur,Aerocity,4,1972.15
+Bisrakh,"Pari Chowk",4,2256.55
+Rohini,"Noida City Centre",4,2454.9
+"IFFCO Chowk","Anand Vihar ISBT",4,2349.5
+Ecotech,Kaushambi,4,1297.4
+"Knowledge Park","Wave City Center",4,1699.2
+Saket,"DLF Mall of India",4,1173
+AIIMS,"Kashmere Gate",4,3528.5
+"Noida Sector 18","Noida Sector 62",4,1854.5
+Indirapuram,"Pari Chowk",4,1919
+"Noida Sector 18","Noida Sector 76",4,2020.25
+AIIMS,"Mohan Nagar",4,1315.2
+"Hauz Khas","Mayur Vihar",4,1329.75
+Shahdara,"Sector 29 Gurugram",4,1565.5
+"Ambience Mall","Green Park",4,2588.6
+Vaishali,Ecotech,4,2205.75
+"Greater Kailash",Indirapuram,4,2041.5
+"MG Road","Dilshad Garden",4,1510.5
+"Nehru Place","Mayur Vihar",4,1268.6
+"Sector 29 Gurugram","Preet Vihar",4,2182.6
+"Dilshad Garden","Cyber City",4,1742
+"MG Road","Noida Sector 15",4,2101.75
+"Jama Masjid","Chandni Chowk",4,1661
+"New Delhi Railway Station","Karol Bagh",4,1710.8
+Kalkaji,"Dilshad Garden",4,1434.5
+"Pari Chowk",Daryaganj,4,2446
+"Beta 1","Delta 1",4,1892.2
+"Gamma 1","RK Puram",4,2362.2000000000003
+"Raj Nagar Extension","Old Delhi Railway Station",4,1031.5
+"Connaught Place","Mayur Vihar",4,1914.2
+Shahdara,"Vasant Kunj",4,2113.25
+"RK Puram","Vasant Kunj",4,1658.1
+"Noida Sector 15",Pitampura,4,1556.5
+"Delta 1","Ambience Mall",4,1071.45
+"Lajpat Nagar","Knowledge Park",4,2055.2
+"Mayur Vihar","Noida Sector 63",4,3015.95
+"DLF Phase 2",Vasundhara,4,1748.2
+"Logix Mall","Botanical Garden",4,1306.6
+"DLF Phase 3",INA,4,1623.5
+"Delta 1","DLF Phase 1",4,3171
+"Preet Vihar","Ghaziabad Railway Station",4,2383.45
+"Greater Kailash",Kalkaji,4,1838.15
+"Green Park","Red Fort",4,1656
+"Sarojini Nagar","DLF Mall of India",4,1560.75
+"Ambience Mall",Manesar,4,1405.85
+"DLF Phase 3","Noida Sector 16",4,2063.5
+Vaishali,Kalkaji,4,1199.25
+Daryaganj,"DLF Phase 4",4,2391.25
+Janakpuri,"Airport T3",4,3054
+"Red Fort",Dwarka,4,2338.65
+"Hauz Khas",Akshardham,4,2178.65
+"DLF Phase 3","Noida Sector 62",4,1479.5
+"Botanical Garden","Noida Sector 78",4,2206.6
+"Noida Sector 76","Raj Nagar Extension",4,1909.25
+ITO,"Cyber City",4,1682.7
+"Alpha 1","Udyog Vihar",4,1238
+"Huda City Centre","Mohan Nagar",4,1301.25
+"Airport T3","Gamma 1",4,1751
+"DLF Phase 4","Laxmi Nagar",4,1791
+"Hauz Khas","Wave City Center",4,2264
+Sahibabad,"Noida Sector 62",4,2148.5
+"Noida Sector 37","Ghaziabad Railway Station",4,1325.25
+Aerocity,"Anand Vihar ISBT",4,2969.25
+Dwarka,"IGI Airport T1",4,3400.25
+"Mayur Vihar","Sarojini Nagar",4,1364
+"Noida City Centre",Seelampur,4,1297
+"Noida Sector 76","Sarojini Nagar",4,1900.75
+"Red Fort","Noida Sector 18",4,1054.3
+"Raj Nagar Extension","Noida Sector 15",4,2763.5
+"Sohna Road","Noida Sector 62",4,1318
+"Noida Sector 18","Gamma 1",4,2873.5
+"Rajouri Garden","Knowledge Park",4,2102.75
+"MG Road","DLF Phase 4",4,2338.1
+"Mandi House",ITO,4,1535.5
+"Botanical Garden","Mayur Vihar",4,2805
+"Mayur Vihar",Seelampur,4,1614.15
+"Green Park","Mandi House",4,1593.4
+AIIMS,"Preet Vihar",4,1074
+"Huda City Centre","Yamuna Bank",4,2147.5
+"Golf Course Road","Sector 29 Gurugram",4,1447.5
+"Gamma 1","Chandni Chowk",4,1605
+Sahibabad,"Old Delhi Railway Station",4,2169.2
+"Greater Noida West",Kalkaji,4,1979.7
+"Ghaziabad Railway Station","Sector 45 Gurugram",4,3092.5
+Surajpur,"Delta 1",4,2540.5
+"Anand Vihar ISBT",Surajpur,4,1945.5
+Seelampur,"DLF Phase 4",4,1223
+AIIMS,"Raj Nagar Extension",4,1603.6
+INA,"Raj Nagar Extension",4,1888.9
+"Kashmere Gate",Surajpur,4,1208.5
+"Film City Noida","IGI Airport T1",4,1484.75
+"Malviya Nagar","Green Park",4,1185.3
+"Noida Sector 137","Lajpat Nagar",4,2065.5
+"Sector 14 Gurugram","Noida Sector 37",4,1901.5
+"Pragati Maidan","South Extension",4,1537.5
+"MG Road","Mandi House",4,1333.75
+"Mandi House","Noida Sector 37",4,924.5999999999999
+"Lajpat Nagar","RK Puram",4,2035.5
+INA,"Noida Sector 76",4,1610.7
+"Alpha 1",Seelampur,4,1494
+"Logix Mall",Loni,4,2340.75
+"Noida City Centre","Dilshad Garden",4,2801.5
+"Connaught Place","Dilshad Garden",4,1367
+"Mohan Nagar",Seelampur,4,3846.25
+"MG Road","IGI Airport T1",4,3220.6
+"Ambience Mall","Preet Vihar",4,1871
+"IFFCO Chowk","Greater Noida West",4,2827.35
+"Red Fort","Gamma 1",4,960.7
+"Botanical Garden","Golf Course Road",4,1819.85
+Kaushambi,"Kashmere Gate",4,2079.75
+"Alpha 1",Dwarka,4,2993.5
+"New Delhi Railway Station","RK Puram",4,2492.5
+"Model Town","DLF Phase 4",4,1374.5
+"IGI Airport T1","Huda City Centre",4,2266
+Kaushambi,"MG Road",4,1330.25
+"South Extension","Kashmere Gate",4,1850.1
+"Film City Noida",Manesar,4,2148.5
+"Preet Vihar","Yamuna Bank",4,2441.35
+"Noida Sector 63","Pragati Maidan",4,1761.75
+"Anand Vihar ISBT","Noida Sector 15",4,1583.3
+"Lajpat Nagar","IGI Airport T1",4,1938.5
+"Logix Mall","Anand Vihar ISBT",4,3706.5
+Akshardham,Pitampura,4,2317.75
+"Logix Mall","South Extension",4,2565.75
+"Old Delhi Railway Station","DLF Mall of India",4,2109
+"Mayur Vihar","Noida Sector 76",4,1231.5
+"Defence Colony",Saket,4,1811
+"Knowledge Park",INA,4,1375.7
+Manesar,"Raj Nagar Extension",4,1454.3
+"Gamma 1","Noida Sector 62",4,2093.5
+Dwarka,"Karol Bagh",4,1125.75
+Janakpuri,"Noida Sector 62",4,2968.1499999999996
+Sahibabad,Pitampura,4,2336
+"Mayur Vihar","Dilshad Garden",4,1751
+"Noida Sector 76","Green Park",4,2497.25
+"South Extension","Preet Vihar",4,1595.4
+"Raj Nagar Extension","Jama Masjid",4,1366.25
+"IFFCO Chowk","Botanical Garden",4,1309.5
+Dwarka,"Anand Vihar ISBT",4,1993.7
+"South Extension",Loni,4,2100.5
+"Red Fort",Akshardham,4,1238.5
+"Malviya Nagar","DLF Mall of India",4,2226.4
+"Greater Kailash","Sector 14 Gurugram",4,1693.55
+Shahdara,"South Extension",4,2696.75
+"Jama Masjid","Botanical Garden",4,1371.4
+"Jama Masjid","MG Road",4,1931.5
+Aerocity,"Cyber Hub",4,2113.5
+"Pari Chowk","Sector 56 Gurugram",4,2303.7999999999997
+"Udyog Vihar","Sector 29 Gurugram",4,1393.5
+"Delta 1",AIIMS,4,1448.1
+"Noida Sector 16","Noida City Centre",4,2121
+"South Extension","Red Fort",4,2163.5
+"Noida Sector 137","Ambience Mall",4,1698.6
+"Mandi House",Kaushambi,4,1125.5
+"Logix Mall","Dilshad Garden",4,1598.25
+"Beta 1","Anand Vihar Railway Station",4,1945
+"Noida Sector 78","Noida Sector 63",4,3129.05
+"Sector 14 Gurugram","Rajouri Garden",4,1808
+"Red Fort","Huda City Centre",4,1019.75
+"DLF Phase 2","Green Park",4,1456.5
+Sahibabad,"Ambience Mall",4,1850.5
+"Crossings Republik",Bisrakh,4,2344.4
+"Cyber City",Dwarka,4,1780
+Dwarka,"Dilshad Garden",4,1552.9
+"New Delhi Railway Station","Knowledge Park",4,2380
+AIIMS,"Chandni Chowk",4,1282.25
+Janakpuri,Ecotech,4,2458.8
+Mahipalpur,"Noida Sector 137",4,1614.25
+"Cyber City","Vasant Kunj",4,1243.4
+Vaishali,"Laxmi Nagar",4,1895.8
+Rohini,"Ghaziabad Railway Station",4,2594
+"Yamuna Bank","Karol Bagh",4,2120.5
+INA,Vaishali,4,1984.25
+"Mohan Nagar","Cyber City",4,1802
+"Sohna Road","DLF Phase 1",4,1196.5
+"Hauz Khas","Cyber City",4,1792.8
+"Pragati Maidan",Rohini,4,2246.6
+"Delta 1",Manesar,4,3160.5
+"IFFCO Chowk","Wave City Center",4,2115.2
+Aerocity,"Noida Sector 78",4,1617.5
+"New Delhi Railway Station",Mahipalpur,4,2552.7
+"Sector 45 Gurugram","DLF Mall of India",4,2513.2
+Sahibabad,"Noida City Centre",4,1979.2
+"DLF Phase 2","Mayur Vihar",4,1889.2
+"Dilshad Garden","Karol Bagh",4,1042
+Manesar,"Crossings Republik",4,1382
+"Connaught Place",Sahibabad,4,2769
+Manesar,Janakpuri,4,2713.6
+"Raj Nagar Extension","Mandi House",4,933.8
+"Jama Masjid",Rohini,4,1716
+"DLF Phase 2","DLF Mall of India",4,1623.9
+"Golf Course Road",Rohini,4,1917.65
+"Udyog Vihar",AIIMS,4,1986.2
+"Gamma 1",Ecotech,4,582.9
+Vasundhara,"Noida Sector 63",4,1768.5
+Vaishali,"Knowledge Park",4,2924
+"Cyber City","Connaught Place",4,2232.5
+Loni,Janakpuri,4,1948
+"Defence Colony","Raj Nagar Extension",4,712.25
+"Crossings Republik","Mohan Nagar",4,874.9000000000001
+"Model Town",Shahdara,4,2351.8
+"Pragati Maidan",Dwarka,4,837.5
+"Noida Sector 137",ITO,4,3046
+"Vasant Kunj",Sahibabad,4,1906.9
+"IFFCO Chowk","DLF Mall of India",4,1963.25
+"Vasant Kunj","Noida Sector 16",4,2405.5
+ITO,"Noida Sector 62",4,2223.9
+"Chandni Chowk","Mandi House",4,4548
+"Civil Lines","Crossings Republik",4,2165.6
+Loni,"Lajpat Nagar",4,1476.3
+"Laxmi Nagar","Karol Bagh",4,2917.75
+"Vasant Kunj","Noida Sector 137",4,1425.25
+Vasundhara,"Film City Noida",4,1999.2
+"DLF Phase 1","Noida City Centre",4,2614.3
+"South Extension","Alpha 1",4,1895.8
+"Old Delhi Railway Station","Film City Noida",4,1407.2
+Akshardham,"Chandni Chowk",4,1818.75
+"Rajouri Garden",Pitampura,4,2396
+"Cyber City",Pitampura,4,1893.25
+"Anand Vihar Railway Station","DLF Mall of India",4,1678.25
+"Kashmere Gate",Sahibabad,4,3065.4
+"DLF Mall of India",Saket,4,2690.75
+"Sector 45 Gurugram","Noida Sector 15",4,1709.45
+"DLF Phase 3","Noida Sector 137",4,3102.1
+"DLF Phase 4","IFFCO Chowk",4,1367.65
+"Rajouri Garden","Vasant Kunj",4,1738.9
+"Anand Vihar ISBT",AIIMS,4,782
+"Pragati Maidan",Ecotech,4,1901
+Surajpur,"Old Delhi Railway Station",4,3019.6
+"Defence Colony","Dilshad Garden",4,2469
+"Pragati Maidan",Saket,4,2200.5
+"Jama Masjid","Karol Bagh",4,2041
+"Delta 1","DLF Phase 4",4,1956.9
+"Connaught Place",ITO,4,1517.5
+"Jama Masjid","Defence Colony",4,1736.5
+"Sector 29 Gurugram","New Delhi Railway Station",4,1905.15
+ITO,"Sector 56 Gurugram",4,1911.9
+"Knowledge Park","New Delhi Railway Station",4,1884.55
+"DLF Phase 4","Ghaziabad Railway Station",4,2812.5
+"Huda City Centre","Sohna Road",4,2331.75
+Seelampur,"IGI Airport T1",4,2778.45
+"Noida Sector 15",ITO,4,3508.5
+"Noida City Centre","Udyog Vihar",4,1214
+"Golf Course Road",Daryaganj,4,1461.5
+"Old Delhi Railway Station",AIIMS,4,2059.5
+"Sarojini Nagar",Vaishali,4,3775.5
+"Sector 56 Gurugram","Knowledge Park",4,1986.9
+"Delta 1",Loni,4,2100
+"Red Fort","Pari Chowk",4,2162.5
+"Noida Sector 78",Manesar,4,1931.5
+Seelampur,"Sector 56 Gurugram",4,2292
+"Raj Nagar Extension","Noida Sector 16",4,2406.6
+"Lajpat Nagar",Pitampura,4,3031.5
+"Beta 1",Loni,4,1555.5
+"Knowledge Park","Sohna Road",4,1993.2
+"Huda City Centre",Rohini,4,1925.1
+Pitampura,Daryaganj,4,2675.25
+Rohini,"Civil Lines",4,2300.75
+"Noida Sector 63",Surajpur,4,-263
+"Anand Vihar Railway Station","Raj Nagar Extension",4,2216.1
+"Green Park",Akshardham,4,2363.65
+"DLF Phase 3","Alpha 1",4,2832.4
+Daryaganj,"Defence Colony",4,1778.5
+"Civil Lines","IFFCO Chowk",4,2983.3
+"Pragati Maidan","Old Delhi Railway Station",4,2286.5
+"Connaught Place","Airport T3",4,1535.5
+"Vasant Kunj","DLF Phase 3",4,1795.75
+"Anand Vihar Railway Station",Ecotech,4,2516.75
+Kalkaji,"Sarojini Nagar",4,1526.2
+"DLF Phase 3","Defence Colony",4,662.2
+"Knowledge Park",Ecotech,4,1734.2
+"Sarojini Nagar","Alpha 1",4,2098
+"Dilshad Garden","Hauz Khas",4,1991.6
+"Greater Noida West","Jama Masjid",4,2438.5
+"Model Town","Noida Sector 37",4,1720.15
+"Raj Nagar Extension","RK Puram",4,1070
+"Civil Lines","Noida Sector 16",4,980.8
+Bisrakh,"Cyber Hub",4,1215.4
+Loni,Shahdara,4,1279.5
+"Laxmi Nagar","Civil Lines",4,883.3
+"IGI Airport T1",Janakpuri,4,1517.6
+"Mayur Vihar","RK Puram",4,1947.3
+Akshardham,"Mandi House",4,2056.35
+"Mohan Nagar","Karol Bagh",4,1860
+"Knowledge Park","Pragati Maidan",4,2152.25
+"Ambience Mall","Noida City Centre",3,2304.25
+"Gamma 1","DLF Phase 1",3,1078.05
+"Mohan Nagar","Hauz Khas",3,702.4
+"New Delhi Railway Station","DLF Mall of India",3,2762.5
+"Preet Vihar","Green Park",3,1043.3
+"Sector 14 Gurugram","Laxmi Nagar",3,1655.3
+"IGI Airport T1","Hauz Khas",3,866
+"Ghaziabad Railway Station","Noida Sector 63",3,1768.1
+"Nehru Place","Noida Sector 63",3,592.75
+"Defence Colony",Kalkaji,3,1800
+"Jama Masjid","Cyber Hub",3,1680.3
+"Nehru Place","Wave City Center",3,2093.5
+"Yamuna Bank","Delta 1",3,709.8
+"Alpha 1",Vaishali,3,2182.2
+"Jama Masjid","Greater Noida West",3,1374
+"Greater Noida West","Noida Sector 62",3,1518.5
+"Pari Chowk","Udyog Vihar",3,1538.1999999999998
+"Chandni Chowk",ITO,3,1166.5
+Akshardham,"Noida City Centre",3,1304.5
+Aerocity,"Hauz Khas",3,2453
+Ecotech,Shahdara,3,671.3
+"Sarojini Nagar","Noida Sector 18",3,2056
+"IGI Airport T1","DLF Phase 1",3,1449.25
+"Red Fort","Dilshad Garden",3,1616.5
+"Noida City Centre","DLF Mall of India",3,725.75
+"Malviya Nagar",Pitampura,3,1618
+ITO,"Sohna Road",3,1578
+"Pari Chowk","Noida Sector 18",3,743
+"Pari Chowk","RK Puram",3,665.3
+"Jama Masjid","Noida Sector 18",3,1040.5
+"Dilshad Garden","Pragati Maidan",3,1472
+"Huda City Centre","Airport T3",3,2083
+Loni,"Cyber Hub",3,2057.5
+INA,Kaushambi,3,906.75
+Seelampur,INA,3,214.5
+"Lajpat Nagar",Rohini,3,1948
+Bisrakh,Saket,3,1321.5
+"Rajouri Garden","Preet Vihar",3,1816.5
+"Film City Noida","Noida Sector 62",3,1274
+"Yamuna Bank",Ecotech,3,2002
+Seelampur,"Pari Chowk",3,1592
+"Mandi House","Sector 45 Gurugram",3,906
+Ecotech,"Ambience Mall",3,2256.5
+"Knowledge Park","Green Park",3,1313.1
+"Pragati Maidan","IFFCO Chowk",3,1653.3
+"Kashmere Gate","Crossings Republik",3,1235.6999999999998
+"Noida Sector 62","Anand Vihar ISBT",3,1014.25
+"Anand Vihar ISBT","Alpha 1",3,1087.2
+Akshardham,"Nehru Place",3,2061.8
+Mahipalpur,"Red Fort",3,1718.5
+"Botanical Garden","Gamma 1",3,1142.8
+"Huda City Centre","DLF Phase 2",3,989.1
+Sahibabad,"DLF Phase 3",3,1374
+"DLF Phase 1","Huda City Centre",3,1982.55
+ITO,"Mohan Nagar",3,1161.75
+"Botanical Garden","Yamuna Bank",3,1214.8
+"RK Puram","Noida Sector 62",3,995.5
+"Chandni Chowk","DLF Phase 1",3,315
+"Hauz Khas",Dwarka,3,998
+"IFFCO Chowk","Noida Sector 37",3,1223
+Indirapuram,"Airport T3",3,3153
+"Noida Sector 63","Red Fort",3,91
+"DLF Phase 4","Knowledge Park",3,1206.5
+Rohini,"Film City Noida",3,2525.5
+Sahibabad,"Civil Lines",3,1601.7
+"Dilshad Garden","Sector 14 Gurugram",3,1041.5
+"DLF Phase 1","Connaught Place",3,1583.5
+"Crossings Republik","MG Road",3,2100.4
+Seelampur,"Old Delhi Railway Station",3,1590
+"New Delhi Railway Station",Saket,3,1646.25
+Indirapuram,"Anand Vihar Railway Station",3,1895
+"DLF Phase 1",Aerocity,3,1645
+"Lajpat Nagar","Mayur Vihar",3,1057.8
+"Wave City Center","Noida Sector 16",3,1216.8
+"Sector 45 Gurugram",Surajpur,3,1168
+"Vasant Kunj","DLF Phase 1",3,1643.5
+INA,"RK Puram",3,683
+"MG Road","Malviya Nagar",3,2196.75
+"Noida City Centre","Noida Sector 76",3,1919.8
+"DLF Phase 3","Karol Bagh",3,2739.5
+"Ghaziabad Railway Station",Rohini,3,1430.25
+"Old Delhi Railway Station","Alpha 1",3,4262.5
+"Ambience Mall","Rajouri Garden",3,1751.7
+"Golf Course Road","Beta 1",3,1498
+"Golf Course Road","Greater Kailash",3,1378.4
+Vaishali,"Red Fort",3,1437.25
+"Kashmere Gate","Red Fort",3,2408
+"RK Puram","New Delhi Railway Station",3,1711.1999999999998
+Akshardham,"Crossings Republik",3,820.5
+Bisrakh,"IGI Airport T1",3,1381.25
+"Noida Sector 16","Civil Lines",3,1418.3
+"Wave City Center","Sohna Road",3,1471
+"Chandni Chowk","Raj Nagar Extension",3,560.5
+AIIMS,"Old Delhi Railway Station",3,1028
+"Defence Colony",Dwarka,3,1963.5
+"Airport T3","Noida Sector 15",3,1355.8
+Surajpur,"Dilshad Garden",3,1967
+"Sector 56 Gurugram","Greater Noida West",3,1720
+"Airport T3","Anand Vihar ISBT",3,1485.5
+Shahdara,Rohini,3,607
+"Dilshad Garden",Manesar,3,865.5
+"New Delhi Railway Station","DLF Phase 2",3,1626.6
+"Sector 14 Gurugram","Pragati Maidan",3,1448
+"Hauz Khas","Noida City Centre",3,577
+"Crossings Republik",Indirapuram,3,813
+"Noida Sector 62","Logix Mall",3,1522
+"Ambience Mall","Anand Vihar Railway Station",3,786
+"Anand Vihar Railway Station","Gamma 1",3,1169.5
+Janakpuri,"DLF Phase 1",3,2017
+"IGI Airport T1",Pitampura,3,1625.75
+Dwarka,"Civil Lines",3,1811
+"Sarojini Nagar","DLF Phase 1",3,1182.5
+"Malviya Nagar",Vasundhara,3,1715.25
+"Old Delhi Railway Station",Rohini,3,1239
+Mahipalpur,"Ghaziabad Railway Station",3,1437
+Kaushambi,Loni,3,1652.25
+"Cyber Hub","Red Fort",3,1570.75
+"Pari Chowk","Noida Sector 62",3,812.8
+Saket,AIIMS,3,1580.15
+Ecotech,ITO,3,1708.5
+"Old Delhi Railway Station","Defence Colony",3,2799.5
+Surajpur,"Cyber City",3,1245.5
+"Ambience Mall","DLF Phase 2",3,1620
+Loni,Ecotech,3,1409.5
+Seelampur,"Alpha 1",3,1612
+"Connaught Place","Huda City Centre",3,1242.5
+"Preet Vihar",Bisrakh,3,1453.25
+"Airport T3",ITO,3,1592.95
+"Noida Sector 137","Anand Vihar ISBT",3,1477.7
+"Sohna Road","Karol Bagh",3,2210
+"Mayur Vihar","Huda City Centre",3,1907
+"Old Delhi Railway Station","IFFCO Chowk",3,1391.2
+"Cyber City",Vaishali,3,801.75
+"Karol Bagh","Vasant Kunj",3,1403
+"Anand Vihar Railway Station",Daryaganj,3,1204.75
+"DLF Phase 2",Ecotech,3,1156
+Vaishali,"Golf Course Road",3,1914.5
+"Old Delhi Railway Station","Noida Sector 37",3,821.75
+"DLF Phase 3","Noida Sector 37",3,1338
+"Delta 1",Vaishali,3,894
+"Cyber City","Sector 14 Gurugram",3,2196.75
+"Film City Noida","Connaught Place",3,595.5
+"Green Park","Dilshad Garden",3,1452.4
+"Ghaziabad Railway Station",ITO,3,1245
+"Noida Sector 18","Cyber Hub",3,1059.6
+"Crossings Republik","Sohna Road",3,944.5
+Seelampur,"Noida Sector 78",3,1827.9
+"Sector 14 Gurugram","Pari Chowk",3,796.75
+"Film City Noida","Delta 1",3,1126.4
+"Red Fort",Sahibabad,3,1327
+ITO,"Noida Sector 78",3,1097.5
+Bisrakh,"IFFCO Chowk",3,998
+"Beta 1",Saket,3,1471.2
+"Vasant Kunj",Shahdara,3,1211
+"Old Delhi Railway Station","Jama Masjid",3,1013
+Janakpuri,Kalkaji,3,1173.4
+"Delta 1",Surajpur,3,878.8
+"Preet Vihar","Film City Noida",3,630
+Kalkaji,"Mohan Nagar",3,2019.5
+"Defence Colony",Rohini,3,502.5
+"Noida Sector 137",Kalkaji,3,1835.5
+Rohini,"IGI Airport T1",3,1614.75
+"Mohan Nagar","Delta 1",3,1806
+"DLF Phase 3","Udyog Vihar",3,1887.3
+"Rajouri Garden","Golf Course Road",3,2122.75
+"Mandi House",Indirapuram,3,1461
+Vasundhara,"Old Delhi Railway Station",3,2515.5
+"Logix Mall","Nehru Place",3,1895.9
+"Connaught Place",Surajpur,3,1729.5
+"Kashmere Gate","Alpha 1",3,1033.5
+"Sarojini Nagar","Noida Sector 62",3,2166.75
+Shahdara,"Karol Bagh",3,2133.2
+"Airport T3","Karol Bagh",3,519.8
+"Beta 1","Logix Mall",3,1724
+ITO,"Ghaziabad Railway Station",3,1525.95
+"Delta 1","Anand Vihar Railway Station",3,2474.25
+"Connaught Place","Pari Chowk",3,1360.9
+"Green Park",Vaishali,3,1527.4
+"Noida Sector 137","DLF Phase 2",3,1352.3000000000002
+ITO,"DLF Phase 3",3,1988.5
+"Yamuna Bank","DLF Phase 3",3,1232
+Surajpur,"Noida Sector 76",3,1633
+"Golf Course Road","Film City Noida",3,1689
+"Noida Sector 15","Mayur Vihar",3,2315.75
+Janakpuri,"Malviya Nagar",3,1851
+"Knowledge Park","DLF Phase 4",3,1876.15
+"New Delhi Railway Station","Civil Lines",3,1674.75
+"Crossings Republik","Noida Sector 62",3,1212.5
+Dwarka,Rohini,3,1459.25
+Aerocity,"Dilshad Garden",3,1602.25
+"Noida Sector 15","Model Town",3,1491.5
+"Rajouri Garden",Vasundhara,3,2132.75
+"Nehru Place","Golf Course Road",3,825
+Daryaganj,Surajpur,3,838
+"Pari Chowk","Sohna Road",3,1769.9
+"Wave City Center","Noida Sector 62",3,986
+"Greater Noida West","Noida Sector 18",3,1712.6
+"IFFCO Chowk","Raj Nagar Extension",3,2576.25
+"Anand Vihar ISBT",Dwarka,3,1843.4
+"Sector 14 Gurugram",Surajpur,3,1452
+"Logix Mall","Greater Kailash",3,1187.5
+"Karol Bagh","Dilshad Garden",3,1298.1
+Saket,"Airport T3",3,1237.5
+"Greater Kailash","Pragati Maidan",3,1395.75
+Janakpuri,"Old Delhi Railway Station",3,1858.6
+"Film City Noida","Knowledge Park",3,791.7
+"Green Park","Wave City Center",3,629
+Ecotech,Mahipalpur,3,697.5
+Saket,"DLF Phase 4",3,2254.5
+Saket,"Civil Lines",3,2434
+"Greater Kailash","Old Delhi Railway Station",3,1752.5
+"Mandi House","Mohan Nagar",3,2368.4
+"Mandi House","Udyog Vihar",3,1959.4499999999998
+"Film City Noida","Red Fort",3,1632.8
+"Noida Sector 76","Sector 45 Gurugram",3,1346.75
+"Yamuna Bank","Jama Masjid",3,1230
+"Hauz Khas","Red Fort",3,990.7
+"Sector 56 Gurugram","Noida Sector 76",3,840.5
+"Sarojini Nagar",Indirapuram,3,1373.65
+"Sector 56 Gurugram","Karol Bagh",3,1526.1
+Kalkaji,"Gamma 1",3,3387.5
+"New Delhi Railway Station","Anand Vihar Railway Station",3,1528.25
+"Noida Sector 15",Shahdara,3,1645.4
+"South Extension","Pragati Maidan",3,1630.4
+"Wave City Center","Sector 56 Gurugram",3,1894.2
+"Sector 29 Gurugram",Mahipalpur,3,2473.7
+"Defence Colony","Crossings Republik",3,2836.75
+"IFFCO Chowk",Saket,3,1132.8
+Seelampur,"Mohan Nagar",3,2169.25
+"Dilshad Garden","Kashmere Gate",3,1637.3
+"Sector 29 Gurugram","Malviya Nagar",3,2303.5
+"Karol Bagh",Kaushambi,3,840.1
+INA,"Cyber Hub",3,1760.6
+"Yamuna Bank",Saket,3,2388.5
+"DLF Phase 1","Kashmere Gate",3,2814.5
+"Sector 56 Gurugram","Sohna Road",3,1006.2
+"DLF Phase 3",Loni,3,2610.5
+Seelampur,"Noida Sector 18",3,1659.1
+"MG Road","DLF Mall of India",3,1427.5
+"Laxmi Nagar","Knowledge Park",3,1986.5
+"Ghaziabad Railway Station","Civil Lines",3,1549.1
+"Noida Sector 37",AIIMS,3,1528.75
+"Noida Sector 16","IFFCO Chowk",3,1542.25
+AIIMS,Rohini,3,1694
+"Old Delhi Railway Station",ITO,3,1453.5
+"Raj Nagar Extension",Aerocity,3,1439
+"Noida Sector 78","Film City Noida",3,1506.6999999999998
+"Beta 1","DLF Phase 4",3,610.5
+"Noida City Centre","Mohan Nagar",3,1722.95
+Rohini,"Noida Sector 76",3,1517.25
+Vasundhara,"Cyber City",3,2214
+"Gamma 1","Noida Sector 137",3,484.3
+"Noida Sector 15","DLF Phase 1",3,1510.5
+"Laxmi Nagar","Anand Vihar ISBT",3,1649.5
+"Model Town",Daryaganj,3,1865.5
+"Sector 45 Gurugram","Noida Sector 37",3,1251.5
+"Udyog Vihar","Alpha 1",3,596.75
+"Noida Sector 37",Akshardham,3,1850
+"Sarojini Nagar",Bisrakh,3,1152.5
+Loni,"Botanical Garden",3,1896.4
+"Crossings Republik","New Delhi Railway Station",3,1261.5
+"Ambience Mall","DLF Mall of India",3,1092.5
+"Defence Colony","Delta 1",3,2709.5
+"Raj Nagar Extension","Lajpat Nagar",3,2166.75
+"Green Park","Old Delhi Railway Station",3,794.3
+"Model Town","Cyber City",3,2089.5
+"Huda City Centre",Seelampur,3,1300.5
+"Noida Sector 62","Film City Noida",3,1013.5
+Shahdara,"Yamuna Bank",3,927.5
+"Udyog Vihar","Connaught Place",3,1286.3
+"Hauz Khas","Knowledge Park",3,1805
+Rohini,"Anand Vihar Railway Station",3,1021.6
+"Noida Sector 76","Noida Sector 63",3,1155.6
+"Anand Vihar Railway Station","Sector 14 Gurugram",3,1593.5
+"Jama Masjid",Daryaganj,3,1558.5
+"Pragati Maidan","Cyber City",3,1432.55
+"Old Delhi Railway Station","Greater Kailash",3,1205
+"Sector 45 Gurugram","Greater Kailash",3,2235
+"Noida City Centre","Cyber City",3,1873
+Saket,"Noida Sector 63",3,519.5
+"Logix Mall","Defence Colony",3,1982.75
+"Huda City Centre","Pragati Maidan",3,1349.75
+Janakpuri,"Jama Masjid",3,2591.25
+"Noida Sector 78","Noida City Centre",3,1279.5
+Saket,Manesar,3,1995.5
+"New Delhi Railway Station",Kalkaji,3,1173.3
+Saket,"Alpha 1",3,870.5
+"Jama Masjid",Kaushambi,3,997
+Aerocity,"Anand Vihar Railway Station",3,660.1
+"Noida Sector 18",Pitampura,3,647.4
+"DLF Phase 1","Greater Noida West",3,1079
+"Sarojini Nagar","Udyog Vihar",3,1374.9
+Aerocity,"Noida Sector 18",3,1230
+Indirapuram,Manesar,3,1830.9
+"Anand Vihar ISBT",Ecotech,3,1442.65
+"Karol Bagh","Noida Sector 137",3,1651.75
+"Model Town",Aerocity,3,1744.5
+"Pragati Maidan",Vaishali,3,1733.2
+Dwarka,Loni,3,1087.4
+"Old Delhi Railway Station","Noida Sector 63",3,1586.5
+"Noida Sector 15","Noida Sector 137",3,1157
+Surajpur,"Hauz Khas",3,1006.5
+Ecotech,"Alpha 1",3,1084.5
+"New Delhi Railway Station","Mohan Nagar",3,1743.25
+"Noida Sector 63","Nehru Place",3,832.9
+"Mandi House","Logix Mall",3,1789
+Rohini,"Alpha 1",3,1090.7
+Seelampur,"Sector 29 Gurugram",3,1469.3
+"IGI Airport T1",Shahdara,3,1388
+"Preet Vihar","Udyog Vihar",3,1819.5
+"Noida City Centre","IGI Airport T1",3,979.5
+"Cyber Hub","South Extension",3,1610.75
+"Red Fort","Laxmi Nagar",3,1222.5
+"IFFCO Chowk","Noida Sector 78",3,2396.25
+Kaushambi,"Old Delhi Railway Station",3,1237
+"Pari Chowk","Mandi House",3,2200.35
+"Sector 29 Gurugram","Green Park",3,1614.9
+"Noida Sector 37","Noida City Centre",3,1893.4
+"Lajpat Nagar","Noida Sector 37",3,1776
+"Beta 1","Anand Vihar ISBT",3,1929.7
+Saket,"Noida Sector 18",3,1296.25
+"Jama Masjid","Noida Sector 78",3,1473.5
+Sahibabad,"Preet Vihar",3,1095.25
+"Pragati Maidan",Kaushambi,3,1230.35
+"Rajouri Garden","Ambience Mall",3,2043.4
+ITO,"Golf Course Road",3,797.5
+Bisrakh,"Nehru Place",3,1225.5
+"Crossings Republik","Karol Bagh",3,1346.6
+Akshardham,"Connaught Place",3,2347.25
+"Pari Chowk","Knowledge Park",3,1043.5
+Vaishali,"Dilshad Garden",3,186.75
+"Model Town","Karol Bagh",3,1368.45
+"Airport T3",Rohini,3,1342.5
+"Cyber City","Crossings Republik",3,1049.75
+"Defence Colony","Noida Sector 63",3,1390.25
+Mahipalpur,"Cyber Hub",3,1550.5
+"Anand Vihar Railway Station","Delta 1",3,1406.5
+ITO,"Preet Vihar",3,2607.5
+Janakpuri,"Wave City Center",3,1364.5
+INA,"IFFCO Chowk",3,887
+"Rajouri Garden",Seelampur,3,1327.25
+Surajpur,"RK Puram",3,1288.5
+Mahipalpur,"Greater Kailash",3,1466
+Rohini,"Sohna Road",3,1355.25
+"Defence Colony","Mandi House",3,2353.75
+"Mohan Nagar","Yamuna Bank",3,1937.5
+"Gamma 1","Sector 14 Gurugram",3,960.5
+"Crossings Republik","Gamma 1",3,2102
+"Greater Noida West","Logix Mall",3,2686.6
+Rohini,Seelampur,3,902.2
+"Cyber City","Sector 56 Gurugram",3,652.5
+"Vasant Kunj","Udyog Vihar",3,1369
+"DLF Phase 2",Shahdara,3,957.7
+Manesar,"Connaught Place",3,1529.6999999999998
+"DLF Phase 1","DLF Phase 4",3,1643
+"Wave City Center","Alpha 1",3,1550.1
+"Wave City Center",Saket,3,158.75
+"IGI Airport T1","DLF Phase 3",3,515
+"Preet Vihar","Mohan Nagar",3,1418.55
+"DLF Phase 1","Film City Noida",3,802.5
+"Alpha 1",Sahibabad,3,845.25
+"DLF Phase 3","IGI Airport T1",3,1540.5
+"Civil Lines","Beta 1",3,2315.6
+Saket,"Dilshad Garden",3,1406
+"Beta 1",Daryaganj,3,1625.25
+"Malviya Nagar","Red Fort",3,1353.25
+"Mohan Nagar","Noida Sector 37",3,1381.1
+"RK Puram","Crossings Republik",3,2196.75
+"IFFCO Chowk",Surajpur,3,1169.5
+"Film City Noida",Sahibabad,3,2128.7
+"Greater Kailash","Nehru Place",3,546.8
+Shahdara,Sahibabad,3,1445.7
+"Noida Sector 15","Raj Nagar Extension",3,1859.25
+"Karol Bagh","Botanical Garden",3,1291.7
+"Sector 56 Gurugram","Preet Vihar",3,766
+"Noida Sector 18","New Delhi Railway Station",3,1884
+"Mayur Vihar","Jama Masjid",3,1382.85
+Aerocity,Seelampur,3,114.30000000000001
+"Crossings Republik",Vasundhara,3,851
+"DLF Phase 1","Delta 1",3,1621
+"Preet Vihar","RK Puram",3,2980.8
+"Film City Noida",Janakpuri,3,1927
+"IFFCO Chowk",Loni,3,1801.8
+Dwarka,"Yamuna Bank",3,1254.5
+Indirapuram,Akshardham,3,2025.4
+Dwarka,Indirapuram,3,2145.45
+Kaushambi,"Noida Sector 76",3,1211
+"Cyber City","Raj Nagar Extension",3,2625.5
+"Yamuna Bank","Knowledge Park",3,2246.6
+"Sector 29 Gurugram","Greater Kailash",3,911
+Indirapuram,"Sarojini Nagar",3,1833.5
+"IGI Airport T1","Noida Sector 78",3,2032.85
+"Noida Sector 137","Cyber City",3,1172.5
+"Huda City Centre",Vasundhara,3,1701
+"Ambience Mall",Aerocity,3,1805
+"Ghaziabad Railway Station","Kashmere Gate",3,1847
+"Noida Sector 76",Saket,3,1008
+"Airport T3","Sohna Road",3,1938.3
+Ecotech,"Nehru Place",3,409.25
+Kaushambi,"Red Fort",3,1686
+Janakpuri,"South Extension",3,1056
+"Anand Vihar Railway Station","IFFCO Chowk",3,1562
+"Pari Chowk",Ecotech,3,1449.5
+"Lajpat Nagar","DLF Phase 2",3,82.89999999999998
+"Noida Sector 15","Civil Lines",3,1692
+Vasundhara,"Malviya Nagar",3,2265
+"Noida Sector 18","Greater Noida West",3,1574
+"Sector 29 Gurugram","Model Town",3,2052.5
+"Karol Bagh","Logix Mall",3,1640.5
+"Yamuna Bank","Huda City Centre",3,955.5
+"DLF Phase 4",Surajpur,3,1853
+"Noida Sector 137","Greater Kailash",3,973.5
+"Sarojini Nagar",AIIMS,3,1368.75
+Dwarka,"RK Puram",3,1314.5
+"Noida Sector 137","Jama Masjid",3,1896.2
+"Noida Sector 16",Ecotech,3,1757.5
+"Beta 1","DLF Phase 3",3,1282.2
+Vasundhara,Loni,3,1084
+"Ambience Mall","Golf Course Road",3,1563.5
+Ecotech,"Noida Sector 78",3,1643
+"Alpha 1","Defence Colony",3,1139.9
+Sahibabad,"Film City Noida",3,1540.25
+"Preet Vihar",Saket,3,1887.3
+"Green Park",Surajpur,3,1136
+"Noida City Centre","Malviya Nagar",3,1824.6
+"Beta 1","Gamma 1",3,2046.35
+"South Extension","Malviya Nagar",3,1879.35
+"Logix Mall","DLF Phase 3",3,1794.5
+Loni,"Noida Sector 76",3,1064.7
+"Noida Sector 78",Rohini,3,1851.1
+"DLF Phase 3","Film City Noida",3,797.5
+AIIMS,"Pari Chowk",3,1568.75
+Seelampur,"Sector 45 Gurugram",3,1553.5
+"South Extension","Botanical Garden",3,1205.3
+Janakpuri,"Noida City Centre",3,1636.5
+INA,"Chandni Chowk",3,1534
+"Sector 29 Gurugram",Kalkaji,3,1777.75
+"Green Park","Noida Sector 15",3,965
+"Sohna Road","Rajouri Garden",3,1128
+Akshardham,"Lajpat Nagar",3,1171.8
+"Yamuna Bank",Bisrakh,3,1049
+"Sector 29 Gurugram","RK Puram",3,1565.5
+"Alpha 1","Knowledge Park",3,1503.6
+"Alpha 1","Red Fort",3,1830.5
+"Chandni Chowk",Sahibabad,3,1949
+"Noida Sector 18",Rohini,3,1259.5
+"DLF Phase 1","Old Delhi Railway Station",3,1096.5
+Dwarka,"Pragati Maidan",3,2411.05
+"Anand Vihar Railway Station","Udyog Vihar",3,1514.5
+Pitampura,"Nehru Place",3,2115.5
+"Mohan Nagar","Malviya Nagar",3,3062.5
+"Noida Sector 76",Mahipalpur,3,1561.75
+"Ghaziabad Railway Station","Sector 29 Gurugram",3,1783.2
+"DLF Mall of India","Karol Bagh",3,791.5
+"Sector 29 Gurugram","Chandni Chowk",3,1062
+"Noida Sector 137",Akshardham,3,1586.7
+"Sector 29 Gurugram","Noida Sector 18",3,1755.5
+Bisrakh,Shahdara,3,1474.1
+"Golf Course Road","Yamuna Bank",3,1872.3
+"New Delhi Railway Station","Crossings Republik",3,1180.5
+"Model Town","Old Delhi Railway Station",3,941.25
+Shahdara,"Red Fort",3,2354
+"Ambience Mall","Mayur Vihar",3,1319
+Surajpur,"Mandi House",3,1966.5
+"Vasant Kunj","Nehru Place",3,1614.5
+ITO,"Connaught Place",3,2147
+"Noida Sector 63",Manesar,3,1263.3
+"Pragati Maidan","Mandi House",3,1669.2
+"Dilshad Garden","Mohan Nagar",3,1784.55
+"Lajpat Nagar","Noida Sector 137",3,1704.6
+"DLF Mall of India","Kashmere Gate",3,1079.6
+Shahdara,"Noida Sector 76",3,1456.75
+Saket,"Red Fort",3,1811.95
+"Lajpat Nagar","Alpha 1",3,1528
+"IFFCO Chowk","Alpha 1",3,1251
+"Noida Sector 78","Sector 56 Gurugram",3,1012.75
+Indirapuram,"Lajpat Nagar",3,1398.4
+"Pragati Maidan",Shahdara,3,1044
+"Noida Sector 78","Cyber City",3,1650.5
+"Alpha 1","Noida Sector 62",3,1232.25
+"Cyber City","Old Delhi Railway Station",3,1819.5
+"Sector 45 Gurugram","Laxmi Nagar",3,875.25
+"Noida Sector 18",Loni,3,1399.5
+"Preet Vihar","Gamma 1",3,1033.35
+"Noida Sector 18",Aerocity,3,950.25
+"Yamuna Bank","Sarojini Nagar",3,1433.5
+Mahipalpur,Janakpuri,3,2580
+"Noida Sector 18","Old Delhi Railway Station",3,4686.8
+"MG Road","Logix Mall",3,1519.5
+"Noida Sector 76",INA,3,1561.5
+Akshardham,"Noida Sector 37",3,1707.5
+"Noida Sector 63","Green Park",3,1269.9
+"Old Delhi Railway Station","Laxmi Nagar",3,1145
+"Noida Sector 78","DLF Phase 1",3,754.3
+"Anand Vihar ISBT","Mandi House",3,1814.5
+"Logix Mall",Manesar,3,1477.05
+"DLF Phase 3","Botanical Garden",3,1234.1
+"DLF Phase 1","Civil Lines",3,1219
+"Knowledge Park","DLF Mall of India",3,1342.4
+"DLF Phase 3",Rohini,3,1317.75
+"Vasant Kunj","Sector 45 Gurugram",3,1886.5
+"Noida Sector 37","Civil Lines",3,1250.25
+"Udyog Vihar","Mandi House",3,1742
+"Greater Noida West","MG Road",3,1002.5
+"Karol Bagh",INA,3,1427.5
+"Delta 1","Raj Nagar Extension",3,1223.5
+Janakpuri,"Greater Kailash",3,1535.25
+Kaushambi,ITO,3,207.75
+"DLF Phase 1","Yamuna Bank",3,2099.5
+"Crossings Republik",Loni,3,1769.5
+"Beta 1","Vasant Kunj",3,1302.5
+"Logix Mall",Surajpur,3,1562.1
+"Crossings Republik","Noida Sector 63",3,1084.5
+"DLF Phase 3","Noida Sector 18",3,1547.25
+"Anand Vihar ISBT","Civil Lines",3,1340
+AIIMS,"Nehru Place",3,2076.75
+"Sarojini Nagar","Preet Vihar",3,1805
+"Greater Noida West","Anand Vihar Railway Station",3,2212.4
+"DLF Phase 2","Nehru Place",3,1221.5
+"Sohna Road","Ambience Mall",3,1087
+Mahipalpur,"Wave City Center",3,2175.5
+"Anand Vihar Railway Station","Connaught Place",3,1069
+"Greater Noida West",Mahipalpur,3,1526.25
+Sahibabad,"Anand Vihar ISBT",3,3247
+"Civil Lines","Cyber City",3,1797.25
+"DLF Phase 3","Civil Lines",3,755.5
+"Dilshad Garden","Wave City Center",3,946.5
+Loni,"Gamma 1",3,1967.25
+"Noida Sector 78","Botanical Garden",3,1091.5
+"Jama Masjid",AIIMS,3,1104.25
+"Noida Sector 18","South Extension",3,1110
+"Chandni Chowk","Sector 14 Gurugram",3,2120.7
+"Cyber Hub","Mohan Nagar",3,2096.75
+"Noida Sector 62","Chandni Chowk",3,2449.25
+"Huda City Centre","Mayur Vihar",3,2133.3
+"Hauz Khas","Airport T3",3,1921.4
+Rohini,"Mandi House",3,1451.55
+"Noida Sector 76","Greater Noida West",3,1968
+"Noida Sector 62","Gamma 1",3,1384.7999999999997
+"Alpha 1","IGI Airport T1",3,698.8
+ITO,"Gamma 1",3,1688.25
+"Yamuna Bank","Wave City Center",3,960.2
+"Wave City Center","DLF Phase 4",3,1574.5
+Seelampur,"Golf Course Road",3,1668.85
+"Mandi House","Karol Bagh",3,1963.5
+"Noida Sector 76",Manesar,3,1223.8
+"Anand Vihar Railway Station","Mandi House",3,599
+Kalkaji,Seelampur,3,1502.5
+Daryaganj,"Udyog Vihar",3,2253.75
+Manesar,"IGI Airport T1",3,1363
+"Mayur Vihar",Pitampura,3,1978.25
+Indirapuram,"Mayur Vihar",3,1091
+"Connaught Place","Cyber Hub",3,1333
+Dwarka,"Ambience Mall",3,1558
+"Mayur Vihar","Sector 14 Gurugram",3,1317.9
+Sahibabad,"DLF Mall of India",3,2069.5
+"DLF Phase 4","Pragati Maidan",3,1347
+Bisrakh,"RK Puram",3,1770.75
+"Noida Sector 16","Pari Chowk",3,1437
+"DLF Phase 4","Crossings Republik",3,1994.5
+Daryaganj,Janakpuri,3,829.75
+"Sohna Road",Daryaganj,3,977
+Daryaganj,Aerocity,3,1182.75
+"Crossings Republik","Old Delhi Railway Station",3,1409.7
+Janakpuri,Vasundhara,3,1345.3
+"Noida City Centre",Saket,3,1668.5
+"Mohan Nagar","Gamma 1",3,1554.75
+Aerocity,"Connaught Place",3,1460
+"Kashmere Gate","Ambience Mall",3,1308.4
+Rohini,"MG Road",3,2024.5
+Surajpur,"DLF Phase 1",3,2790.5
+"Nehru Place","Mandi House",3,856
+"Vasant Kunj","Wave City Center",3,1487.5
+"IGI Airport T1","Civil Lines",3,2234.25
+"Kashmere Gate","Noida Sector 62",3,891
+"Airport T3","Udyog Vihar",3,2108
+"Ambience Mall","Malviya Nagar",3,1791.0000000000002
+Kaushambi,"Ambience Mall",3,1993.2
+"Sector 14 Gurugram",Shahdara,3,1366.5
+"Sector 45 Gurugram",Seelampur,3,4576.25
+"Hauz Khas","Noida Sector 63",3,1518.8
+Kalkaji,"Lajpat Nagar",3,1548.2
+"Mohan Nagar",Pitampura,3,2401.5
+"Laxmi Nagar","Sarojini Nagar",3,2611.8
+"DLF Phase 3","South Extension",3,1161
+"Golf Course Road","Huda City Centre",3,1470.5
+"Laxmi Nagar","Logix Mall",3,1537.8
+"Cyber Hub",Janakpuri,3,2200.25
+"Anand Vihar Railway Station","Malviya Nagar",3,1582
+"Yamuna Bank","Sector 45 Gurugram",3,1254
+Pitampura,"Udyog Vihar",3,1236.6
+Vasundhara,Dwarka,3,1527
+"Pari Chowk","Ambience Mall",3,1785.3
+"Sector 56 Gurugram",ITO,3,2592.7
+"Huda City Centre","Nehru Place",3,1286
+"Raj Nagar Extension","Greater Noida West",3,1136
+Manesar,Mahipalpur,3,850.8
+"Preet Vihar","Sector 45 Gurugram",3,1318.75
+"Sarojini Nagar","Delta 1",3,2517.1
+"Connaught Place",Manesar,3,975.6
+"Noida Sector 15",Seelampur,3,640.2
+Kaushambi,"Connaught Place",3,1523
+"Nehru Place","DLF Phase 3",3,879.5
+"Greater Kailash",Loni,3,1305.5
+"Raj Nagar Extension","Nehru Place",3,1134.1
+"DLF Phase 1","Logix Mall",3,1231
+"Preet Vihar","Noida Sector 18",3,767.65
+"Hauz Khas","Huda City Centre",3,1324.75
+"Vasant Kunj","Jama Masjid",3,1695.6
+Ecotech,"Connaught Place",3,1665.5
+"Pragati Maidan","Sector 56 Gurugram",3,1815.2
+"Knowledge Park","Rajouri Garden",3,1553.5
+"DLF Phase 1",Indirapuram,3,1222.3
+"IFFCO Chowk","DLF Phase 2",3,1645
+"Model Town","Noida Sector 16",3,1027.6
+"Sarojini Nagar","Raj Nagar Extension",3,1663
+Pitampura,"Airport T3",3,1287
+"Golf Course Road","Mohan Nagar",3,2002.5
+"Civil Lines","Alpha 1",3,1507
+"Preet Vihar",ITO,3,860.5
+Aerocity,Vaishali,3,1598
+"Yamuna Bank","Noida Sector 137",3,1111
+"Noida Sector 62","Kashmere Gate",3,1856.75
+"Noida Sector 15",Dwarka,3,1042
+Aerocity,"Red Fort",3,1849.25
+Akshardham,"Noida Sector 16",3,1161.5
+"Cyber City","Lajpat Nagar",3,1113.75
+"Chandni Chowk","Sarojini Nagar",3,752.5
+Sahibabad,"Noida Sector 137",3,1325
+"Pari Chowk",Akshardham,3,1062.8
+"Raj Nagar Extension","Malviya Nagar",3,1356.5
+"Greater Kailash","IFFCO Chowk",3,1369
+"RK Puram","Defence Colony",3,2944.2
+Dwarka,"Connaught Place",3,1122.1
+"New Delhi Railway Station",Surajpur,3,2722.5
+"Malviya Nagar",Manesar,3,1393.5
+"Jama Masjid","Nehru Place",3,1245.75
+Akshardham,"Defence Colony",3,1288.6
+"Connaught Place","Noida Sector 37",3,1369.8000000000002
+"Noida Sector 63","Cyber City",3,1023.8
+"Delta 1","Hauz Khas",3,1200.5
+"Karol Bagh","Sector 45 Gurugram",3,1413.6
+Aerocity,"Karol Bagh",3,1664
+"Film City Noida","Noida Sector 63",3,772.7
+"Beta 1",Manesar,3,1602.25
+"RK Puram","Yamuna Bank",3,1288.25
+"New Delhi Railway Station",Ecotech,3,643.25
+"Ambience Mall","Sector 56 Gurugram",3,862.05
+"IGI Airport T1","RK Puram",3,1884.25
+"New Delhi Railway Station",Loni,3,1393.5
+Saket,"Green Park",3,2543
+"Raj Nagar Extension","Botanical Garden",3,2199.5
+"DLF Mall of India","Botanical Garden",3,1317.75
+"Noida Sector 63","Rajouri Garden",3,1506.6
+AIIMS,"Greater Noida West",3,1321.6
+"Ambience Mall","Chandni Chowk",3,929.5
+"New Delhi Railway Station",Sahibabad,3,1114.5
+"Udyog Vihar",Manesar,3,1330
+"Sohna Road","Civil Lines",3,1497.5
+"Lajpat Nagar",Daryaganj,3,1327
+"Golf Course Road",Dwarka,3,1511
+"Sector 29 Gurugram","Noida Sector 16",3,1399
+Surajpur,"Green Park",3,1427.7
+"Sarojini Nagar","Vasant Kunj",3,1563
+"Pari Chowk","Yamuna Bank",3,1335
+"Airport T3","New Delhi Railway Station",3,1404.2
+Shahdara,"Noida Sector 18",3,908.5
+"Sohna Road","Huda City Centre",3,1637.5
+"IFFCO Chowk","Preet Vihar",3,1139.15
+Vasundhara,"Golf Course Road",3,1144.5
+INA,"Rajouri Garden",3,1158.75
+Daryaganj,"Preet Vihar",3,2822.5
+Seelampur,"Yamuna Bank",3,593
+"Noida Sector 18","Botanical Garden",3,1187.5
+"Golf Course Road","Nehru Place",3,2109.75
+Aerocity,"Sector 45 Gurugram",3,1010.1
+"Mohan Nagar",Sahibabad,3,829.5
+"Sector 29 Gurugram","Sohna Road",3,860
+"Preet Vihar",Vaishali,3,2451.5
+"Dilshad Garden","Cyber Hub",3,2010
+"Rajouri Garden","Noida Sector 15",3,2800.5
+"Alpha 1","Karol Bagh",3,1718.5
+Akshardham,Surajpur,3,2287.4
+"Ambience Mall","Noida Sector 62",3,2103
+"Sohna Road","Crossings Republik",3,1606.2
+"DLF Phase 1","Chandni Chowk",3,1529.4
+"IGI Airport T1",Sahibabad,3,1404.8
+"Defence Colony","Noida Sector 78",3,1182.3
+"Airport T3","Sector 29 Gurugram",3,2724.5
+"Udyog Vihar","Ghaziabad Railway Station",3,2155
+Ecotech,"Pari Chowk",3,2120.15
+Vaishali,"Hauz Khas",3,1269
+"Defence Colony",Pitampura,3,564.5
+"Sohna Road","Noida Sector 37",3,1681.35
+"Beta 1",Janakpuri,3,1573.25
+"Green Park","Noida Sector 18",3,1663
+Pitampura,Janakpuri,3,1228.3
+Mahipalpur,"Noida Sector 37",3,1384.2
+"IFFCO Chowk","Sector 45 Gurugram",3,1852.5
+"Preet Vihar","Wave City Center",3,702.45
+"Noida Sector 63",Indirapuram,3,2117.85
+"IGI Airport T1","Udyog Vihar",3,1668.1
+"Lajpat Nagar","Laxmi Nagar",3,1941
+"Noida Sector 18","Huda City Centre",3,1493.5
+"DLF Phase 4","Jama Masjid",3,1564
+Rohini,"Anand Vihar ISBT",3,161
+"Greater Kailash","Noida Sector 16",3,862.25
+Pitampura,"Noida Sector 62",3,2024.6
+"DLF Phase 3","IFFCO Chowk",3,1427.8
+"Cyber City","DLF Mall of India",3,1737
+Aerocity,"DLF Phase 2",3,2857.5
+"DLF Phase 4","Sector 14 Gurugram",3,1269.5
+"Raj Nagar Extension","Hauz Khas",3,1157.9
+"Preet Vihar","Knowledge Park",3,1665.75
+"Mohan Nagar",Loni,3,857
+Vasundhara,"Cyber Hub",3,1217.9
+"DLF Phase 2","Crossings Republik",3,953
+"Wave City Center",Manesar,3,2790
+"Hauz Khas","Green Park",3,1544.5
+"IFFCO Chowk",Sahibabad,3,871.5
+"Noida Sector 16","Botanical Garden",3,976
+Indirapuram,"Dilshad Garden",3,1298
+"Chandni Chowk","DLF Mall of India",3,2488.75
+"DLF Mall of India",Pitampura,3,2490.85
+"Crossings Republik","DLF Phase 1",3,1340.75
+"Greater Kailash",ITO,3,3909.3
+"Vasant Kunj","Civil Lines",3,446
+"DLF Phase 4","Udyog Vihar",3,2471.5
+"Film City Noida","Yamuna Bank",3,704.5
+"MG Road",Mahipalpur,3,897.6
+Dwarka,"Sector 29 Gurugram",3,1685.9
+Surajpur,INA,3,3289.25
+"DLF Mall of India",Seelampur,3,1865
+"DLF Phase 2",Sahibabad,3,2067.55
+Kaushambi,"Sector 45 Gurugram",3,1702.75
+"Mayur Vihar",ITO,3,1450.9
+"Defence Colony","Greater Kailash",3,1594.5
+Kaushambi,"Lajpat Nagar",3,1175.5
+Sahibabad,"Knowledge Park",3,2135.15
+"Greater Kailash",Pitampura,3,1743.1
+"Golf Course Road","Wave City Center",3,2094
+"Udyog Vihar",INA,3,2039.7
+"Hauz Khas","Anand Vihar Railway Station",3,1391
+"Wave City Center","Cyber Hub",3,1759.25
+"Karol Bagh",Mahipalpur,3,1998.9
+"Lajpat Nagar",Sahibabad,3,1156.65
+Vasundhara,"Alpha 1",3,761.5
+"Sector 29 Gurugram",Saket,3,1736
+Kalkaji,"Sector 29 Gurugram",3,1957.5
+"Noida Sector 16","Rajouri Garden",3,2026.5
+"Lajpat Nagar","Mandi House",3,863.8
+Saket,Surajpur,3,1437
+"RK Puram",Pitampura,3,1062.8
+"Pari Chowk","Vasant Kunj",3,1147.25
+"Sector 29 Gurugram",ITO,3,1362.5
+"Civil Lines","Raj Nagar Extension",3,1658.8
+"Huda City Centre","DLF Phase 1",3,2071.95
+"Malviya Nagar","Noida Sector 63",3,1583.9
+Surajpur,"Udyog Vihar",3,1912
+Shahdara,Surajpur,3,840.75
+"Noida Sector 62","Huda City Centre",3,941.2
+AIIMS,"Rajouri Garden",3,1185.1999999999998
+"Sohna Road",Seelampur,3,952
+"South Extension",Pitampura,3,1323.5
+ITO,Janakpuri,3,1493
+Ecotech,"Wave City Center",3,1324.65
+"Model Town","Noida City Centre",3,1088.35
+"Hauz Khas",Shahdara,3,1311.5
+"Wave City Center","Noida Sector 137",3,1006.5
+"Sector 45 Gurugram","Dilshad Garden",3,1747.1
+"Gamma 1","Sohna Road",3,1114
+"Kashmere Gate","DLF Phase 1",3,1384.2
+"Botanical Garden",Shahdara,3,1481.1
+"Noida Sector 37",Janakpuri,3,2243.5
+"DLF Phase 2",Rohini,3,1585.5
+INA,"DLF Phase 1",3,1364.5
+"Lajpat Nagar","Cyber City",3,2161.8
+"Vasant Kunj",INA,3,1558.7
+AIIMS,"Greater Kailash",3,2512.5
+"Mohan Nagar","Raj Nagar Extension",3,1267.75
+Daryaganj,"Pragati Maidan",3,1859.5
+"DLF Phase 2","Karol Bagh",3,1413
+ITO,Seelampur,3,1446.1
+"Mohan Nagar",Shahdara,3,1099.8
+Aerocity,Saket,3,2336.9
+"Mohan Nagar","Wave City Center",3,1213.75
+Kaushambi,"Chandni Chowk",3,1372.5
+"RK Puram","Anand Vihar ISBT",3,3957
+Kaushambi,"Noida Sector 18",3,1647.75
+Vaishali,"Rajouri Garden",3,1579.5
+"Connaught Place",Daryaganj,3,1069
+"Cyber Hub","DLF Mall of India",3,2224.35
+AIIMS,"DLF Phase 1",3,1388
+"Chandni Chowk","Alpha 1",3,2021.1
+Surajpur,"Jama Masjid",3,1141.6
+"Noida Sector 76","DLF Mall of India",3,1289.5
+"Jama Masjid","Noida Sector 37",3,2611
+Janakpuri,"Alpha 1",3,1982
+"New Delhi Railway Station","Mayur Vihar",3,1376.4
+"Jama Masjid",Manesar,3,1216.25
+"Botanical Garden","Dilshad Garden",3,1728.7
+INA,Rohini,3,1600.6
+"Sector 14 Gurugram","Noida Sector 15",3,1766
+Akshardham,"Noida Sector 62",3,1203.5
+"Hauz Khas",Surajpur,3,921
+"Golf Course Road","Vasant Kunj",3,1013
+"Ghaziabad Railway Station","Huda City Centre",3,927.5
+"DLF Phase 3","Mayur Vihar",3,1801.25
+Manesar,"Noida Sector 62",3,866.75
+"Sector 29 Gurugram",Vaishali,3,1155
+"Botanical Garden","Airport T3",3,2181
+"Sohna Road","Botanical Garden",3,2302.35
+"Lajpat Nagar",INA,3,1291.5
+"Noida City Centre","Botanical Garden",3,758.75
+"Karol Bagh",ITO,3,2212
+"Sector 56 Gurugram","Delta 1",3,901
+Daryaganj,"Noida Sector 37",3,1410.5
+INA,"Alpha 1",3,1203.6
+"Lajpat Nagar","Sector 45 Gurugram",3,1714.25
+"Lajpat Nagar",ITO,3,886
+Indirapuram,"Mandi House",3,2116.5
+Dwarka,"Mandi House",3,2407
+Mahipalpur,"Udyog Vihar",3,1211.5
+Bisrakh,"Sarojini Nagar",3,1196.6
+Mahipalpur,INA,3,1501.5
+"Pari Chowk","Greater Noida West",3,942.6
+"Golf Course Road","Rajouri Garden",3,1346.2
+"Rajouri Garden","Gamma 1",3,1775
+"Lajpat Nagar","Airport T3",3,1072.35
+"Dilshad Garden","Defence Colony",3,2010.75
+"Noida Sector 78","Preet Vihar",3,1051.75
+"Vasant Kunj","New Delhi Railway Station",3,2216.5
+"Nehru Place","Pari Chowk",3,898.5
+"IGI Airport T1","South Extension",3,1030
+"Green Park","Jama Masjid",3,715.7
+"Pari Chowk","Anand Vihar Railway Station",3,1111.2
+Kaushambi,"Karol Bagh",3,3131
+"Yamuna Bank","Sector 29 Gurugram",3,2060.2
+"Pragati Maidan","Gamma 1",3,3394.1
+"Raj Nagar Extension",Pitampura,3,1344
+"Noida City Centre",Kalkaji,3,1585.6
+Saket,Vaishali,3,1774.6
+"Ghaziabad Railway Station",Loni,3,2554
+"Crossings Republik","Noida Sector 78",3,2160
+"Cyber Hub",Dwarka,3,1209.3
+"Botanical Garden","Kashmere Gate",3,1963.2
+Indirapuram,Shahdara,3,1193.5
+"Cyber City","MG Road",3,1337.9
+"RK Puram","Mayur Vihar",3,1691
+"Noida Sector 15","Udyog Vihar",3,1735
+Dwarka,"Jama Masjid",3,1063.5
+"DLF Phase 1",Surajpur,3,1798.9
+Ecotech,"Noida Sector 62",3,591.3
+"Rajouri Garden","Delta 1",3,1223
+Sahibabad,"South Extension",3,1763
+"IGI Airport T1","Chandni Chowk",3,1461.5
+"South Extension","Noida Sector 78",3,1628.7
+Pitampura,Sahibabad,3,1455.2
+Indirapuram,Janakpuri,3,1411.5
+"Sector 45 Gurugram",Vasundhara,3,1412.5
+"Old Delhi Railway Station",INA,3,602.4
+Kalkaji,"Ghaziabad Railway Station",3,1184.25
+"Cyber City","Pragati Maidan",3,1482.75
+Indirapuram,"RK Puram",3,2106.8
+"Vasant Kunj",AIIMS,3,905
+"Laxmi Nagar",INA,3,1748.4
+"Anand Vihar ISBT","Noida Sector 16",3,1697.25
+"RK Puram","Pari Chowk",3,1250.5
+"Noida Sector 62",Kalkaji,3,1046
+"Rajouri Garden","Chandni Chowk",3,1501.7
+"DLF Phase 3","Logix Mall",3,1716
+"Udyog Vihar","Hauz Khas",3,2606
+Kaushambi,"Preet Vihar",3,1376.1
+"Logix Mall","Noida Sector 37",3,1421.5
+"DLF Phase 3",Akshardham,3,2237.4
+"Alpha 1","DLF Phase 1",3,981.5
+Akshardham,"Rajouri Garden",3,1422.5
+"Crossings Republik","Pari Chowk",3,1023.4
+"Nehru Place","Knowledge Park",3,615.75
+"Nehru Place",Indirapuram,3,2080
+"Civil Lines","Gamma 1",3,1328.25
+"Anand Vihar Railway Station","Mayur Vihar",3,1599.8
+"Greater Noida West",Daryaganj,3,1360.9
+Pitampura,"Knowledge Park",3,843.8
+"Knowledge Park",Janakpuri,3,1710
+"IGI Airport T1","Noida Sector 18",3,1263
+Aerocity,Akshardham,3,2195
+"Hauz Khas","Sarojini Nagar",3,646.5
+"Alpha 1","New Delhi Railway Station",3,1787
+"Preet Vihar","Noida City Centre",3,2608.4
+"Botanical Garden",Rohini,3,1660.4
+"Sohna Road","Greater Kailash",3,823.3
+"Mandi House",Saket,3,1818.8
+"Ambience Mall","Crossings Republik",3,1512.5
+Vaishali,Kaushambi,3,1061.25
+"Mohan Nagar","Anand Vihar ISBT",3,1111.8
+"Noida Sector 62","Ghaziabad Railway Station",3,976.5
+"Mandi House","Red Fort",3,1544
+"Logix Mall","Sector 14 Gurugram",3,947.5
+"Airport T3","Nehru Place",3,781
+Aerocity,"Noida City Centre",3,670
+"Noida Sector 16","Ambience Mall",3,1230.5
+"Noida Sector 16","New Delhi Railway Station",3,1431.5
+"Anand Vihar ISBT","Mayur Vihar",3,1354
+"Noida Sector 76","IFFCO Chowk",3,-967.25
+"Film City Noida","Anand Vihar Railway Station",3,433
+Rohini,"Golf Course Road",3,1797.75
+"Golf Course Road","Hauz Khas",3,1601
+"Model Town","Golf Course Road",3,1576.5
+Loni,"DLF Phase 2",3,2127.55
+Loni,"Pragati Maidan",3,1450
+Daryaganj,"Hauz Khas",3,1184
+"Sarojini Nagar","Knowledge Park",3,1566.6
+"DLF Phase 3","Rajouri Garden",3,1518.5
+Aerocity,"Noida Sector 15",3,844
+"Sector 29 Gurugram","Noida Sector 78",3,958.5
+"Chandni Chowk","Noida Sector 18",3,1282.5
+Pitampura,Vasundhara,3,1527.9
+"Pragati Maidan",Sahibabad,3,950.25
+"Mandi House","Ghaziabad Railway Station",3,2005.5
+ITO,"New Delhi Railway Station",3,2142.6
+"Civil Lines",Pitampura,3,747
+Daryaganj,"Karol Bagh",3,1357.7
+Seelampur,"Noida Sector 137",3,949.5
+"IFFCO Chowk",Vaishali,3,1189.25
+"Noida Sector 18","Civil Lines",3,1396
+Janakpuri,Seelampur,3,804.5
+"Noida Sector 62","Mayur Vihar",3,1691.5
+"Rajouri Garden","Wave City Center",3,875
+"MG Road","Laxmi Nagar",3,1128
+"Logix Mall","Ghaziabad Railway Station",3,1551.5
+"Noida Sector 137","Botanical Garden",3,2127.75
+"Hauz Khas","Ambience Mall",3,2101.9
+"Sector 56 Gurugram","Botanical Garden",3,302
+"Lajpat Nagar",Aerocity,3,2386.05
+Saket,"Yamuna Bank",3,760.9
+"RK Puram","DLF Mall of India",3,1534.75
+"Gamma 1","Nehru Place",3,1238.4
+Daryaganj,"South Extension",3,1400.25
+"Wave City Center",Shahdara,3,1922.1
+"Greater Kailash",Manesar,3,1107
+Loni,"Golf Course Road",3,1203.5
+"Kashmere Gate","Udyog Vihar",3,2012.75
+Manesar,"Model Town",3,1282.5
+"Nehru Place",INA,3,1962.5
+"Sarojini Nagar","Golf Course Road",3,1343
+"DLF Phase 1","Pragati Maidan",3,1047.5
+"Pari Chowk","Botanical Garden",3,1742.8
+"Sohna Road","Noida Sector 15",3,1513.5
+"Sector 14 Gurugram","Civil Lines",3,1345
+"Preet Vihar","DLF Mall of India",3,802.25
+"Sector 14 Gurugram","Greater Kailash",3,1555.6
+"Pragati Maidan","Noida Sector 15",3,1547
+"RK Puram","Cyber Hub",3,726
+"Model Town","Cyber Hub",3,1809.75
+"IGI Airport T1","Preet Vihar",3,1421.5500000000002
+Aerocity,"Crossings Republik",3,1239.5
+"Dilshad Garden","Laxmi Nagar",3,1538.5
+"Udyog Vihar","DLF Phase 2",3,1258.3
+Pitampura,"Chandni Chowk",3,1028.5
+"Pari Chowk","IFFCO Chowk",3,978.5
+Pitampura,Loni,3,467.7
+"Laxmi Nagar",Mahipalpur,3,1118
+"Udyog Vihar",Rohini,3,4613.4
+"Raj Nagar Extension",Kalkaji,3,1217
+Seelampur,Mahipalpur,3,1332.2
+"Mandi House","Greater Kailash",3,1917.3999999999999
+"Delta 1","Yamuna Bank",3,2222.5
+"DLF Phase 4","Beta 1",3,1037.5
+Mahipalpur,"New Delhi Railway Station",3,1952.6
+"Logix Mall","Mandi House",3,2189.4
+Daryaganj,ITO,3,1588.5
+Kalkaji,"Noida City Centre",3,637
+"DLF Phase 4",Daryaganj,3,1287
+"Cyber City","Model Town",3,1251
+"Greater Noida West","Dilshad Garden",3,1426.5
+ITO,"Dilshad Garden",3,1122.2
+"Sector 29 Gurugram","Hauz Khas",3,1343
+"Ghaziabad Railway Station","Jama Masjid",3,823.25
+"Model Town","DLF Phase 1",3,2106.25
+Kaushambi,Dwarka,3,1552.5
+"Civil Lines","Sector 14 Gurugram",3,1962.5
+"Film City Noida","Pari Chowk",3,2010.5
+"DLF Phase 3","Sohna Road",3,1955.5
+"Noida Sector 62","Sector 14 Gurugram",3,1199.1
+"Huda City Centre","RK Puram",3,678
+Kalkaji,Ecotech,3,1172.8
+"Cyber Hub","DLF Phase 3",3,2652.8
+"Civil Lines",Manesar,3,910.45
+"Logix Mall","Sector 56 Gurugram",3,1788
+"Golf Course Road","Karol Bagh",3,1263.7
+"Ambience Mall",Ecotech,3,1055.1
+"Sector 56 Gurugram","DLF Phase 2",3,2233
+Pitampura,Aerocity,3,3372
+"Rajouri Garden",Aerocity,3,656.9
+"Yamuna Bank","Hauz Khas",3,2437.9
+"Laxmi Nagar","DLF Mall of India",3,1133.7
+"DLF Phase 2","Sector 56 Gurugram",3,2417
+"Noida Sector 16","Mohan Nagar",3,587
+"DLF Mall of India","Noida Sector 63",3,1140
+"Logix Mall","Model Town",3,1850.5
+"Beta 1","Cyber Hub",3,1145.5
+"Nehru Place","Greater Kailash",3,2237.15
+"Mayur Vihar",Mahipalpur,3,2123.25
+"Sector 14 Gurugram",Dwarka,3,1663.5
+Surajpur,"Sector 45 Gurugram",3,2193.75
+Dwarka,"Model Town",3,5087.5
+"Ambience Mall","Greater Kailash",3,1849
+"Noida Sector 63",AIIMS,3,805.5
+"MG Road","Raj Nagar Extension",3,1009
+"Mohan Nagar",Indirapuram,3,2059.05
+Loni,"Noida Sector 63",3,2692
+"DLF Phase 3","Anand Vihar ISBT",3,433.5
+"Greater Noida West","Connaught Place",3,1858.1
+"IGI Airport T1","Delta 1",3,1992
+Akshardham,Kaushambi,3,1472
+"Pari Chowk","Sector 29 Gurugram",3,1320.5
+"Mayur Vihar","Udyog Vihar",3,1831.05
+"DLF Mall of India","Anand Vihar Railway Station",3,1373
+Seelampur,Kalkaji,3,-395.8
+"Airport T3","Ghaziabad Railway Station",3,2248.2
+"Cyber City","Anand Vihar Railway Station",3,1432.95
+"RK Puram",Daryaganj,3,530.25
+Aerocity,"Noida Sector 37",3,825.3
+"Crossings Republik","Greater Noida West",3,1939.25
+"Vasant Kunj","Raj Nagar Extension",3,1559.3
+"Huda City Centre","Delta 1",3,1684
+Akshardham,"Noida Sector 15",3,1496.3
+"Preet Vihar","Greater Kailash",3,1356.5
+Vaishali,Aerocity,3,1266.5
+"Knowledge Park","RK Puram",3,2137.75
+"Greater Noida West",Pitampura,3,1776
+"Old Delhi Railway Station",Surajpur,3,1782.6
+"Civil Lines",Sahibabad,3,749.75
+"Noida Sector 78","Airport T3",3,1821
+"Alpha 1","South Extension",3,1014
+"Chandni Chowk","Sector 29 Gurugram",3,2403.2
+"Raj Nagar Extension","Noida Sector 137",3,1274
+"Hauz Khas",Seelampur,3,1055.5
+Daryaganj,Sahibabad,3,1261.2
+"Wave City Center","Vasant Kunj",3,1908.6
+"Lajpat Nagar",Vaishali,3,1876.75
+"Sector 29 Gurugram","Film City Noida",3,2588.7
+"Beta 1","DLF Mall of India",3,5078
+"Connaught Place",Aerocity,3,1305.7
+"Film City Noida","DLF Phase 3",3,1466.2
+Aerocity,"Mayur Vihar",3,-26
+"Dilshad Garden","DLF Phase 1",3,859.5
+"Nehru Place","Noida Sector 37",3,2767.75
+Sahibabad,"DLF Phase 1",3,1481
+Sahibabad,"Noida Sector 63",3,1101.5
+"Civil Lines","Ambience Mall",3,2341
+"Noida Sector 63","New Delhi Railway Station",3,1559.5
+"Sector 14 Gurugram",Bisrakh,3,1928.5
+"Hauz Khas",Ecotech,3,1166.75
+"Noida Sector 76","Noida Sector 37",3,1993.2
+"Gamma 1","Noida Sector 63",3,1068.5
+Akshardham,"Huda City Centre",3,1292
+"Airport T3",Akshardham,3,1810.5
+"Golf Course Road","DLF Phase 1",3,1146.5
+"Noida City Centre","Sector 45 Gurugram",3,1107.6
+"Beta 1","Model Town",3,906.9
+"IGI Airport T1",AIIMS,3,1152.65
+"Jama Masjid","Noida City Centre",3,1095.8
+"Gamma 1",Kaushambi,3,1899
+Vaishali,Indirapuram,3,1024.75
+"Mandi House","Defence Colony",3,1681
+"Knowledge Park","Udyog Vihar",3,1623.2
+"Noida Sector 78","Pragati Maidan",3,1305
+"Logix Mall",Janakpuri,3,2439
+"DLF Mall of India","Connaught Place",3,2278.75
+Kaushambi,"Nehru Place",3,953.5
+"Sohna Road","Jama Masjid",3,1555.25
+Shahdara,"Jama Masjid",3,1174.5
+"Noida Sector 18","Vasant Kunj",3,1165.25
+Rohini,Kalkaji,3,2422.5
+"Noida Sector 15","Noida Sector 78",3,1454.5
+"Pari Chowk","Preet Vihar",3,3220.5
+Pitampura,"Cyber Hub",3,1975.05
+"Sector 29 Gurugram",INA,3,2225.75
+"Noida Sector 16","Hauz Khas",3,999
+"Noida Sector 18","Sohna Road",3,1203
+"Sector 29 Gurugram","Karol Bagh",3,2358
+"Malviya Nagar","Anand Vihar ISBT",3,996
+"Pragati Maidan","Botanical Garden",3,1117
+"Sector 14 Gurugram","IGI Airport T1",3,1580.25
+"Jama Masjid","Civil Lines",3,1238
+"IFFCO Chowk","Karol Bagh",3,714
+"Gamma 1",Vasundhara,3,1197.7
+"Film City Noida","Cyber City",3,655.5
+"Old Delhi Railway Station",Daryaganj,3,1294.25
+Ecotech,"DLF Phase 2",3,1113
+"Noida Sector 18","MG Road",3,1094
+"Anand Vihar ISBT",Kalkaji,3,880
+"Udyog Vihar","Yamuna Bank",3,1359
+Janakpuri,"Ambience Mall",3,1097.5
+"Noida Sector 18",Vasundhara,3,1226.5
+Rohini,Kaushambi,3,1614
+"IFFCO Chowk",Janakpuri,3,588.75
+Rohini,"Noida Sector 15",3,926.6
+"Cyber City","Karol Bagh",3,1505
+"Airport T3",Surajpur,3,1441
+"Alpha 1","Sector 29 Gurugram",3,2029.7
+"MG Road","Chandni Chowk",3,1390.5
+"Chandni Chowk","Rajouri Garden",3,1426.5
+"Delta 1","Sector 45 Gurugram",3,793.5
+"Sector 29 Gurugram","Udyog Vihar",3,1970.5
+Akshardham,"DLF Phase 3",3,2118.95
+"Dilshad Garden","Huda City Centre",3,1962.7
+"Noida Sector 15",Vasundhara,3,1422.7
+"DLF Phase 3","Yamuna Bank",3,172
+"Mandi House","Huda City Centre",3,2149.75
+Shahdara,"Civil Lines",3,1104.7
+"Ghaziabad Railway Station","Noida City Centre",3,2129
+"Green Park","Botanical Garden",3,1389.9
+"Noida Sector 137","Logix Mall",3,1903.3
+Kaushambi,"Noida Sector 137",3,1303.05
+ITO,Sahibabad,3,1119.75
+"Yamuna Bank","Crossings Republik",3,1608.15
+"Sohna Road",Surajpur,3,1887.7
+Shahdara,"Ambience Mall",3,1582.6
+"Anand Vihar ISBT","Nehru Place",3,1821.5
+"South Extension","Sarojini Nagar",3,1055.6
+"Huda City Centre","Knowledge Park",3,2047.25
+Loni,Kalkaji,3,1614
+"Anand Vihar Railway Station",Akshardham,3,1478.5
+"Sohna Road",Shahdara,3,842.85
+"Lajpat Nagar","Sarojini Nagar",3,954.9
+"Alpha 1",AIIMS,3,1383.3
+"Malviya Nagar","DLF Phase 2",3,966.75
+"Pragati Maidan",Indirapuram,3,1861.6
+"Sector 56 Gurugram",Dwarka,3,1140
+"Sarojini Nagar","Defence Colony",3,2187
+"Noida City Centre",INA,3,1110.6
+"Logix Mall",ITO,3,1723.25
+"Karol Bagh","Nehru Place",3,1235.8
+"Film City Noida","Sector 45 Gurugram",3,1214.9
+"Sector 45 Gurugram","Mayur Vihar",3,1466
+ITO,"Anand Vihar ISBT",3,1505
+"Delta 1","DLF Mall of India",3,2008.75
+"Red Fort","Mandi House",3,1610.25
+"Anand Vihar Railway Station",Dwarka,3,1373.9
+"Ambience Mall",Seelampur,3,1064.5
+Mahipalpur,"Preet Vihar",3,1279.5
+"Malviya Nagar","Sector 29 Gurugram",3,1182.75
+Saket,"Jama Masjid",3,1716
+Mahipalpur,"Noida Sector 18",3,1806
+Daryaganj,"Botanical Garden",3,773.9
+Vasundhara,"Anand Vihar Railway Station",3,784.1
+"Sarojini Nagar","RK Puram",3,1401
+Surajpur,"Laxmi Nagar",3,964.5
+"IFFCO Chowk",ITO,3,2020.5
+"Noida Sector 18","Noida Sector 63",3,955.6
+Pitampura,"Sector 45 Gurugram",3,1359.2
+"DLF Phase 2","Sector 29 Gurugram",3,979.9
+"Golf Course Road","Cyber City",3,2184.5
+Vaishali,"Beta 1",3,1059
+"Malviya Nagar","Sohna Road",3,982.9
+Aerocity,"New Delhi Railway Station",3,1806.5
+"Nehru Place","Vasant Kunj",3,1903.5
+Pitampura,AIIMS,3,2299.5
+AIIMS,"Cyber City",3,1097.5
+"DLF Phase 2","DLF Phase 3",3,2449.95
+"Sector 56 Gurugram","Mohan Nagar",3,1642
+"Karol Bagh",Kalkaji,3,1682.75
+"Yamuna Bank","Cyber Hub",3,1341.3
+"Ghaziabad Railway Station",Aerocity,3,1042.6
+"Sector 56 Gurugram",Mahipalpur,3,2393.45
+"Raj Nagar Extension","Anand Vihar ISBT",3,1294.8
+"Knowledge Park",Manesar,3,2252
+"Raj Nagar Extension",Akshardham,3,1706.5
+"Noida Sector 15","DLF Phase 2",3,806.3
+"Sector 56 Gurugram","Defence Colony",3,1138.5
+Vasundhara,"Botanical Garden",3,1352
+"Huda City Centre","Old Delhi Railway Station",3,856.2
+Indirapuram,"Huda City Centre",3,969.3
+"Green Park","Sector 14 Gurugram",3,1222.5
+"Red Fort","Golf Course Road",3,1273.5
+"Anand Vihar Railway Station",Rohini,3,1004.5
+"Mohan Nagar","Dilshad Garden",3,2296
+"Red Fort","Model Town",3,841.8
+"DLF Phase 1","Hauz Khas",3,1747.5
+Seelampur,"Beta 1",3,1576.35
+"Hauz Khas","DLF Phase 3",3,897.6
+"Sohna Road","Old Delhi Railway Station",3,801.6
+Aerocity,"Green Park",3,1776.25
+"Cyber Hub","Crossings Republik",3,524.25
+"Dilshad Garden","IGI Airport T1",3,2042.5
+"Lajpat Nagar",Bisrakh,3,1983.5
+"Sector 29 Gurugram","Old Delhi Railway Station",3,1276
+"Sector 14 Gurugram","New Delhi Railway Station",3,1308.1
+"Karol Bagh",Bisrakh,3,1389.75
+"Defence Colony","Civil Lines",3,2102.2
+"Green Park",Manesar,3,511.5
+Bisrakh,"Rajouri Garden",3,869
+"DLF Phase 3","Red Fort",3,1162.25
+"Noida Sector 16","Noida Sector 76",3,752.45
+"Mohan Nagar",Rohini,3,967.9
+"Model Town",Saket,3,1326
+"Cyber Hub","Noida Sector 137",3,1561.8
+"Connaught Place","Anand Vihar ISBT",3,2031.3
+"Civil Lines",Loni,3,2210.25
+"Raj Nagar Extension","Sohna Road",3,2782
+"Civil Lines","Botanical Garden",3,1292.2
+INA,"Noida Sector 63",3,1965.25
+"Model Town","Ambience Mall",3,1259
+Aerocity,"Noida Sector 63",3,1495.5
+"Alpha 1","Sector 56 Gurugram",3,1078.25
+"Anand Vihar ISBT","Logix Mall",3,2403.9
+Rohini,Vasundhara,3,1467
+Bisrakh,Mahipalpur,3,1661.5
+"Connaught Place",Saket,3,919
+"Red Fort","Hauz Khas",3,2479.5
+Aerocity,"Sector 29 Gurugram",3,1863.45
+Janakpuri,"IFFCO Chowk",3,1469
+"Chandni Chowk","Malviya Nagar",3,2290.9
+"Noida Sector 18",Shahdara,3,1335.75
+Aerocity,"Pragati Maidan",3,1915
+"Botanical Garden",Vaishali,3,1147
+Vasundhara,"Pragati Maidan",3,1296.25
+"RK Puram",Manesar,3,2207.5
+"Green Park","Pragati Maidan",3,1538.25
+"Green Park",Rohini,3,1075
+"Pragati Maidan","MG Road",3,1726
+"Crossings Republik","Sector 56 Gurugram",3,907.1999999999999
+"Mandi House","Sector 29 Gurugram",3,1260
+"Sector 45 Gurugram","Rajouri Garden",3,2314.8
+"Sector 56 Gurugram","Lajpat Nagar",3,1838.5
+"Sohna Road","Noida Sector 78",3,2367.5
+"Old Delhi Railway Station",Ecotech,3,821
+Shahdara,"Delta 1",3,1319.5
+"Noida Sector 137","MG Road",3,1778.1
+"Dilshad Garden","Anand Vihar Railway Station",3,2295.75
+"Sector 29 Gurugram",Loni,3,1353.75
+Kaushambi,Manesar,3,2076
+"Hauz Khas",Loni,3,1417.5
+Bisrakh,"Sector 56 Gurugram",3,1125
+"Pari Chowk","New Delhi Railway Station",3,2563.5
+"Noida Sector 78","Lajpat Nagar",3,1427
+"Noida Sector 63","Karol Bagh",3,1196
+"Dilshad Garden",Dwarka,3,2545
+"Civil Lines","Sohna Road",3,1411.5
+"Anand Vihar ISBT","Delta 1",3,2254
+"Rajouri Garden","Karol Bagh",3,1354.25
+"Model Town","Defence Colony",3,1740.4
+"Malviya Nagar","Logix Mall",3,2343.25
+Kalkaji,ITO,3,2309.5
+"Anand Vihar ISBT",Loni,3,771.1500000000001
+Kalkaji,"Greater Noida West",3,746.2
+"Golf Course Road","Connaught Place",3,1950
+"Dilshad Garden","Logix Mall",3,877.1
+"Lajpat Nagar",Surajpur,3,1309
+Akshardham,Rohini,3,1347.5
+"Lajpat Nagar","Red Fort",3,1315.5
+"Gamma 1","New Delhi Railway Station",3,945
+ITO,Pitampura,3,2716
+"Raj Nagar Extension","Mayur Vihar",3,846.4
+"Sector 14 Gurugram","Noida Sector 76",3,1043.85
+"DLF Phase 2","Noida Sector 18",3,724.4
+"Sohna Road","Film City Noida",3,1581.6
+Kalkaji,"Malviya Nagar",3,1526.25
+"Lajpat Nagar","Connaught Place",3,1568.25
+Saket,"Botanical Garden",3,1533.6
+"Mandi House",Vaishali,3,1189.75
+"Delta 1","DLF Phase 3",3,2014.4
+"Mohan Nagar",Daryaganj,3,3277.5
+"Noida Sector 76","Anand Vihar ISBT",3,2000.5
+"Hauz Khas","Karol Bagh",3,1972.25
+"RK Puram",Kaushambi,3,1818.75
+Dwarka,Sahibabad,3,1512.9
+"Red Fort",Saket,3,754.2
+"Mandi House","Golf Course Road",3,669.9
+Rohini,INA,3,702.5
+"Crossings Republik","Lajpat Nagar",3,1274
+"Noida Sector 15","Green Park",3,1270
+"Noida Sector 16","Alpha 1",3,1569.75
+"Noida Sector 18",Ecotech,3,1080.8
+"Noida Sector 37",Vasundhara,3,1877.9
+"Botanical Garden",Ecotech,3,2320.6
+"IGI Airport T1",Aerocity,3,1160.5
+Akshardham,"Noida Sector 63",3,1147.5
+Vaishali,"MG Road",3,1578.6
+"Noida Sector 62",Sahibabad,3,1303.8
+"Beta 1","Botanical Garden",3,1262.2
+"RK Puram","Sector 45 Gurugram",3,1704
+"Noida Sector 62",Saket,3,1573.7
+Kalkaji,"Beta 1",3,1384
+"South Extension","Crossings Republik",3,1094.25
+"Udyog Vihar","DLF Phase 4",3,599
+"Noida Sector 16","Cyber Hub",3,2509.75
+Daryaganj,"Beta 1",3,1671
+Kalkaji,"DLF Phase 1",3,535.2
+"Noida Sector 15",Surajpur,3,602
+Sahibabad,"Lajpat Nagar",3,948
+Kalkaji,"MG Road",3,1623
+"Vasant Kunj","Noida Sector 76",3,1776.5
+"Malviya Nagar",Mahipalpur,3,712.65
+Rohini,"Sector 14 Gurugram",3,1736.5
+"Sector 14 Gurugram","Preet Vihar",3,1253.5
+Kaushambi,"Noida City Centre",3,701
+ITO,"Udyog Vihar",3,1554.65
+Kaushambi,AIIMS,3,1278
+"Knowledge Park","Anand Vihar ISBT",3,2505.25
+"Greater Noida West","Yamuna Bank",3,744.2
+"Connaught Place","Raj Nagar Extension",3,717
+"Mohan Nagar","Sohna Road",3,1363.4
+"Pari Chowk",Bisrakh,3,1129.1
+"Rajouri Garden","Sector 56 Gurugram",3,1443.75
+"Sohna Road","Mohan Nagar",3,782.5
+"Ghaziabad Railway Station","Green Park",3,1362.25
+Dwarka,"Greater Noida West",3,4877.25
+"Sarojini Nagar","Gamma 1",3,1722.8
+Manesar,"DLF Phase 1",3,1557.2
+Kalkaji,"Noida Sector 76",3,1476.75
+Mahipalpur,"Malviya Nagar",3,1442.8
+Aerocity,"Vasant Kunj",3,804.6
+"Karol Bagh","Connaught Place",3,1741
+Seelampur,Aerocity,3,1975.6
+"Hauz Khas","DLF Phase 4",3,1102.6
+"Noida Sector 18","Sector 14 Gurugram",3,1308.75
+INA,Shahdara,3,2418.5
+"Hauz Khas","Chandni Chowk",3,1733
+"Alpha 1","Botanical Garden",3,1082.8
+"Pragati Maidan",ITO,3,1269.5
+"Mayur Vihar",Loni,3,870
+"Civil Lines",AIIMS,3,1656.5
+"Civil Lines","Logix Mall",3,910
+Vasundhara,"Knowledge Park",3,1329.5
+"Logix Mall","Wave City Center",3,1567
+"Sohna Road","New Delhi Railway Station",3,621.75
+"Civil Lines","MG Road",3,498.3
+"Film City Noida","Sector 29 Gurugram",3,825.0999999999999
+"IFFCO Chowk","Chandni Chowk",3,1710.5
+Saket,"Malviya Nagar",3,2417.5
+"Cyber City","Kashmere Gate",3,1358.3
+"Laxmi Nagar","Preet Vihar",3,679
+"Greater Kailash",Surajpur,3,1737.5
+Surajpur,"Pari Chowk",3,2111.15
+"Noida Sector 76","Noida Sector 78",3,935.7
+"DLF Mall of India","Red Fort",3,1497
+"Hauz Khas",Saket,3,1478.8
+"Rajouri Garden","Mayur Vihar",3,513.5
+"Alpha 1",Kalkaji,3,1239.6
+AIIMS,"Noida City Centre",3,2158
+"Pragati Maidan","Malviya Nagar",3,2029.9
+"Malviya Nagar","Alpha 1",3,950.35
+"DLF Phase 1","Gamma 1",3,1240.5
+"Rajouri Garden","Noida Sector 78",3,1905.9
+"Cyber City","Film City Noida",3,1804.9
+"Crossings Republik","Ghaziabad Railway Station",3,1320.5
+ITO,"Model Town",3,958.2
+"Sector 56 Gurugram","Mandi House",3,1891.8000000000002
+Surajpur,"DLF Phase 4",3,2004
+"Lajpat Nagar","Gamma 1",3,743.1
+"Noida Sector 18",Daryaganj,3,1656.2
+"New Delhi Railway Station","Vasant Kunj",3,1513
+"Delta 1","Connaught Place",3,1540.2
+Janakpuri,Vaishali,3,1819.2
+"Noida Sector 78","Noida Sector 62",3,1745
+"Golf Course Road","Sector 14 Gurugram",3,1095.1
+"Ambience Mall",Bisrakh,3,1054.5
+"Mayur Vihar","Noida Sector 37",3,1391
+"New Delhi Railway Station",Bisrakh,3,2079.25
+Pitampura,"Sector 14 Gurugram",3,1192.5
+"Kashmere Gate","Lajpat Nagar",3,991
+Janakpuri,"RK Puram",3,1674.1
+Daryaganj,"Noida Sector 16",3,1793.5
+"Laxmi Nagar","Noida Sector 62",3,965.5
+"Noida Sector 15","Pari Chowk",3,1017.5
+"Noida Sector 37","New Delhi Railway Station",3,1093
+"IFFCO Chowk","Vasant Kunj",3,1667.8
+"Delta 1","Noida Sector 18",3,1224
+"New Delhi Railway Station","Cyber Hub",3,1358.9
+"IGI Airport T1","Crossings Republik",3,2238.25
+"Greater Kailash","Anand Vihar ISBT",3,1611.4
+"Ghaziabad Railway Station","Noida Sector 16",3,1281.5
+Akshardham,Kalkaji,3,1271.6
+"Noida Sector 63",Rohini,3,946
+"Jama Masjid","Film City Noida",3,1172.5
+"Cyber City","Delta 1",3,1802.25
+Akshardham,"DLF Phase 2",3,1401.5
+"Dilshad Garden","Noida Sector 16",3,1689.7
+"Noida Sector 63","Cyber Hub",3,1819.5
+"Noida Sector 63","Mohan Nagar",3,1240.2
+"Cyber Hub","Huda City Centre",3,1447.25
+"Cyber Hub","Airport T3",3,1522.65
+"Sector 45 Gurugram","DLF Phase 1",3,1173.5
+"Sohna Road","Pari Chowk",3,1606
+"Dilshad Garden",Shahdara,3,1628.6
+"Noida Sector 18","Rajouri Garden",3,1171.75
+INA,"Ambience Mall",3,1615
+Kalkaji,"Hauz Khas",3,1585
+"Greater Kailash","Green Park",3,1041.7
+Sahibabad,"Logix Mall",3,371.1
+Janakpuri,"Botanical Garden",3,1762.75
+"South Extension",Mahipalpur,3,1205.25
+"Sector 14 Gurugram","Noida Sector 18",3,1965
+"Logix Mall",INA,3,942.5
+"Anand Vihar Railway Station","Noida Sector 15",3,950.75
+Pitampura,"Sector 29 Gurugram",3,-534.4
+"Alpha 1",Shahdara,3,1812
+"Mandi House","DLF Phase 4",3,1166.5
+"Yamuna Bank","Kashmere Gate",3,1146.5
+Aerocity,"Old Delhi Railway Station",3,1540.5
+"Beta 1","Mohan Nagar",3,2556.75
+Saket,"Pragati Maidan",3,1970.9
+Vasundhara,"Pari Chowk",3,1924.2
+"Mandi House","Gamma 1",3,2015
+"Rajouri Garden","Old Delhi Railway Station",3,1916.5
+Rohini,"Connaught Place",3,2014.9
+Vasundhara,"Hauz Khas",3,1827.2
+Rohini,AIIMS,3,1114.5
+"Civil Lines",Akshardham,3,2047.6
+Daryaganj,"Noida Sector 62",3,1861
+Indirapuram,"Greater Kailash",3,3731.5
+"Sector 45 Gurugram",Mahipalpur,3,1834.25
+"Model Town","Hauz Khas",3,1437.6
+Vasundhara,"Defence Colony",3,1829.5
+"Noida Sector 16",Kaushambi,3,1341
+"Red Fort","DLF Phase 2",3,1579.5
+Daryaganj,"Film City Noida",3,852.5
+Kaushambi,"Wave City Center",3,1605.6
+"Lajpat Nagar","Model Town",3,2079.5
+"Nehru Place","Laxmi Nagar",3,1221.5
+"Karol Bagh",Loni,3,1790.4
+"Mandi House","Crossings Republik",3,1570.1999999999998
+Bisrakh,"Crossings Republik",3,1397.75
+"Noida Sector 15","Vasant Kunj",3,1129.25
+"Rajouri Garden","Green Park",3,998
+Vaishali,"Lajpat Nagar",3,1845
+"Malviya Nagar","Wave City Center",3,2377.25
+"Nehru Place","Kashmere Gate",3,980.4
+Bisrakh,"Malviya Nagar",3,1651
+"Green Park","RK Puram",3,1877.5
+"Noida Sector 78",Vasundhara,3,1619.4
+"Cyber City",Daryaganj,3,1474.65
+"Airport T3",Mahipalpur,3,967.9
+"Noida Sector 18","Film City Noida",3,1752
+"Sector 45 Gurugram","Vasant Kunj",3,602.5
+"Noida Sector 18","Ambience Mall",3,1822
+"Preet Vihar","Model Town",3,1405.5
+"Noida Sector 78","Golf Course Road",3,1502
+Sahibabad,Bisrakh,3,1009
+"Noida City Centre",Loni,3,1468.95
+Seelampur,"Anand Vihar ISBT",3,1569.75
+"Mohan Nagar","Noida Sector 137",3,1978
+"Wave City Center","Lajpat Nagar",3,3454.25
+Kaushambi,"Hauz Khas",3,2124.5
+"Model Town",Rohini,3,1140
+"Airport T3",Loni,3,834.7
+"IFFCO Chowk",Pitampura,3,648.8
+"Mohan Nagar","Botanical Garden",3,3619.5
+"Rajouri Garden","Sohna Road",3,1818
+"Mandi House","RK Puram",3,1735.5
+Manesar,"Noida Sector 137",3,611
+"Vasant Kunj","Noida Sector 18",3,1132.5
+"Hauz Khas","Greater Kailash",3,688.2
+"Delta 1","Airport T3",3,1355
+"Knowledge Park","DLF Phase 1",3,1668.5
+"DLF Phase 4","Old Delhi Railway Station",3,915.1
+"Beta 1","Green Park",3,1657
+"Sarojini Nagar","Lajpat Nagar",3,2222.5
+"Pari Chowk","South Extension",3,2284
+Ecotech,"Mandi House",3,795.5
+"Wave City Center","Sarojini Nagar",3,636.8
+"Cyber City","Greater Noida West",3,736
+"Lajpat Nagar","Sector 29 Gurugram",3,1023.1
+"Greater Noida West","Alpha 1",3,1463.25
+"Sector 56 Gurugram","Anand Vihar ISBT",3,660
+Surajpur,"Vasant Kunj",3,956.8
+"IGI Airport T1",Daryaganj,3,635.75
+"DLF Phase 1","South Extension",3,1884.5
+INA,"Noida Sector 37",3,1592.4
+Bisrakh,"Sector 29 Gurugram",3,1574
+"DLF Phase 3","Hauz Khas",3,1707.75
+Daryaganj,"Greater Noida West",3,1858.3
+Daryaganj,"Laxmi Nagar",3,956
+INA,"Pragati Maidan",3,1431.9
+"Logix Mall",Seelampur,3,1225
+"Greater Kailash","Rajouri Garden",3,2740.2
+"Knowledge Park","Mandi House",3,713.3
+"Civil Lines",Rohini,3,634.25
+"Mandi House","Delta 1",3,1144.3
+"Sector 29 Gurugram","Logix Mall",3,2135
+"Greater Noida West","Sohna Road",3,1262
+Shahdara,"Mohan Nagar",3,1304.2
+"DLF Mall of India","Noida Sector 62",3,2191.75
+"Model Town","Anand Vihar ISBT",3,1296.5
+Seelampur,"Film City Noida",3,1476
+"Noida Sector 62","Sector 56 Gurugram",3,2769.8
+Pitampura,"South Extension",3,2294.9
+"Sector 29 Gurugram","Lajpat Nagar",3,1391
+Kalkaji,"Crossings Republik",3,1071.1
+"Hauz Khas","Defence Colony",3,1818.5
+Dwarka,"Preet Vihar",3,1566
+"DLF Phase 1","Defence Colony",3,978
+"Sector 45 Gurugram","Cyber City",3,1133
+Bisrakh,Janakpuri,3,1705.5
+"DLF Mall of India","DLF Phase 4",3,1771
+"Hauz Khas",INA,3,2208.5
+"Beta 1","Mayur Vihar",3,1633.8
+Seelampur,"Wave City Center",3,2637
+"Old Delhi Railway Station","Noida City Centre",3,1457.5
+"Noida Sector 15","Nehru Place",3,1213.6
+Akshardham,"Raj Nagar Extension",3,2445.4
+Saket,Daryaganj,3,1919
+"Karol Bagh","Noida Sector 62",3,1145
+Indirapuram,"IFFCO Chowk",3,1473.7
+"Laxmi Nagar",Pitampura,3,762
+"Delta 1","Alpha 1",3,1017
+AIIMS,"Sector 14 Gurugram",3,1908.9
+"Noida Sector 137","Golf Course Road",3,1385.9
+"Ghaziabad Railway Station",Janakpuri,3,1049.5
+"Red Fort","DLF Phase 1",3,1519
+Vasundhara,"IGI Airport T1",3,1577
+Manesar,Pitampura,3,545.3
+"Mohan Nagar","Crossings Republik",3,1826.5
+"Nehru Place","Delta 1",3,1899.6
+"Gamma 1","Defence Colony",3,1066.75
+"Pragati Maidan","Karol Bagh",3,1776.9
+"Anand Vihar ISBT",Bisrakh,3,2045.6
+Janakpuri,"Connaught Place",3,1483.5
+"Old Delhi Railway Station",Bisrakh,3,668.8
+"Dilshad Garden","Green Park",3,-284
+"South Extension",AIIMS,3,-31.5
+"Logix Mall",Ecotech,3,1454.5
+"Sarojini Nagar","Noida Sector 15",3,1128.5
+Pitampura,Surajpur,3,2267.25
+"Red Fort","Udyog Vihar",3,1407
+"Greater Kailash","Beta 1",3,1239.5
+"Noida Sector 137","Noida Sector 18",3,1679
+"DLF Mall of India",Vasundhara,3,1529.55
+"South Extension",Dwarka,3,1820.25
+Bisrakh,"Vasant Kunj",3,1428.5
+"Ambience Mall","Model Town",3,2010
+"Rajouri Garden","Greater Noida West",3,1663.5
+"DLF Mall of India","DLF Phase 2",3,1182
+Shahdara,"Anand Vihar ISBT",3,1815.5
+"Pari Chowk","Beta 1",3,1111.5
+"Sohna Road","Logix Mall",3,1515.75
+"Ambience Mall","Pari Chowk",3,1147
+"Noida Sector 16","Airport T3",3,2214.1
+Shahdara,"Noida Sector 15",3,1842.15
+Akshardham,INA,3,460.6
+"Noida Sector 18","Alpha 1",3,1992.5
+"MG Road",Loni,3,2214
+"Lajpat Nagar",Shahdara,3,1350.9
+"Noida City Centre",Sahibabad,3,2497
+"DLF Mall of India","Film City Noida",3,2055.5
+"Noida Sector 76","Ambience Mall",3,1878.5
+"South Extension","Green Park",3,2795.25
+"Sector 56 Gurugram","Noida Sector 62",3,1828.75
+Kalkaji,Daryaganj,3,1309.5
+"Delta 1",Seelampur,3,1047.6
+"DLF Phase 4","Ambience Mall",3,1637.4
+"Alpha 1",Janakpuri,3,1776.5
+"Pari Chowk","Pragati Maidan",3,2004
+"Hauz Khas","Lajpat Nagar",3,1280.5
+"Noida City Centre","Pragati Maidan",3,2371.25
+"Sarojini Nagar","Pari Chowk",3,707.75
+"Anand Vihar Railway Station","DLF Phase 3",3,1386.5
+"Greater Noida West","Noida Sector 63",3,1574.75
+"Sohna Road","Noida Sector 63",3,994.75
+Daryaganj,Pitampura,3,1430
+"Noida Sector 62","Airport T3",3,1389
+Pitampura,"New Delhi Railway Station",3,1281.35
+"RK Puram","IFFCO Chowk",3,1985.75
+"Ambience Mall","RK Puram",3,1750.6
+"Nehru Place","Noida Sector 18",3,761.8
+"Greater Kailash","Noida Sector 15",3,1166
+"Nehru Place","RK Puram",3,1219.5
+"DLF Mall of India","Cyber Hub",3,1849.75
+"Vasant Kunj",Daryaganj,3,1149.25
+Janakpuri,Saket,3,996.3
+"Delta 1",Ecotech,3,1790.6
+"Rajouri Garden","Mohan Nagar",3,2165.55
+"Red Fort",Loni,3,1600.9
+"Greater Noida West","Noida City Centre",3,938.8
+Mahipalpur,Saket,3,1330.6
+"Sector 56 Gurugram",Akshardham,3,1498.25
+"Noida Sector 76","Kashmere Gate",3,1114.75
+"Pari Chowk","Anand Vihar ISBT",3,1212
+AIIMS,"DLF Phase 4",3,1035.25
+Kalkaji,"Sector 14 Gurugram",3,1174.5
+"Jama Masjid","Sohna Road",3,1634.9
+"Cyber City",Loni,3,1179.5
+"Malviya Nagar",Indirapuram,3,901.4
+"Noida Sector 16","Defence Colony",3,1704
+"Sector 56 Gurugram",Janakpuri,3,1921.8
+Ecotech,"Jama Masjid",3,2330.2
+"Connaught Place","Ghaziabad Railway Station",3,1983.9
+"Mayur Vihar","DLF Phase 1",3,2151.8
+"Pragati Maidan","Noida Sector 76",3,999.75
+"Connaught Place","Greater Kailash",3,1495.5
+"Connaught Place","Logix Mall",3,1800
+Surajpur,"Mohan Nagar",3,1010.0999999999999
+"Jama Masjid",Janakpuri,3,1315.5
+"Ambience Mall",Saket,3,1536.1999999999998
+"Model Town","South Extension",3,1953
+ITO,"Civil Lines",3,1437.5
+"IFFCO Chowk",Bisrakh,3,2222.2
+"Karol Bagh","Crossings Republik",3,1992
+Aerocity,Bisrakh,3,1236.8
+"Noida Sector 15","Karol Bagh",3,2134.5
+"Noida Sector 15","DLF Mall of India",3,2327
+"Alpha 1","DLF Phase 2",3,1820.5
+"DLF Phase 4","Red Fort",3,1330
+Kalkaji,Vaishali,3,1667.55
+"Vasant Kunj",Mahipalpur,3,2062.55
+"Cyber City","Huda City Centre",3,1536.3
+"Noida Sector 16",Kalkaji,3,1692
+"Noida Sector 37",Manesar,3,1419
+Janakpuri,"Anand Vihar Railway Station",3,1540.9
+"Vasant Kunj","Yamuna Bank",3,834
+Manesar,Rohini,3,2109.75
+"Ghaziabad Railway Station","Pari Chowk",3,1455.5
+Loni,AIIMS,3,802.8
+"Mohan Nagar","IGI Airport T1",3,1189.4
+"Chandni Chowk","Film City Noida",3,1233.3
+"Ambience Mall","Noida Sector 15",3,1658.5
+"New Delhi Railway Station",Aerocity,3,1635.15
+Pitampura,"Pragati Maidan",3,925.5
+Loni,"Raj Nagar Extension",3,2323.5
+Vaishali,"Sector 29 Gurugram",3,1535.4
+"Cyber City",INA,3,1275.6
+"Noida Sector 76","Film City Noida",3,1644.25
+"DLF Phase 4","Noida Sector 62",3,1569.75
+"Delta 1","Cyber Hub",3,1035.5
+"Noida Sector 78","South Extension",3,1383.7
+"Noida Sector 137","Gamma 1",3,2501.4
+"Udyog Vihar",Aerocity,3,956.3
+Bisrakh,"Film City Noida",3,1511.7
+"Knowledge Park","Airport T3",3,2181.5
+Manesar,Surajpur,3,1707.7
+"Sector 14 Gurugram",Ecotech,3,1797.25
+"Preet Vihar",Surajpur,3,1947.15
+"Hauz Khas","Kashmere Gate",3,1708.2
+Seelampur,"Greater Kailash",3,1317.5
+"Anand Vihar Railway Station","Huda City Centre",3,1353.8
+"Greater Kailash","Sector 45 Gurugram",3,1833.3
+Manesar,Akshardham,3,1066.5
+"Sohna Road","Model Town",3,1699
+"Noida Sector 137","Sector 14 Gurugram",3,1952.5
+"New Delhi Railway Station","Jama Masjid",3,1832
+Sahibabad,"Wave City Center",3,1744.5
+Ecotech,"Rajouri Garden",3,845.5
+"Red Fort","Lajpat Nagar",3,1265
+"Lajpat Nagar","Noida Sector 63",3,2302
+"Laxmi Nagar","Noida Sector 18",3,1731.2
+"Delta 1","Gamma 1",3,1467.5
+"Sarojini Nagar","Anand Vihar ISBT",3,1147
+ITO,"Noida Sector 18",3,1741.2
+Mahipalpur,"Beta 1",3,1536.8
+"Sector 56 Gurugram","Rajouri Garden",3,1233
+"Beta 1",Dwarka,3,1956.75
+"Cyber City","Noida Sector 63",3,2096.25
+"Noida Sector 63","Knowledge Park",3,1189.8
+"Noida Sector 37","DLF Phase 4",3,1593.75
+"Sector 56 Gurugram","Ambience Mall",3,1752.2
+"Noida Sector 78",Shahdara,3,2270.75
+"Alpha 1","Film City Noida",3,1639.6
+"Malviya Nagar","MG Road",3,1172.5
+"Mandi House",Loni,3,1031.5
+Dwarka,Pitampura,3,2227.5
+Indirapuram,"Noida Sector 15",3,1545.8
+"Karol Bagh","DLF Phase 2",3,2341
+"Noida Sector 76",Janakpuri,3,1108
+Akshardham,Daryaganj,3,720
+"Udyog Vihar",Bisrakh,3,2030
+"Laxmi Nagar","Nehru Place",3,1206
+"IFFCO Chowk",Daryaganj,3,1658.85
+Rohini,"Rajouri Garden",3,4454.5
+"Cyber Hub","Logix Mall",3,1767.6
+AIIMS,INA,3,1095
+"Connaught Place","Sector 29 Gurugram",3,1444.5
+"Alpha 1","Rajouri Garden",3,1802
+"Noida City Centre","Kashmere Gate",3,2406.8
+"Sohna Road","Noida Sector 137",3,2219.4
+"Green Park","Karol Bagh",3,1867.75
+"Raj Nagar Extension","South Extension",3,827.25
+"DLF Phase 4",Rohini,3,1446
+"Noida Sector 15","Anand Vihar ISBT",3,1128.8
+"Malviya Nagar","Mohan Nagar",3,1296.25
+INA,"Nehru Place",3,1272
+"South Extension","Cyber City",3,2348.05
+"Crossings Republik","Civil Lines",3,1714
+"Noida Sector 62","Raj Nagar Extension",3,2146.5
+"Sector 56 Gurugram","Dilshad Garden",3,1122.8
+"Vasant Kunj","Pragati Maidan",3,1279
+"New Delhi Railway Station","Airport T3",3,1976
+Pitampura,ITO,3,1209
+Loni,Saket,3,1673.3
+"Film City Noida","Mayur Vihar",3,2240.25
+"Chandni Chowk",Rohini,3,2147
+Kaushambi,"RK Puram",3,1464.1999999999998
+Indirapuram,Surajpur,3,1317.5
+Ecotech,"Beta 1",3,1034.55
+Seelampur,"Cyber City",3,1559
+"Sohna Road","Knowledge Park",3,1329
+"Sohna Road","Preet Vihar",3,1132.1
+"Delta 1",Aerocity,3,1942.15
+"Cyber City",Ecotech,3,659.5
+"Model Town","Raj Nagar Extension",3,1161
+"Crossings Republik","Airport T3",3,1521.6
+Indirapuram,AIIMS,3,843.1
+"Raj Nagar Extension",Shahdara,3,1844
+"Dilshad Garden","Knowledge Park",3,1099
+"Defence Colony","Connaught Place",3,1569.1
+"Mandi House",Aerocity,3,1214
+Seelampur,"DLF Mall of India",3,1797.6
+"Nehru Place","Green Park",3,1377.25
+"Green Park","Kashmere Gate",3,1519.75
+"South Extension",Ecotech,3,757
+Indirapuram,Saket,3,864.5
+Ecotech,"Lajpat Nagar",3,1425.8
+"Yamuna Bank","Noida Sector 78",3,2164.5
+"Airport T3","Laxmi Nagar",3,1218
+AIIMS,"Karol Bagh",3,1351.5
+Loni,"Mohan Nagar",3,1148.3
+"Cyber City","Mohan Nagar",3,1576.9
+"Sector 45 Gurugram","IFFCO Chowk",3,1520.4
+"Nehru Place","Sector 56 Gurugram",3,2022.35
+"Noida City Centre","Wave City Center",3,1028.5500000000002
+"Noida Sector 63","Raj Nagar Extension",3,1421.25
+"Greater Noida West","Noida Sector 16",3,1195
+"Alpha 1",INA,3,1412.4
+"MG Road","Karol Bagh",3,1753.15
+"Yamuna Bank","Old Delhi Railway Station",3,2313.45
+"Preet Vihar",Kalkaji,3,1945.25
+"Connaught Place","South Extension",3,1246.5
+"RK Puram",Ecotech,3,1620
+"Anand Vihar ISBT","Laxmi Nagar",3,1495.75
+"Anand Vihar Railway Station",Surajpur,3,2526.25
+INA,"Lajpat Nagar",3,1105
+"Botanical Garden","RK Puram",3,1316.3
+"Pari Chowk","DLF Phase 3",3,2013.9
+"Knowledge Park","Noida Sector 16",3,1573.75
+ITO,Aerocity,3,1405.5
+Ecotech,"Sarojini Nagar",3,1359.25
+Pitampura,Dwarka,3,2103.4
+"Noida Sector 62","Yamuna Bank",3,2230
+"IFFCO Chowk","Sohna Road",3,1767.75
+Mahipalpur,"Logix Mall",3,881.5
+"DLF Phase 1","Ghaziabad Railway Station",3,1269.7
+"Nehru Place","IGI Airport T1",3,1088
+"Mayur Vihar","DLF Phase 2",3,977
+"Golf Course Road","New Delhi Railway Station",3,1412.4
+"Airport T3","Film City Noida",3,1089
+"Connaught Place","New Delhi Railway Station",3,1726.5
+"Laxmi Nagar","Rajouri Garden",3,1181.5
+"Crossings Republik","Kashmere Gate",3,400.5
+Vasundhara,"RK Puram",3,611
+"Noida Sector 78","Pari Chowk",3,1563.4
+"Noida Sector 15","Dilshad Garden",3,1607.5
+"Noida Sector 137","Airport T3",3,1337
+"Alpha 1","Hauz Khas",3,1141
+"DLF Phase 1","Sector 45 Gurugram",3,1582.3
+Surajpur,"DLF Phase 2",3,1047
+"IGI Airport T1","Knowledge Park",3,787.5
+"Raj Nagar Extension","DLF Phase 4",3,714
+"Botanical Garden","Noida Sector 76",3,1775
+"Udyog Vihar","Cyber City",3,1946.15
+"DLF Phase 4","Connaught Place",3,605.6
+"Airport T3","DLF Mall of India",3,1513.2
+"Beta 1",Mahipalpur,3,2023
+"Nehru Place",Bisrakh,3,1868.25
+"Kashmere Gate",Bisrakh,3,1265.5
+"Udyog Vihar","Noida Sector 137",3,2011
+Akshardham,"Hauz Khas",3,452.25
+Sahibabad,"Crossings Republik",3,2227.75
+"Ghaziabad Railway Station",Dwarka,3,2365.5
+"Wave City Center","Gamma 1",3,748.9
+"Sector 45 Gurugram","Preet Vihar",3,2049.3
+"Rajouri Garden","Model Town",3,1230
+"Ghaziabad Railway Station","DLF Mall of India",3,1340.05
+"Karol Bagh","Noida Sector 18",3,2062.65
+"Preet Vihar","Ambience Mall",3,1214.75
+"Anand Vihar ISBT","Sarojini Nagar",3,1221.5
+"Delta 1","Noida Sector 63",3,2179.6
+"DLF Phase 2","Hauz Khas",3,1348
+Loni,"New Delhi Railway Station",3,1730.4
+"Old Delhi Railway Station","Airport T3",3,1729.55
+"Beta 1","Noida Sector 37",3,1659.5
+Janakpuri,"Hauz Khas",3,1195.8
+"Noida Sector 18","Kashmere Gate",3,858.5999999999999
+INA,"South Extension",3,1658
+"Laxmi Nagar","Noida Sector 37",3,1517.4
+"Greater Noida West","DLF Phase 2",3,1901.8
+"Beta 1","Mandi House",3,1539.5
+"Yamuna Bank",Kaushambi,3,1240
+"Mohan Nagar","Greater Kailash",3,1225
+"MG Road",Janakpuri,3,1045.3
+"Chandni Chowk","New Delhi Railway Station",3,1966
+"Kashmere Gate","Noida Sector 63",3,1206.75
+"Civil Lines","Hauz Khas",3,1239.3
+"IGI Airport T1","Pari Chowk",3,1741.25
+"Cyber City","Noida Sector 16",3,1069.9
+ITO,Bisrakh,3,2293
+"Anand Vihar ISBT","Kashmere Gate",3,1743.5
+"IFFCO Chowk",Mahipalpur,3,985.5
+"Mayur Vihar","Connaught Place",3,890
+"DLF Phase 4","Model Town",3,2190.5
+"Anand Vihar Railway Station","Rajouri Garden",3,1648
+"Noida Sector 63","Greater Kailash",3,2010
+"Yamuna Bank",Pitampura,3,1808.3
+"Crossings Republik",Janakpuri,3,1318
+"Botanical Garden","Knowledge Park",3,1193.1000000000001
+"Cyber Hub","Laxmi Nagar",3,1387.5
+"IGI Airport T1","Greater Noida West",3,1338
+INA,"Anand Vihar Railway Station",3,1758.75
+"Raj Nagar Extension","Film City Noida",3,1761.1
+"Sohna Road","Airport T3",3,967.5
+"Kashmere Gate","Rajouri Garden",3,1225.5
+Vaishali,"Nehru Place",3,1606
+"Noida Sector 76",Akshardham,3,597.2
+Vasundhara,"MG Road",3,1094
+"Old Delhi Railway Station","Cyber City",3,718.5
+"Ghaziabad Railway Station","Beta 1",3,7623
+"Huda City Centre",Surajpur,3,2874.5
+"Greater Kailash","South Extension",3,770.2
+"Botanical Garden","Delta 1",3,681
+"Beta 1",AIIMS,3,1315.2
+Dwarka,"DLF Phase 1",3,512.1
+Manesar,Aerocity,3,1335.25
+"Malviya Nagar","South Extension",3,1038.75
+"Old Delhi Railway Station","Wave City Center",3,1897
+Kalkaji,"Mayur Vihar",3,1200.5
+"Alpha 1","Wave City Center",3,1172.5
+"Airport T3","Knowledge Park",3,2421.5
+"Kashmere Gate","Wave City Center",3,727.1999999999999
+"Sohna Road",Kalkaji,3,1522.35
+"Alpha 1","Civil Lines",3,1503
+Akshardham,Manesar,3,1695
+AIIMS,"Ghaziabad Railway Station",3,968
+"Noida Sector 37","Botanical Garden",3,1193.5
+"Noida Sector 15","Connaught Place",3,2167.5
+"Cyber Hub","Udyog Vihar",3,1344.5
+"MG Road","Preet Vihar",3,380.5
+Mahipalpur,"IFFCO Chowk",3,1680.1999999999998
+"Vasant Kunj","DLF Phase 4",3,1072.3
+"Raj Nagar Extension","Noida Sector 18",3,947.5
+"New Delhi Railway Station","Ghaziabad Railway Station",3,1496.3999999999999
+Loni,INA,3,992.7
+Dwarka,"Knowledge Park",3,1804.25
+"Chandni Chowk","Pari Chowk",3,2520
+"Anand Vihar ISBT","Dilshad Garden",3,1515
+"Laxmi Nagar","Gamma 1",3,2054
+"Defence Colony",Daryaganj,3,1835.4
+"Delta 1","Pari Chowk",3,1166.4
+"Sector 56 Gurugram","Film City Noida",3,843.3
+Manesar,"Noida Sector 78",3,2062.5
+"Ambience Mall",Shahdara,3,889
+"Kashmere Gate","Sector 29 Gurugram",3,1376.5
+"IGI Airport T1","Cyber City",3,1507.5
+"Kashmere Gate","Sector 14 Gurugram",3,935.75
+"Cyber Hub","Mandi House",3,1665.1
+"Botanical Garden","Hauz Khas",3,1001.85
+"MG Road","Connaught Place",3,1851.6
+"Civil Lines",INA,3,1843.5
+"Wave City Center","DLF Phase 3",3,5702.25
+Manesar,"RK Puram",3,1964
+"DLF Mall of India","Pari Chowk",3,1739.75
+"Rajouri Garden","Pari Chowk",3,1135
+"Malviya Nagar","Anand Vihar Railway Station",3,1183.25
+"Noida Sector 78","Noida Sector 37",3,1762.5
+Ecotech,"South Extension",3,2372.25
+"Noida Sector 15","Gamma 1",3,3273.7
+"Wave City Center",Daryaganj,3,2070.25
+Dwarka,AIIMS,3,603
+"Pari Chowk","Chandni Chowk",3,873.25
+"Anand Vihar Railway Station",Kaushambi,3,864.8000000000001
+"Sector 56 Gurugram","Red Fort",3,1117.5
+"Sector 56 Gurugram","Udyog Vihar",3,2128.95
+"Greater Noida West",Dwarka,3,1514.5
+"Civil Lines","Pragati Maidan",3,693.5
+"Film City Noida",Aerocity,3,1164.5
+"Sohna Road","Wave City Center",3,2444.5
+Aerocity,"Knowledge Park",3,1012
+Loni,"DLF Phase 1",3,1897.5
+"DLF Phase 1",ITO,3,1463.75
+"Civil Lines",Aerocity,3,726.6
+"Golf Course Road","Preet Vihar",3,1842.8999999999999
+Vasundhara,Saket,3,1491.55
+"Greater Kailash","Kashmere Gate",3,1857
+"Lajpat Nagar","Delta 1",3,1511
+"Knowledge Park","Defence Colony",3,734
+"Udyog Vihar",Surajpur,3,796
+Indirapuram,"Old Delhi Railway Station",3,1538.5
+"DLF Phase 1","Sohna Road",3,1786.5
+"Old Delhi Railway Station",Mahipalpur,3,834.3000000000001
+"Noida Sector 37","Yamuna Bank",3,2844.9
+"Delta 1","Mayur Vihar",3,2568
+"Civil Lines","Green Park",3,1404.5
+Indirapuram,"Cyber Hub",3,1714.05
+"Sector 56 Gurugram","Noida Sector 18",3,1664
+"Wave City Center","Kashmere Gate",3,1737.75
+"Preet Vihar","Mandi House",3,1431.65
+"Alpha 1","Noida Sector 15",3,788.75
+Shahdara,Vasundhara,3,2970.25
+"Golf Course Road","Noida Sector 137",3,1038
+Kaushambi,"Noida Sector 63",3,1352.5
+"Cyber Hub",Indirapuram,3,938.2
+"Raj Nagar Extension","Vasant Kunj",3,1513.5
+Ecotech,"Airport T3",3,1219.5
+Indirapuram,"Raj Nagar Extension",3,1783.5
+Akshardham,"Old Delhi Railway Station",3,1212.3
+"Crossings Republik","Preet Vihar",3,1495.2
+"Sector 14 Gurugram","Crossings Republik",3,1099.5
+"RK Puram","Sector 29 Gurugram",3,2027.3
+Mahipalpur,"DLF Mall of India",3,409.5
+INA,Manesar,3,583.2
+"DLF Mall of India",ITO,3,1241.5
+"Preet Vihar","Sector 56 Gurugram",3,1920.75
+"IGI Airport T1","Noida Sector 76",3,1093.5
+"Rajouri Garden","IGI Airport T1",3,1796
+"DLF Phase 4",Akshardham,3,2623.5
+"Sector 29 Gurugram","Kashmere Gate",3,1962.8000000000002
+"Gamma 1","Greater Kailash",3,1695.6
+"Ambience Mall","Red Fort",3,1955
+Manesar,Saket,3,1318.5
+"IFFCO Chowk","Hauz Khas",3,1118.25
+"South Extension","Connaught Place",3,779.5
+"Noida Sector 63",Ecotech,3,1916
+"Gamma 1","DLF Phase 3",3,2788.5
+"Preet Vihar","Noida Sector 16",3,2750.55
+"Noida City Centre","Pari Chowk",3,7526.25
+"MG Road","Cyber Hub",3,1182
+"Golf Course Road",Vaishali,3,2883
+"Sector 29 Gurugram","Pari Chowk",3,2327.2
+Rohini,"Airport T3",3,1140.7
+"Cyber City","Pari Chowk",3,836
+INA,Janakpuri,3,1005
+"DLF Phase 2","Noida Sector 78",3,1639.5
+"Sector 14 Gurugram","DLF Phase 4",3,1073.75
+Sahibabad,"Noida Sector 15",3,596.5
+"Greater Noida West","Vasant Kunj",3,1576.5
+"Greater Kailash",Dwarka,3,1143
+Bisrakh,"Noida Sector 76",3,2263.5
+"Malviya Nagar","IFFCO Chowk",3,1424.65
+Janakpuri,"Sector 14 Gurugram",3,778.5
+Manesar,"Greater Kailash",3,1520.2
+"DLF Phase 4","Sector 45 Gurugram",3,758.6
+"Sector 56 Gurugram","South Extension",3,1364.5
+"Chandni Chowk","Beta 1",3,222.5
+Indirapuram,"Udyog Vihar",3,874.4
+Saket,"Kashmere Gate",3,1948
+"Sohna Road",Janakpuri,3,1435
+"New Delhi Railway Station","Kashmere Gate",3,2232.75
+"DLF Phase 3","MG Road",3,1538.5
+AIIMS,"DLF Mall of India",3,961.25
+"Preet Vihar",Kaushambi,3,2053.55
+Indirapuram,"Preet Vihar",3,1693.85
+"Logix Mall",Vaishali,3,1468.5
+"DLF Phase 1","IFFCO Chowk",3,1338.5
+"IGI Airport T1","Mayur Vihar",3,1551.95
+"South Extension","Raj Nagar Extension",3,917.8
+"Film City Noida","DLF Mall of India",3,2465.2
+"DLF Phase 2","Huda City Centre",3,814
+"Noida Sector 15","Noida Sector 63",3,2285.5
+"Malviya Nagar","Preet Vihar",3,545.5
+"Pragati Maidan","Udyog Vihar",3,1384.5
+"RK Puram","Greater Kailash",2,589.5
+Surajpur,"Sarojini Nagar",2,868.6
+"Pragati Maidan",Aerocity,2,293.25
+"DLF Mall of India","Old Delhi Railway Station",2,1265
+Aerocity,"Huda City Centre",2,597.75
+AIIMS,Shahdara,2,680.25
+Sahibabad,"Noida Sector 78",2,1897
+"Pragati Maidan","DLF Phase 4",2,770.5
+"Airport T3","Noida Sector 137",2,1107.5
+"IGI Airport T1","MG Road",2,857.75
+"Botanical Garden","Old Delhi Railway Station",2,475.3
+Shahdara,"Huda City Centre",2,969.5
+"Red Fort",Pitampura,2,1271.4
+"Mohan Nagar",Aerocity,2,377
+"Noida Sector 76","Noida Sector 16",2,457
+Manesar,AIIMS,2,974
+"Preet Vihar","Sector 14 Gurugram",2,1250.5
+Sahibabad,"Nehru Place",2,1537
+"Nehru Place","Pragati Maidan",2,1210.3
+"Mandi House","Raj Nagar Extension",2,829.5
+"Mandi House",Seelampur,2,646.6
+"Pragati Maidan",Mahipalpur,2,768.6
+"Sector 14 Gurugram","DLF Phase 1",2,6114
+"Red Fort","Vasant Kunj",2,780
+"Huda City Centre","Sector 14 Gurugram",2,1554.5
+"Noida Sector 63","RK Puram",2,1791.5
+Dwarka,"Noida City Centre",2,671
+"MG Road","Noida Sector 16",2,1676
+"Malviya Nagar",Dwarka,2,532
+"Kashmere Gate",Seelampur,2,1150.7
+"DLF Phase 4",Indirapuram,2,1274.4
+Dwarka,Kalkaji,2,296.5
+"Crossings Republik","Cyber City",2,1210.5
+"Civil Lines","Golf Course Road",2,1386.2
+"Botanical Garden","Sector 56 Gurugram",2,1230
+"Logix Mall","Noida Sector 63",2,1340.5
+"Delta 1","Nehru Place",2,739.2
+ITO,"Cyber Hub",2,929.8
+"Ghaziabad Railway Station","Connaught Place",2,719.5
+INA,"Huda City Centre",2,941.5
+"Karol Bagh","Pari Chowk",2,984.7
+"Anand Vihar Railway Station",Vaishali,2,591
+Vaishali,"Connaught Place",2,417.3
+"New Delhi Railway Station","Noida Sector 78",2,1608
+"DLF Mall of India",Dwarka,2,1227.3
+"Hauz Khas",Vaishali,2,823.5
+"Film City Noida","Mandi House",2,767
+Sahibabad,"Huda City Centre",2,598.5
+"Beta 1","Sarojini Nagar",2,-510.5
+"Huda City Centre","Golf Course Road",2,1506
+"Pari Chowk",Janakpuri,2,1340.25
+Sahibabad,"Defence Colony",2,1155
+"DLF Phase 2",ITO,2,824.1
+"Ambience Mall","Noida Sector 37",2,763.5
+"South Extension","MG Road",2,1202
+"IGI Airport T1","Wave City Center",2,1225
+Shahdara,"Rajouri Garden",2,283.8
+Kaushambi,Daryaganj,2,356
+"Udyog Vihar","Noida Sector 62",2,1267.75
+"Old Delhi Railway Station","Green Park",2,631.8
+"Anand Vihar Railway Station","DLF Phase 4",2,263.5
+"Logix Mall","Udyog Vihar",2,385.5
+Pitampura,"Cyber City",2,597.3
+Daryaganj,Vasundhara,2,872
+"DLF Phase 3",Bisrakh,2,483
+"Botanical Garden",Loni,2,1085.25
+"Chandni Chowk","Hauz Khas",2,856.9
+"Chandni Chowk","Botanical Garden",2,1054
+"Film City Noida",Ecotech,2,719.4000000000001
+"Laxmi Nagar","Ambience Mall",2,551
+"Sector 45 Gurugram","Anand Vihar Railway Station",2,1633.2
+"New Delhi Railway Station",Vasundhara,2,550.5
+Janakpuri,AIIMS,2,376.1
+"Hauz Khas","Botanical Garden",2,1091.5
+Dwarka,"Greater Kailash",2,1565
+"Golf Course Road","Noida Sector 78",2,1642.5
+"Noida Sector 18","Pari Chowk",2,672
+Akshardham,"DLF Phase 1",2,419.75
+Seelampur,"Sohna Road",2,736.95
+"Ambience Mall",Vaishali,2,643
+"Civil Lines","Defence Colony",2,1302
+"Noida Sector 16",Janakpuri,2,532.7
+"Alpha 1",Surajpur,2,970.25
+"DLF Phase 1",Dwarka,2,1587
+"Sohna Road",Pitampura,2,600.5
+"RK Puram","Preet Vihar",2,364
+Surajpur,"Ambience Mall",2,1027.7
+"Cyber Hub","Nehru Place",2,1569.75
+"Sector 14 Gurugram","DLF Phase 2",2,1245.5
+"Noida Sector 62","Alpha 1",2,1104
+"Greater Kailash","Noida Sector 78",2,443.2
+"Noida City Centre","Raj Nagar Extension",2,2062.5
+"Crossings Republik",Vaishali,2,1022
+"South Extension",Surajpur,2,728.5
+"Noida City Centre","Hauz Khas",2,634
+Akshardham,"Airport T3",2,481.5
+"Knowledge Park","Greater Kailash",2,613.5
+"Film City Noida","Gamma 1",2,1919.5
+"Old Delhi Railway Station","Preet Vihar",2,853
+"Botanical Garden","Sector 14 Gurugram",2,540.7
+"Delta 1","IGI Airport T1",2,728.2
+Dwarka,"Red Fort",2,1618.5
+"Knowledge Park","Kashmere Gate",2,849.5
+"Greater Kailash","Sarojini Nagar",2,565.5
+"DLF Phase 2",Akshardham,2,459.6
+"Airport T3","Yamuna Bank",2,479.2
+Indirapuram,"Rajouri Garden",2,596.75
+"Noida Sector 18","Cyber City",2,525
+"Huda City Centre",Loni,2,947
+"Ambience Mall","Gamma 1",2,573
+Janakpuri,Manesar,2,798
+"Anand Vihar Railway Station","Ambience Mall",2,1869.5
+"Chandni Chowk","MG Road",2,390
+"Defence Colony",Mahipalpur,2,661
+Shahdara,"Noida Sector 63",2,1133
+"Noida Sector 76","Noida Sector 137",2,905.7
+"Logix Mall",Aerocity,2,781.8
+AIIMS,"Mayur Vihar",2,878.6
+"Golf Course Road",Bisrakh,2,709.8
+"Jama Masjid",Dwarka,2,1922
+"MG Road","New Delhi Railway Station",2,812
+Dwarka,"Cyber City",2,581
+"Civil Lines","Lajpat Nagar",2,1597
+"Jama Masjid","IFFCO Chowk",2,917
+"Mandi House","Old Delhi Railway Station",2,1598.25
+ITO,"Anand Vihar Railway Station",2,548
+"Pragati Maidan","Red Fort",2,713.75
+Sahibabad,"Botanical Garden",2,788
+"Sector 29 Gurugram","Sector 56 Gurugram",2,753
+"Noida Sector 62","Sector 29 Gurugram",2,456
+"Golf Course Road",Vasundhara,2,790
+"Sector 45 Gurugram","Knowledge Park",2,798.5
+"Pragati Maidan",Kalkaji,2,1042.75
+"Malviya Nagar","Sector 56 Gurugram",2,654.5
+"Noida Sector 62","Golf Course Road",2,464.5
+"Mohan Nagar","Film City Noida",2,984.75
+ITO,"Lajpat Nagar",2,815.75
+"Beta 1",Rohini,2,581
+"Gamma 1",Kalkaji,2,1051.25
+"Dilshad Garden","Noida Sector 62",2,1134.5
+"Sector 14 Gurugram","Karol Bagh",2,718
+"Sector 45 Gurugram","South Extension",2,939.5
+"Beta 1","Sector 56 Gurugram",2,1011.5
+"Golf Course Road","Ghaziabad Railway Station",2,1399.25
+"Karol Bagh",Shahdara,2,1515
+"Chandni Chowk",Vaishali,2,1502
+"Sarojini Nagar","Noida Sector 78",2,1495.75
+"Sector 29 Gurugram","Anand Vihar ISBT",2,-53.5
+"Green Park","Delta 1",2,578.5
+ITO,"Old Delhi Railway Station",2,537.75
+"Noida Sector 37","Anand Vihar Railway Station",2,1213.5
+"Sohna Road","Greater Noida West",2,982.5
+"Noida Sector 62","Jama Masjid",2,690.3
+"Knowledge Park","Sarojini Nagar",2,1074.2
+"Raj Nagar Extension","Noida Sector 62",2,731.5
+"Raj Nagar Extension","DLF Phase 1",2,1058
+"Malviya Nagar","Noida Sector 16",2,941.4
+"Anand Vihar Railway Station",ITO,2,1103.6
+"Dilshad Garden","Noida Sector 137",2,403.5
+"DLF Phase 4","Noida Sector 63",2,998.7
+Manesar,"Pari Chowk",2,275.2
+"Sector 29 Gurugram","Huda City Centre",2,677
+"Ghaziabad Railway Station","Cyber Hub",2,1063.75
+"Noida Sector 63","Noida Sector 18",2,925.5
+Ecotech,"Ghaziabad Railway Station",2,823.5
+"Greater Kailash","Karol Bagh",2,362.9
+"Film City Noida",Shahdara,2,657.9
+"Red Fort","New Delhi Railway Station",2,1195
+"Film City Noida","Jama Masjid",2,1613
+"DLF Phase 3","Mohan Nagar",2,1342.8
+"Noida Sector 18","Mayur Vihar",2,1129
+"Huda City Centre",Bisrakh,2,448.79999999999995
+"Sector 14 Gurugram","Gamma 1",2,1320.4
+"Udyog Vihar","DLF Phase 3",2,353.5
+Shahdara,"RK Puram",2,898
+"Airport T3","Noida Sector 16",2,842
+"Crossings Republik","Red Fort",2,1076.8
+"South Extension","Yamuna Bank",2,885.5
+"Lajpat Nagar",Vasundhara,2,1291.75
+"Noida Sector 62",Vasundhara,2,1482
+"Sarojini Nagar","Mayur Vihar",2,737
+"Noida Sector 16","Ghaziabad Railway Station",2,1354.75
+"Laxmi Nagar","Noida Sector 16",2,1313.5
+"DLF Phase 3","Mandi House",2,1264
+"Noida Sector 16","Sohna Road",2,385.1
+"Golf Course Road","Cyber Hub",2,952.2
+"DLF Phase 2","South Extension",2,1548.5
+"Hauz Khas","Vasant Kunj",2,1291
+Loni,"Crossings Republik",2,1033.2
+"Noida Sector 62",Mahipalpur,2,706
+"MG Road",AIIMS,2,786
+Mahipalpur,"Kashmere Gate",2,1079.3
+Loni,"Kashmere Gate",2,1183.35
+"Dilshad Garden",Daryaganj,2,1642.5
+"Defence Colony","Anand Vihar Railway Station",2,851
+"South Extension","Mohan Nagar",2,782.5
+"DLF Phase 3","Greater Noida West",2,1051.5
+"DLF Phase 4",INA,2,490
+"Green Park","South Extension",2,1275
+"Golf Course Road","Greater Noida West",2,619.25
+Aerocity,Vasundhara,2,916.25
+"Mayur Vihar",Daryaganj,2,1459.2
+"Red Fort",Manesar,2,714.5
+"Noida Sector 62","Connaught Place",2,529.5
+Dwarka,"Ghaziabad Railway Station",2,1320
+Bisrakh,"Civil Lines",2,1214.85
+"Malviya Nagar","IGI Airport T1",2,1151.25
+"Defence Colony","DLF Phase 3",2,921
+"Defence Colony","Vasant Kunj",2,1118
+"Sector 14 Gurugram",Seelampur,2,844.2
+Kaushambi,"Anand Vihar ISBT",2,497
+"Noida Sector 137",Manesar,2,1301.5
+Janakpuri,ITO,2,734
+Mahipalpur,"Mandi House",2,804
+"Knowledge Park","Film City Noida",2,596.5
+Pitampura,"Wave City Center",2,428.5
+"Huda City Centre","New Delhi Railway Station",2,619.25
+Vasundhara,Vaishali,2,1517
+"Noida Sector 15","Ghaziabad Railway Station",2,842
+"Huda City Centre","Noida Sector 78",2,998
+"Green Park","Noida City Centre",2,857.5
+"IGI Airport T1","Noida Sector 15",2,896.5
+"Defence Colony","Sector 56 Gurugram",2,1171.5
+"Jama Masjid","Sector 56 Gurugram",2,1149.5
+"Hauz Khas","IFFCO Chowk",2,1088.25
+Vaishali,"Delta 1",2,999.5
+Shahdara,ITO,2,923.75
+"Noida Sector 16",Daryaganj,2,771
+"Red Fort","Cyber City",2,1132.8
+"Huda City Centre",INA,2,1806
+"Civil Lines","Red Fort",2,1086.3
+Ecotech,"Greater Kailash",2,974
+Aerocity,"Laxmi Nagar",2,911.1
+Ecotech,"Chandni Chowk",2,923.7
+"Mohan Nagar",Janakpuri,2,731
+Bisrakh,"DLF Phase 1",2,1299.9
+"Delta 1",INA,2,805.5
+"DLF Phase 3",Pitampura,2,672.6
+Akshardham,"Sector 14 Gurugram",2,766.4
+Vasundhara,Indirapuram,2,1499.5
+Mahipalpur,"Noida Sector 16",2,740.5
+Akshardham,"DLF Phase 4",2,1092.75
+Bisrakh,"Mohan Nagar",2,674.5
+Dwarka,Ecotech,2,689.5
+"Green Park","Noida Sector 78",2,543
+"Red Fort",Vaishali,2,189
+"Red Fort","IGI Airport T1",2,1248.75
+Saket,Pitampura,2,981.5
+"Raj Nagar Extension","Knowledge Park",2,781.5
+"Crossings Republik","Sector 29 Gurugram",2,391.7
+Rohini,"Gamma 1",2,1140
+"Malviya Nagar",Kalkaji,2,853.5
+"Sector 45 Gurugram",Vaishali,2,751.75
+"Knowledge Park","Connaught Place",2,844.65
+Akshardham,"IGI Airport T1",2,836.5
+"Old Delhi Railway Station","IGI Airport T1",2,1355
+"DLF Phase 3","DLF Mall of India",2,1275
+"Sector 14 Gurugram",Akshardham,2,873.5
+Surajpur,"Lajpat Nagar",2,1143
+"Gamma 1","Greater Noida West",2,672
+"Dilshad Garden","Red Fort",2,857
+"Noida Sector 37","Laxmi Nagar",2,490
+Saket,"Crossings Republik",2,883
+"Noida Sector 62","DLF Phase 1",2,1059
+"IFFCO Chowk","Kashmere Gate",2,1055.5
+"Mayur Vihar",Vasundhara,2,1323.75
+"Mandi House","Anand Vihar Railway Station",2,1572.75
+"Delta 1",Kalkaji,2,1514.5
+"Green Park","DLF Phase 1",2,678.5
+"Sarojini Nagar",ITO,2,888.75
+"Pragati Maidan","Model Town",2,1634.2
+"Anand Vihar Railway Station","Noida Sector 76",2,627
+Saket,"MG Road",2,866
+"Greater Noida West","DLF Mall of India",2,844.5
+"Lajpat Nagar","Old Delhi Railway Station",2,1115.1
+Kalkaji,"DLF Phase 4",2,1558.5
+Bisrakh,"Noida City Centre",2,622
+Dwarka,Surajpur,2,791.25
+"Nehru Place",AIIMS,2,846
+"Mayur Vihar","Karol Bagh",2,1799.75
+Kaushambi,"Mandi House",2,1217.5
+"Noida Sector 78","Cyber Hub",2,-536
+"Botanical Garden","Noida Sector 15",2,533.6
+"Anand Vihar ISBT","Hauz Khas",2,1284
+"Botanical Garden","Karol Bagh",2,1348.5
+AIIMS,"Hauz Khas",2,460.75
+"Noida Sector 15","RK Puram",2,1533.5
+"Old Delhi Railway Station",Shahdara,2,1087.9
+"Greater Kailash","MG Road",2,865
+"Yamuna Bank","Mandi House",2,1192.5
+"Gamma 1","Delta 1",2,595.5
+"Mandi House",Ecotech,2,1024
+Loni,"Anand Vihar ISBT",2,1322
+AIIMS,"DLF Phase 2",2,261.45
+ITO,Kaushambi,2,1492
+"Preet Vihar","Noida Sector 78",2,2042
+"Udyog Vihar","Red Fort",2,1681.5
+"Civil Lines","Jama Masjid",2,709.5
+"Knowledge Park","Lajpat Nagar",2,350.5
+Indirapuram,"Noida City Centre",2,235
+"Noida Sector 76",Loni,2,837.5
+"Pragati Maidan","Pari Chowk",2,1050.5
+"Sarojini Nagar",Vasundhara,2,1631.5
+"IGI Airport T1","Anand Vihar Railway Station",2,1625.4
+"DLF Phase 2","Mandi House",2,1676.5
+"Green Park","Noida Sector 137",2,368.5
+Aerocity,"Lajpat Nagar",2,591.5
+"Malviya Nagar","Film City Noida",2,1411.2
+"Nehru Place","Sector 14 Gurugram",2,623
+"DLF Phase 2","Sector 45 Gurugram",2,1241
+"Laxmi Nagar",Dwarka,2,717.25
+Vaishali,"Pragati Maidan",2,1827
+"Malviya Nagar","Model Town",2,893.5
+"RK Puram",Dwarka,2,1184.2
+"Pari Chowk","Civil Lines",2,1955
+"Noida Sector 78","Crossings Republik",2,1045.35
+"Noida Sector 76",ITO,2,1912
+"Red Fort",Kalkaji,2,766.5
+"DLF Phase 3",ITO,2,821
+"Sarojini Nagar","Chandni Chowk",2,939
+"Noida Sector 16",Aerocity,2,853.7
+Vaishali,"Malviya Nagar",2,1243
+"Mayur Vihar","Defence Colony",2,1316.2
+"Sector 29 Gurugram","Airport T3",2,486.3
+"Hauz Khas","Delta 1",2,1434.5
+"Yamuna Bank","Nehru Place",2,1407.5
+Akshardham,Aerocity,2,592.5
+"Preet Vihar",Akshardham,2,1766
+"Greater Noida West","Malviya Nagar",2,535
+"Noida Sector 137","DLF Phase 3",2,1706
+Indirapuram,"Connaught Place",2,745.5
+"Delta 1","Wave City Center",2,848.4
+"Pari Chowk",Seelampur,2,1168.8000000000002
+Rohini,Saket,2,823.7
+"Hauz Khas","Ghaziabad Railway Station",2,652.5
+"Defence Colony","Alpha 1",2,604
+"South Extension","Udyog Vihar",2,1394.5
+"Anand Vihar Railway Station","Noida Sector 78",2,861
+"Noida Sector 76",Shahdara,2,1084.9
+"DLF Phase 2","Vasant Kunj",2,1539
+"Greater Kailash","Yamuna Bank",2,423.25
+"New Delhi Railway Station","Old Delhi Railway Station",2,801.5
+"Noida Sector 37","Preet Vihar",2,1006.6
+"Wave City Center","Chandni Chowk",2,738
+"Knowledge Park","Nehru Place",2,1149.5
+"Cyber Hub","Green Park",2,1409
+Manesar,"DLF Phase 4",2,532.1
+"RK Puram","Anand Vihar Railway Station",2,1645
+Shahdara,Seelampur,2,825
+Aerocity,"DLF Phase 3",2,338.8
+"New Delhi Railway Station","Noida Sector 15",2,1368
+"Gamma 1","Red Fort",2,990
+"Cyber Hub","Golf Course Road",2,748
+"Greater Noida West","Knowledge Park",2,804
+"Gamma 1","Karol Bagh",2,629.75
+"Noida Sector 137","Green Park",2,682
+"DLF Phase 4",Kalkaji,2,1645.95
+Bisrakh,"DLF Phase 3",2,1062
+"Beta 1","Connaught Place",2,1550
+Indirapuram,"Alpha 1",2,798.5
+"IGI Airport T1","Gamma 1",2,535.5
+Janakpuri,"Defence Colony",2,874
+"Knowledge Park",Surajpur,2,1615
+"Sector 56 Gurugram","Logix Mall",2,1369
+"Malviya Nagar",Seelampur,2,-341
+"Noida Sector 18","Crossings Republik",2,787
+"Noida Sector 62",Vaishali,2,1034.1
+"Vasant Kunj","Preet Vihar",2,1184.25
+INA,"DLF Phase 3",2,1091.5
+"DLF Phase 4","Sector 56 Gurugram",2,1121
+"South Extension","Sector 56 Gurugram",2,594
+"Old Delhi Railway Station","Sohna Road",2,670
+Seelampur,Manesar,2,1238
+"Kashmere Gate","Huda City Centre",2,953
+"Connaught Place","Wave City Center",2,1569
+"Malviya Nagar","DLF Phase 4",2,800.5
+Vasundhara,Seelampur,2,1790
+"DLF Phase 4","South Extension",2,328.3
+Aerocity,Manesar,2,1847.75
+"Botanical Garden","Huda City Centre",2,348.5
+"Film City Noida",Akshardham,2,774.5
+"Noida Sector 62","Malviya Nagar",2,1383
+"Sector 14 Gurugram",Vasundhara,2,1884
+Janakpuri,"Gamma 1",2,1321.75
+"Noida Sector 37",Mahipalpur,2,333.75
+"Ghaziabad Railway Station","Red Fort",2,1054
+ITO,"Laxmi Nagar",2,404.5
+"Noida City Centre","Jama Masjid",2,1315
+"Greater Kailash","Noida Sector 18",2,1181.75
+Janakpuri,"Golf Course Road",2,1412
+"Karol Bagh","Sarojini Nagar",2,1422.45
+"Vasant Kunj","Noida Sector 78",2,749.2
+Pitampura,"Noida Sector 18",2,504
+Ecotech,"Noida Sector 18",2,827.25
+Daryaganj,"Old Delhi Railway Station",2,1581
+"Noida Sector 78","Udyog Vihar",2,1265.55
+"Anand Vihar Railway Station",Kalkaji,2,1485.5
+"DLF Phase 4",Loni,2,1402
+Janakpuri,"Nehru Place",2,1999.2
+Mahipalpur,Kalkaji,2,1610.5
+"Noida Sector 63","Noida Sector 137",2,667.05
+"MG Road",Manesar,2,843.75
+"Logix Mall",Daryaganj,2,946.5
+"Noida Sector 15","Delta 1",2,712.5
+"Gamma 1",Surajpur,2,879.5
+"Red Fort",Seelampur,2,1316
+"RK Puram","Golf Course Road",2,683.75
+"Sector 45 Gurugram","DLF Phase 3",2,273
+Ecotech,Seelampur,2,742.5
+"Lajpat Nagar","Huda City Centre",2,1412
+"Noida Sector 78","Mandi House",2,1206
+"Dilshad Garden",Surajpur,2,486
+"Rajouri Garden","Noida City Centre",2,446.75
+Indirapuram,"Ambience Mall",2,533.25
+Dwarka,"Noida Sector 16",2,1837.2
+"Rajouri Garden","Red Fort",2,854.25
+Daryaganj,"Jama Masjid",2,889.4
+"Nehru Place","MG Road",2,1429.5
+AIIMS,"Red Fort",2,1951
+"Anand Vihar ISBT",Seelampur,2,1124.25
+"DLF Mall of India","Noida City Centre",2,1412.4
+Indirapuram,Vaishali,2,490.5
+"Sector 45 Gurugram","Botanical Garden",2,2363
+"Model Town","Anand Vihar Railway Station",2,515
+"Dilshad Garden",Indirapuram,2,1355
+Mahipalpur,Akshardham,2,461.5
+Aerocity,"Noida Sector 62",2,987
+"Airport T3","Kashmere Gate",2,883.5
+Dwarka,"Sector 14 Gurugram",2,563.25
+Bisrakh,"Greater Kailash",2,938
+"Kashmere Gate","Laxmi Nagar",2,1157.55
+"Karol Bagh","Film City Noida",2,1012.5
+"Mayur Vihar","Sector 56 Gurugram",2,503.8
+"Pragati Maidan","Sarojini Nagar",2,807.5
+"Sector 29 Gurugram","Nehru Place",2,475
+Ecotech,"New Delhi Railway Station",2,909
+"Anand Vihar ISBT","Huda City Centre",2,1177
+Janakpuri,Bisrakh,2,1578
+"Defence Colony","Yamuna Bank",2,756
+"Beta 1","MG Road",2,1068.25
+Janakpuri,"Noida Sector 76",2,1191.3
+"Golf Course Road",Manesar,2,1239.5
+AIIMS,"Anand Vihar Railway Station",2,1344
+"Golf Course Road","DLF Phase 4",2,748.5
+"Wave City Center","Film City Noida",2,780
+"Sector 14 Gurugram","Cyber Hub",2,1487.5
+"Old Delhi Railway Station","Noida Sector 78",2,328.5
+"Sector 45 Gurugram","New Delhi Railway Station",2,383.75
+INA,"Pari Chowk",2,835
+"Film City Noida","Alpha 1",2,1436.6
+"Raj Nagar Extension",Rohini,2,-72
+"Chandni Chowk","Mayur Vihar",2,561
+"MG Road","Ambience Mall",2,415
+"Rajouri Garden","Sector 14 Gurugram",2,1021.2
+"DLF Phase 4",Bisrakh,2,1779
+Vaishali,Sahibabad,2,1123
+"Sector 29 Gurugram","Defence Colony",2,1583.5
+"Noida Sector 18",Janakpuri,2,641
+"IFFCO Chowk",Akshardham,2,404.6
+Dwarka,"Noida Sector 15",2,896
+"Noida Sector 37","Malviya Nagar",2,597.5
+"Botanical Garden","Noida Sector 37",2,651
+"Preet Vihar","Huda City Centre",2,985.6
+Akshardham,"DLF Mall of India",2,1686
+"Noida Sector 76",Dwarka,2,1049
+"New Delhi Railway Station","Green Park",2,326
+"Airport T3",Janakpuri,2,501
+"Karol Bagh","MG Road",2,2490
+"Delta 1","Noida Sector 16",2,457
+"Yamuna Bank","Film City Noida",2,529.25
+Kaushambi,"Yamuna Bank",2,577.7
+"Hauz Khas","Malviya Nagar",2,714.1
+"Greater Kailash","Cyber City",2,789.5
+"DLF Phase 1","Noida Sector 76",2,1068
+"Beta 1",Bisrakh,2,1259
+Aerocity,"Gamma 1",2,769.5
+"Noida Sector 63","Kashmere Gate",2,463.4
+ITO,INA,2,1209
+"Green Park","Pari Chowk",2,953
+"Ghaziabad Railway Station",Daryaganj,2,1323
+"DLF Phase 1","Beta 1",2,1028.5
+"Model Town","RK Puram",2,631.5
+"DLF Mall of India","Lajpat Nagar",2,540.6
+"Preet Vihar",Sahibabad,2,997.5
+"Preet Vihar","Greater Noida West",2,655.2
+Saket,INA,2,722.5
+"Noida Sector 18","DLF Phase 4",2,649.35
+"Mayur Vihar","MG Road",2,187.5
+Mahipalpur,"Film City Noida",2,1316.8
+"Noida Sector 76","Noida Sector 18",2,1689.6
+"Dilshad Garden","Delta 1",2,1001.75
+"Sarojini Nagar",Manesar,2,458.8
+"Sector 29 Gurugram","Laxmi Nagar",2,1748
+"Greater Kailash","Sohna Road",2,1180
+"Kashmere Gate","DLF Phase 3",2,1345
+"IFFCO Chowk","Cyber Hub",2,1029.5
+"Noida City Centre",Pitampura,2,1043
+ITO,"Yamuna Bank",2,945.5
+"Crossings Republik",Pitampura,2,995.75
+"Kashmere Gate","Ghaziabad Railway Station",2,607.5
+"Noida Sector 78","Noida Sector 15",2,427
+"Lajpat Nagar","Malviya Nagar",2,-784
+"Ghaziabad Railway Station","Noida Sector 62",2,-234.59999999999997
+Rohini,"Nehru Place",2,946.9
+"Noida City Centre","Rajouri Garden",2,1602.75
+"Pari Chowk","Rajouri Garden",2,613
+Dwarka,"MG Road",2,1167
+"Greater Noida West","Lajpat Nagar",2,649.5
+"Kashmere Gate","Karol Bagh",2,917
+"Sarojini Nagar",Pitampura,2,1606
+Vaishali,"Mayur Vihar",2,647.8
+Kalkaji,"Nehru Place",2,635.5
+"Noida Sector 78","Sector 45 Gurugram",2,1468
+"IGI Airport T1","Sarojini Nagar",2,1017
+Kaushambi,"Raj Nagar Extension",2,828
+"Beta 1","Noida Sector 63",2,1316
+Kalkaji,"Delta 1",2,408.5
+Janakpuri,"DLF Mall of India",2,561
+"MG Road","Wave City Center",2,1391.5
+Akshardham,"Sector 45 Gurugram",2,1684.8
+"Film City Noida",ITO,2,1765
+"Lajpat Nagar","Greater Noida West",2,830.5
+"Pari Chowk",Mahipalpur,2,709.5
+"Dilshad Garden","Ambience Mall",2,1182
+"Noida Sector 16","Sarojini Nagar",2,530
+Kaushambi,"Noida Sector 16",2,595.5
+"IGI Airport T1","Golf Course Road",2,1380.5
+"Noida City Centre","Golf Course Road",2,1776
+Ecotech,"Udyog Vihar",2,1652.5
+"Vasant Kunj","MG Road",2,1023.2
+AIIMS,"Mandi House",2,519.5
+"Film City Noida","Raj Nagar Extension",2,1120.5
+"Sector 45 Gurugram",Aerocity,2,552.3
+"RK Puram",Vaishali,2,1178.5
+"RK Puram","Udyog Vihar",2,1170.5
+"Noida Sector 78",Pitampura,2,-515.5
+"Cyber Hub",Manesar,2,900.5
+"Greater Kailash","Airport T3",2,929.4
+"Malviya Nagar",Janakpuri,2,1268
+"DLF Phase 3","Laxmi Nagar",2,2242
+"Gamma 1","Hauz Khas",2,864
+"New Delhi Railway Station","Yamuna Bank",2,994.5
+"Chandni Chowk",Ecotech,2,1050.5
+"Green Park","Laxmi Nagar",2,1272.4
+"RK Puram","Sarojini Nagar",2,1487.5
+Daryaganj,"Red Fort",2,346.25
+"Noida Sector 62","Ambience Mall",2,632.5
+Manesar,"Noida Sector 63",2,438.3
+Janakpuri,Kaushambi,2,227.75
+"Nehru Place","Mohan Nagar",2,645.5
+"Golf Course Road",Mahipalpur,2,1206
+Janakpuri,Surajpur,2,1310.1
+"Greater Noida West","Old Delhi Railway Station",2,665
+Pitampura,"Sohna Road",2,1883.5
+"Anand Vihar Railway Station",Pitampura,2,1032.5
+"Noida Sector 37","Knowledge Park",2,958.5
+"Noida City Centre",Daryaganj,2,672.5
+"Pari Chowk","Ghaziabad Railway Station",2,770
+"New Delhi Railway Station","Chandni Chowk",2,879.8
+"Dilshad Garden",INA,2,1601.5
+"Yamuna Bank","DLF Phase 1",2,1916.6
+"Lajpat Nagar",Seelampur,2,1531.25
+"Red Fort","Alpha 1",2,1644.5
+Aerocity,Indirapuram,2,1347.25
+"Sohna Road","Golf Course Road",2,1281.5
+"Green Park","IGI Airport T1",2,868.5
+"Udyog Vihar","Greater Noida West",2,979
+"Red Fort","Raj Nagar Extension",2,1252
+"Noida Sector 76",Vasundhara,2,429
+"Noida City Centre",Kaushambi,2,637
+"Gamma 1","Knowledge Park",2,1664
+Rohini,"Knowledge Park",2,1232.5
+"Civil Lines","Noida City Centre",2,424
+"DLF Mall of India","Pragati Maidan",2,54
+Mahipalpur,Vasundhara,2,1026.6
+"DLF Phase 2","Noida Sector 137",2,679.5
+"Noida Sector 63","Yamuna Bank",2,775.4
+Aerocity,"Delta 1",2,838.5
+"Kashmere Gate","DLF Mall of India",2,885.75
+"Huda City Centre",Sahibabad,2,1330
+"Gamma 1","Sarojini Nagar",2,1548.5
+"Noida City Centre","Cyber Hub",2,284
+"Karol Bagh","Sector 14 Gurugram",2,982.5
+"Noida City Centre",AIIMS,2,1724
+Mahipalpur,"IGI Airport T1",2,801
+"Anand Vihar ISBT","Golf Course Road",2,1168
+INA,"Connaught Place",2,1765
+ITO,"Karol Bagh",2,955.25
+Sahibabad,"Airport T3",2,2051.75
+"Yamuna Bank","Airport T3",2,1000
+"Vasant Kunj",Aerocity,2,442.5
+"Yamuna Bank","Anand Vihar Railway Station",2,1047.5
+"Anand Vihar ISBT","Greater Kailash",2,993.25
+"Sohna Road","South Extension",2,982
+Surajpur,"Anand Vihar ISBT",2,811
+"Mohan Nagar","Green Park",2,913
+"Dilshad Garden","Noida City Centre",2,1784.5
+Sahibabad,Daryaganj,2,892.5
+"Green Park","Hauz Khas",2,861
+"Dilshad Garden",Kalkaji,2,831
+Vasundhara,Manesar,2,944.1
+"Nehru Place",Rohini,2,1318
+"DLF Phase 3","Noida Sector 78",2,1350
+Surajpur,"Crossings Republik",2,1414.5
+Pitampura,Kaushambi,2,829.25
+"Karol Bagh",Pitampura,2,868.5
+"IFFCO Chowk",Kaushambi,2,802.5
+"Civil Lines","Old Delhi Railway Station",2,956.5
+"Nehru Place","Crossings Republik",2,1223.5
+"Film City Noida","New Delhi Railway Station",2,556.5
+"Rajouri Garden",Mahipalpur,2,952.1999999999999
+"Noida Sector 76","Nehru Place",2,1216.7
+"Cyber Hub","Pari Chowk",2,817.5
+"Noida Sector 15",Manesar,2,1257.45
+Vaishali,Shahdara,2,964.5
+"Vasant Kunj","Huda City Centre",2,1338.8
+"DLF Phase 1","Malviya Nagar",2,1113.5
+"Jama Masjid","Connaught Place",2,1009.5
+"Noida Sector 16","Cyber City",2,818
+"Kashmere Gate",INA,2,497
+Daryaganj,Manesar,2,1257.75
+"Sector 45 Gurugram","Raj Nagar Extension",2,1266
+"Model Town","Nehru Place",2,-216
+"Sarojini Nagar","Yamuna Bank",2,1500.75
+"RK Puram","Rajouri Garden",2,936.7
+Ecotech,Bisrakh,2,1447.05
+AIIMS,"Alpha 1",2,1507
+"Old Delhi Railway Station","DLF Phase 4",2,663.75
+"Cyber Hub",Loni,2,606
+Bisrakh,"Karol Bagh",2,812.5
+"Civil Lines","DLF Mall of India",2,949
+"Ambience Mall","Defence Colony",2,434.5
+"Lajpat Nagar","Noida Sector 16",2,766.65
+"Green Park","Nehru Place",2,817
+"Noida Sector 37","Film City Noida",2,673.25
+"Noida Sector 18","Lajpat Nagar",2,2141.5
+"Ghaziabad Railway Station","Noida Sector 137",2,1295.25
+Manesar,"South Extension",2,848.9
+"Mayur Vihar","Noida Sector 62",2,1527.5
+"Nehru Place",Dwarka,2,1209.75
+"Sarojini Nagar","Nehru Place",2,1045.75
+"Ambience Mall",Janakpuri,2,1284.25
+"Botanical Garden","Green Park",2,678
+Shahdara,Kalkaji,2,970.6
+"Hauz Khas","Rajouri Garden",2,1174.2
+Shahdara,"DLF Phase 1",2,817.2
+"Sector 29 Gurugram",Dwarka,2,467.5
+Manesar,"Chandni Chowk",2,1004.4
+Akshardham,"New Delhi Railway Station",2,918.5
+"Old Delhi Railway Station","Sector 45 Gurugram",2,2307
+"Kashmere Gate","Noida Sector 76",2,1239.25
+Akshardham,"RK Puram",2,397.5
+"Defence Colony","Airport T3",2,1344.9
+Aerocity,"Raj Nagar Extension",2,1108
+"Mandi House","Alpha 1",2,344.2
+"Gamma 1","Laxmi Nagar",2,427.25
+Sahibabad,"Noida Sector 76",2,540.75
+"Udyog Vihar","Airport T3",2,904
+"Defence Colony","Sarojini Nagar",2,844
+Saket,"Noida Sector 37",2,1423.8
+"Airport T3","Mohan Nagar",2,1453
+"Chandni Chowk","Yamuna Bank",2,873
+"Noida Sector 63","Sohna Road",2,655.7
+"Malviya Nagar","Noida Sector 78",2,1144.5
+Sahibabad,Saket,2,1075.5
+"Noida City Centre","Gamma 1",2,825.5
+"Nehru Place","Noida Sector 76",2,384
+"Anand Vihar ISBT","Yamuna Bank",2,-106.80000000000001
+"Logix Mall","Noida Sector 78",2,1305.3
+"Model Town","Pragati Maidan",2,-143
+"Raj Nagar Extension","Rajouri Garden",2,1514.5
+"Noida Sector 137",AIIMS,2,742.1
+"Noida City Centre","Karol Bagh",2,1700
+Saket,Vasundhara,2,1782.4
+Bisrakh,"Red Fort",2,1715
+Dwarka,"Nehru Place",2,1544
+"Karol Bagh",Vaishali,2,867.9
+"DLF Phase 1",INA,2,178
+"Sohna Road","Gamma 1",2,771.75
+"Ambience Mall",INA,2,727
+"Malviya Nagar","Mandi House",2,767.5
+"Delta 1",Dwarka,2,1734.75
+"IFFCO Chowk","Airport T3",2,622
+"Mandi House","Noida Sector 78",2,725.55
+"Botanical Garden",Kalkaji,2,861
+"Noida Sector 16","Vasant Kunj",2,1241.75
+"Jama Masjid",Mahipalpur,2,1518.25
+"DLF Phase 1","Nehru Place",2,750
+"Airport T3",Kaushambi,2,882.25
+"Noida Sector 63","Jama Masjid",2,1306.75
+"Ambience Mall","Udyog Vihar",2,369.5
+"Pari Chowk","Film City Noida",2,978.5
+"Lajpat Nagar","Beta 1",2,612.2
+"Golf Course Road","Sector 56 Gurugram",2,519.6
+Surajpur,Akshardham,2,1671
+"Mandi House","Sector 14 Gurugram",2,1112.2
+"Botanical Garden","DLF Phase 2",2,1231.5
+Manesar,Vasundhara,2,657
+"Ghaziabad Railway Station","Golf Course Road",2,2331
+INA,"MG Road",2,532.25
+"Noida Sector 37",ITO,2,2220
+"Alpha 1","Lajpat Nagar",2,1227.5
+"Noida Sector 76","Beta 1",2,1038.25
+"Pari Chowk",INA,2,1079.5
+Vasundhara,Mahipalpur,2,688
+Vasundhara,"Green Park",2,997.5
+"Karol Bagh","Kashmere Gate",2,1623.2
+Rohini,"Karol Bagh",2,688.75
+"Pari Chowk",Aerocity,2,208.8
+"Civil Lines","Anand Vihar Railway Station",2,766.2
+"Old Delhi Railway Station","Noida Sector 62",2,1456
+Janakpuri,"Kashmere Gate",2,617
+"Mohan Nagar","Chandni Chowk",2,1257
+Ecotech,"DLF Phase 1",2,896
+"Karol Bagh","IGI Airport T1",2,1177.5
+"Noida Sector 63","South Extension",2,867.7
+AIIMS,"Noida Sector 78",2,581.5
+AIIMS,"Logix Mall",2,430.5
+"Preet Vihar",Rohini,2,332.5
+"IGI Airport T1","DLF Phase 4",2,1228
+"Knowledge Park",Akshardham,2,462.5
+"Sector 56 Gurugram","Noida Sector 63",2,585.6
+"Anand Vihar Railway Station","Sector 29 Gurugram",2,999.25
+Dwarka,"Noida Sector 63",2,-64
+Kaushambi,Vaishali,2,1023.75
+"Hauz Khas",Kalkaji,2,377
+Loni,"Vasant Kunj",2,2327.25
+"Rajouri Garden","New Delhi Railway Station",2,988.5
+"Greater Noida West","Noida Sector 137",2,814.6
+"DLF Phase 3","Dilshad Garden",2,1695
+Pitampura,Akshardham,2,700.5
+"Raj Nagar Extension","Noida Sector 78",2,989.8
+"Sarojini Nagar","Noida Sector 37",2,1558
+"Ambience Mall","Sector 14 Gurugram",2,1083.5
+"Cyber City","Jama Masjid",2,1229.5
+"Raj Nagar Extension",Mahipalpur,2,837
+"Old Delhi Railway Station","Beta 1",2,1495.5
+Vaishali,"New Delhi Railway Station",2,773.5
+"Noida Sector 15",Akshardham,2,1474
+"Delta 1","Beta 1",2,1993.5
+"Sector 45 Gurugram",Saket,2,1483
+"DLF Phase 2","Wave City Center",2,592.3
+"Film City Noida","Anand Vihar ISBT",2,1563.5
+"Connaught Place","Nehru Place",2,827.5
+"Noida City Centre","Airport T3",2,1188.5
+"Preet Vihar","Botanical Garden",2,960.5
+"Beta 1",ITO,2,1430.4
+"Sector 14 Gurugram","Sarojini Nagar",2,1046.5
+"Sohna Road","IFFCO Chowk",2,981
+Rohini,"Defence Colony",2,2304
+"Karol Bagh",Vasundhara,2,669.6
+"Golf Course Road",INA,2,351.5
+"Mandi House","Dilshad Garden",2,1014.75
+Mahipalpur,"Alpha 1",2,826.4
+"Mohan Nagar",Dwarka,2,785.4000000000001
+"DLF Phase 4","Noida Sector 37",2,1205.75
+"DLF Phase 4","Anand Vihar Railway Station",2,661.5
+"Noida City Centre","Ambience Mall",2,849
+"DLF Phase 1","Anand Vihar ISBT",2,642.2
+"Kashmere Gate","Noida City Centre",2,644.5
+"Yamuna Bank",Janakpuri,2,1233
+"Huda City Centre","Crossings Republik",2,1234.9
+"Old Delhi Railway Station","Noida Sector 18",2,1573.5
+AIIMS,Seelampur,2,671.25
+Mahipalpur,"Sohna Road",2,1006.5
+"Greater Noida West","IFFCO Chowk",2,471.5
+"Cyber City","Noida Sector 78",2,1663.5
+"Airport T3","Rajouri Garden",2,727
+Dwarka,"DLF Phase 3",2,428
+Rohini,"Botanical Garden",2,766.5
+"DLF Phase 4","Noida City Centre",2,1530.25
+Shahdara,"Botanical Garden",2,1334
+Pitampura,INA,2,752.5
+"Udyog Vihar","Noida Sector 37",2,624
+"Cyber City",Mahipalpur,2,1016.5
+"Malviya Nagar",Rohini,2,1391
+"Noida Sector 137","Mayur Vihar",2,740.5
+Kaushambi,"Vasant Kunj",2,1029
+"IFFCO Chowk","Defence Colony",2,1328
+"Green Park",Bisrakh,2,1095.25
+Rohini,Aerocity,2,1580
+Saket,"Rajouri Garden",2,648.2
+"Noida Sector 76",Ecotech,2,1665
+"Defence Colony","Ambience Mall",2,1520
+"Ambience Mall","Yamuna Bank",2,-240.5
+INA,Seelampur,2,1106
+Akshardham,Janakpuri,2,1871
+"Mohan Nagar","Huda City Centre",2,385.6
+"Huda City Centre","Red Fort",2,933
+"Logix Mall","Civil Lines",2,875
+Rohini,"Jama Masjid",2,694
+Mahipalpur,"DLF Phase 4",2,878.8
+"Noida Sector 137",Janakpuri,2,1899.75
+"Cyber Hub","Film City Noida",2,897.5
+"Rajouri Garden",Rohini,2,572.5
+"Old Delhi Railway Station","Cyber Hub",2,454
+"Crossings Republik","Chandni Chowk",2,536.5
+"Beta 1",Sahibabad,2,552.5
+"Crossings Republik",Seelampur,2,1571.6
+"Noida Sector 37",Aerocity,2,619.8
+"Old Delhi Railway Station","Knowledge Park",2,861
+"Noida Sector 18","Ghaziabad Railway Station",2,-404
+"Vasant Kunj","IGI Airport T1",2,785.7
+Mahipalpur,"Golf Course Road",2,1344.5
+"Sector 56 Gurugram","Cyber City",2,795.5
+"DLF Phase 2",Indirapuram,2,740.7
+Bisrakh,ITO,2,642.8
+"Vasant Kunj","Cyber Hub",2,1179.5
+"Anand Vihar Railway Station","Greater Noida West",2,1005.45
+"Pragati Maidan",Loni,2,817.5
+Indirapuram,"South Extension",2,1118.8
+Akshardham,Bisrakh,2,706
+"Sector 45 Gurugram",Pitampura,2,1107.5
+"Anand Vihar Railway Station","Sector 45 Gurugram",2,872.5
+"Noida Sector 76","Crossings Republik",2,1291
+"Noida City Centre","Noida Sector 16",2,754.2
+"Pari Chowk","DLF Phase 2",2,492.5
+"DLF Phase 1","Alpha 1",2,805.2
+"Beta 1","Nehru Place",2,625
+Shahdara,"Preet Vihar",2,706
+"Sector 29 Gurugram","Sector 14 Gurugram",2,1019.25
+"Noida City Centre","Noida Sector 15",2,2411.25
+"Sohna Road","Yamuna Bank",2,1580.25
+"Defence Colony",INA,2,1048
+Indirapuram,"Cyber City",2,446.5
+"Noida Sector 16","Crossings Republik",2,950
+"Ghaziabad Railway Station",INA,2,816
+"Cyber Hub","Gamma 1",2,1389
+"Pari Chowk",Pitampura,2,800.4
+"Alpha 1","Noida Sector 137",2,1319.4
+"Mohan Nagar","DLF Phase 1",2,910.7
+Mahipalpur,"Delta 1",2,1043.5
+"Anand Vihar ISBT","Red Fort",2,735.2
+"MG Road","Delta 1",2,987
+Loni,"Laxmi Nagar",2,1090.5
+"Ghaziabad Railway Station","Mohan Nagar",2,998
+"Sector 56 Gurugram","Yamuna Bank",2,876
+"Greater Kailash","Sector 29 Gurugram",2,1175.75
+"Vasant Kunj","Noida Sector 37",2,1581.75
+"Airport T3","Huda City Centre",2,608
+"Noida City Centre","Beta 1",2,647.5
+"Cyber City","Dilshad Garden",2,-278.20000000000005
+"Vasant Kunj","Malviya Nagar",2,1636.5
+"Knowledge Park","Logix Mall",2,1315.7
+"Chandni Chowk","Gamma 1",2,868
+"Rajouri Garden","Huda City Centre",2,940.8
+"Preet Vihar","Connaught Place",2,1459
+"Greater Kailash",Daryaganj,2,1286
+"DLF Phase 4","Kashmere Gate",2,1640.5
+"RK Puram",Sahibabad,2,948
+"MG Road","Civil Lines",2,-1170.5
+ITO,"Huda City Centre",2,862
+"Golf Course Road","Green Park",2,508.7
+"New Delhi Railway Station","Alpha 1",2,748.3
+"RK Puram","Delta 1",2,751.5
+"Model Town","IFFCO Chowk",2,986.2
+Indirapuram,"Crossings Republik",2,1251.25
+"Alpha 1","Delta 1",2,685.65
+"Huda City Centre","Pari Chowk",2,668.7
+"Wave City Center","Yamuna Bank",2,922
+"DLF Phase 2",Kaushambi,2,1591.5
+ITO,"Mayur Vihar",2,1639.5
+Mahipalpur,"Pragati Maidan",2,1725.75
+"Sarojini Nagar","Sector 45 Gurugram",2,1242
+Janakpuri,Loni,2,479.4
+"Raj Nagar Extension",Indirapuram,2,1048.5
+ITO,"Alpha 1",2,934.25
+"Delta 1","Noida Sector 78",2,289.3
+Saket,Akshardham,2,670
+Sahibabad,Kaushambi,2,679.5
+Aerocity,AIIMS,2,2080
+"Vasant Kunj",Janakpuri,2,1143.25
+ITO,"Beta 1",2,1025.5
+"Knowledge Park","Noida Sector 76",2,1186.5
+"DLF Phase 3","Sector 29 Gurugram",2,892.5
+"Noida Sector 137",Bisrakh,2,2184.5
+"Knowledge Park","Noida City Centre",2,760.8
+Indirapuram,"Hauz Khas",2,1613
+"Defence Colony",Kaushambi,2,1154.4
+Daryaganj,"Sohna Road",2,754.1
+Saket,"Greater Kailash",2,1323
+"South Extension","Vasant Kunj",2,2158
+"Ambience Mall","Cyber City",2,653.7
+"Defence Colony","South Extension",2,1301.8
+"Golf Course Road","Old Delhi Railway Station",2,788
+Pitampura,Vaishali,2,2229.75
+"Ghaziabad Railway Station","Karol Bagh",2,787.5
+"Yamuna Bank","Dilshad Garden",2,579.5
+"IFFCO Chowk","Noida Sector 18",2,854
+"Noida Sector 76","Sector 14 Gurugram",2,1489.8
+"Ambience Mall","DLF Phase 3",2,971
+Seelampur,"South Extension",2,579
+"Noida Sector 16","Mandi House",2,1224
+"Ghaziabad Railway Station","Ambience Mall",2,384
+"Noida Sector 78","Noida Sector 18",2,558.25
+Aerocity,"Rajouri Garden",2,2206
+"South Extension","Noida Sector 37",2,1009.8
+"Ghaziabad Railway Station","Lajpat Nagar",2,695.5
+Rohini,"Mohan Nagar",2,-402.5
+"DLF Phase 1","RK Puram",2,1087
+"Sector 45 Gurugram","Yamuna Bank",2,509
+"Noida Sector 137","Noida Sector 63",2,1255
+Kalkaji,"Jama Masjid",2,663
+Surajpur,"Connaught Place",2,484
+"Pragati Maidan","Kashmere Gate",2,618.6
+Surajpur,"Malviya Nagar",2,813
+"DLF Mall of India","Delta 1",2,1155.45
+Sahibabad,"Greater Kailash",2,496.75
+"Sector 29 Gurugram",Kaushambi,2,1171.5
+"Knowledge Park","Mayur Vihar",2,833
+"Vasant Kunj","Pari Chowk",2,1374.8
+Saket,"Wave City Center",2,1509.75
+"Noida Sector 63","Chandni Chowk",2,1359
+Vaishali,Seelampur,2,862.75
+"Wave City Center",Surajpur,2,934.5
+ITO,"Vasant Kunj",2,1082
+"Noida Sector 137","Laxmi Nagar",2,1024
+"DLF Phase 3","Chandni Chowk",2,639.75
+"Knowledge Park","Botanical Garden",2,742.5
+ITO,"Greater Kailash",2,682.5
+"Jama Masjid",Vaishali,2,748.8
+"Noida Sector 76","Delta 1",2,601
+"Noida Sector 63","Model Town",2,1262.2
+Loni,"Malviya Nagar",2,692
+"Noida Sector 137","Sohna Road",2,1239
+"DLF Phase 2","Gamma 1",2,804
+"Model Town","Green Park",2,1273.8
+Janakpuri,"Beta 1",2,928.5
+"RK Puram","Logix Mall",2,1287
+"South Extension","Noida Sector 137",2,1350
+"IGI Airport T1","Sector 56 Gurugram",2,706
+"Logix Mall","Mayur Vihar",2,-424
+"Noida City Centre",Indirapuram,2,1008.1
+"MG Road","Botanical Garden",2,692.5
+"Greater Kailash","Hauz Khas",2,700
+"Noida Sector 78","Sector 29 Gurugram",2,972
+Aerocity,"Yamuna Bank",2,1095.6
+"Laxmi Nagar",Surajpur,2,1499
+"Karol Bagh","Udyog Vihar",2,244.5
+"Knowledge Park","Crossings Republik",2,2017
+Bisrakh,"Dilshad Garden",2,647.5
+"Crossings Republik","Anand Vihar Railway Station",2,1104
+Pitampura,"Noida Sector 78",2,966.5
+"Gamma 1","Wave City Center",2,767.5
+"Noida Sector 16",Indirapuram,2,1459.5
+"Greater Kailash","Noida Sector 62",2,839
+"DLF Phase 3","Pari Chowk",2,1166.5
+"Model Town","Sector 45 Gurugram",2,755
+"Cyber City","Noida Sector 15",2,547.5
+"Kashmere Gate","Noida Sector 18",2,840.7
+"Defence Colony","Noida Sector 37",2,678
+Sahibabad,"Pari Chowk",2,535.5
+Vasundhara,Surajpur,2,526.7
+"Nehru Place","Noida Sector 62",2,570
+Sahibabad,Shahdara,2,1000.75
+"RK Puram","Mohan Nagar",2,1554
+"Green Park","Civil Lines",2,697.4
+"Vasant Kunj","DLF Mall of India",2,330.15
+"RK Puram",ITO,2,739
+"DLF Phase 4","Greater Noida West",2,1224
+Sahibabad,"Raj Nagar Extension",2,1059.4
+Vaishali,"Huda City Centre",2,1622
+"Gamma 1",Bisrakh,2,407.25
+"Noida Sector 63",Daryaganj,2,822.75
+"DLF Phase 1",Sahibabad,2,963.7
+"DLF Phase 4",Aerocity,2,782
+"Noida Sector 16","Delta 1",2,1436.3
+Rohini,"Wave City Center",2,1009
+"Gamma 1","Noida Sector 37",2,1255.75
+"Kashmere Gate",Vasundhara,2,1023
+"Pragati Maidan",Vasundhara,2,1057.35
+Shahdara,"Gamma 1",2,1377
+"South Extension","Sector 29 Gurugram",2,936.4
+"Logix Mall",Shahdara,2,557.9
+"Botanical Garden","IFFCO Chowk",2,1233
+"Green Park",Dwarka,2,1292.85
+"Anand Vihar Railway Station","Nehru Place",2,1015
+"DLF Phase 2","Dilshad Garden",2,1689.4
+"Dilshad Garden","Airport T3",2,549.5
+"Karol Bagh","Ambience Mall",2,2106.75
+"Karol Bagh","Mayur Vihar",2,1072
+"Noida Sector 16","Gamma 1",2,1810
+"New Delhi Railway Station","Anand Vihar ISBT",2,900
+"Karol Bagh","Cyber Hub",2,985.6
+"Noida Sector 62","Noida Sector 78",2,1437.25
+ITO,Dwarka,2,1347.5
+"Chandni Chowk","Connaught Place",2,535
+Surajpur,"Golf Course Road",2,1075.5
+"Crossings Republik","Dilshad Garden",2,1477.5
+"Sohna Road","Mayur Vihar",2,675.3
+"Kashmere Gate","Old Delhi Railway Station",2,608.9
+ITO,Ecotech,2,2080.4
+"Wave City Center",AIIMS,2,1474.25
+INA,Loni,2,1063.5
+"Ghaziabad Railway Station","DLF Phase 2",2,1698
+"Laxmi Nagar","Ghaziabad Railway Station",2,891.75
+Loni,"Ambience Mall",2,1347.5
+"Beta 1","Preet Vihar",2,2019.4
+"Alpha 1",Saket,2,641.7
+"Noida Sector 78","Red Fort",2,392
+"Pari Chowk","Wave City Center",2,934
+Ecotech,"Gamma 1",2,1799.75
+"Rajouri Garden","Sector 45 Gurugram",2,869
+"Pragati Maidan","DLF Mall of India",2,885.5
+"Sector 14 Gurugram","Old Delhi Railway Station",2,1700
+"MG Road","Sector 14 Gurugram",2,729.7
+Daryaganj,"Cyber City",2,1065.5
+"Nehru Place","DLF Phase 2",2,1412.5
+"Pari Chowk","Noida Sector 16",2,-739
+"Sector 56 Gurugram","Noida Sector 16",2,1325.75
+"DLF Phase 3","Model Town",2,1223
+"Noida City Centre","DLF Phase 4",2,700.5
+Loni,"South Extension",2,780.2
+"Pragati Maidan",Daryaganj,2,606.5
+"Karol Bagh","New Delhi Railway Station",2,1543.5
+Rohini,Shahdara,2,615.5
+"Udyog Vihar",ITO,2,3449.25
+"Noida Sector 15","IFFCO Chowk",2,821.4
+Janakpuri,"MG Road",2,1566
+"Connaught Place","Cyber City",2,1721.5
+INA,"Hauz Khas",2,939
+Sahibabad,"Malviya Nagar",2,887.5
+"Green Park","Noida Sector 76",2,691.5
+"Airport T3","Crossings Republik",2,300.2
+"Huda City Centre","Preet Vihar",2,340.5
+Saket,"Sector 45 Gurugram",2,733.5
+Pitampura,Bisrakh,2,926.5
+"DLF Phase 3",Daryaganj,2,1514.5
+Dwarka,"Raj Nagar Extension",2,402.5
+"RK Puram","Malviya Nagar",2,1388.4
+"Noida Sector 137","Sarojini Nagar",2,980.5

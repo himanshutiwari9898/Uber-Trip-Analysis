@@ -1,0 +1,5 @@
+trip_status,cancellation_reason,total
+Completed,,22928
+Cancelled,"Customer Cancelled",856
+Cancelled,"Driver Cancelled",854
+Cancelled,"No Driver Available",862
