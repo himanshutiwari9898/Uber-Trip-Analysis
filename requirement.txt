@@ -1,6 +1,5 @@
-sql
-pandas
-matplotlib
-plotly
 streamlit
-github
+pandas
+plotly
+numpy
+openpyxl
