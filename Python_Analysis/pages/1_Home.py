@@ -73,40 +73,40 @@ st.dataframe(kpi)
 
 st.subheader("📈 Daily Revenue Trend")
 fig = revenue_trend(daily)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 from charts import revenue_trend, monthly_revenue
 monthly = data["monthly"]
 st.subheader("📅 Monthly Revenue")
 fig = monthly_revenue(monthly)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 from charts import vehicle_chart
 vehicle = data["vehicle"]
 st.subheader("🚗 Vehicle Performance")
 fig = vehicle_chart(vehicle)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 from charts import payment_chart
 payment = data["payment"]
 st.subheader("💳 Payment Method Distribution")
 fig = payment_chart(payment)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 from charts import cancellation_chart
 cancel = data["cancel"]
 st.subheader("❌ Cancellation Analysis")
 fig = cancellation_chart(cancel)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 from charts import top_driver_chart
 top_driver = data["top_driver"]
 st.subheader("🏆 Top Drivers")
 fig = top_driver_chart(top_driver)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 from charts import top_customer_chart
 top_customer = data["top_customer"]
 st.subheader("👤 Top Customers")
 fig = top_customer_chart(top_customer)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
