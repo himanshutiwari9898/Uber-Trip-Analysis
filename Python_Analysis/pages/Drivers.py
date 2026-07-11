@@ -43,7 +43,7 @@ st.subheader("🏆 Top Drivers")
 
 st.plotly_chart(
     top_driver_chart(top_driver),
-    use_container_width=True
+    width="stretch"
 )
 
 col3, col4 = st.columns(2)
@@ -54,7 +54,7 @@ with col3:
 
     st.plotly_chart(
         driver_rating_chart(driver),
-        use_container_width=True
+        width="stretch"
     )
 
 with col4:
@@ -63,7 +63,7 @@ with col4:
 
     st.plotly_chart(
         driver_revenue_chart(driver),
-        use_container_width=True
+        width="stretch"
     )
 
 st.divider()
