@@ -46,7 +46,7 @@ st.subheader("🏆 Top Customers")
 
 st.plotly_chart(
     top_customer_chart(top_customer),
-    use_container_width=True
+    width="stretch"
 )
 
 col3,col4 = st.columns(2)
@@ -57,7 +57,7 @@ with col3:
 
     st.plotly_chart(
         customer_spending_chart(customer),
-        use_container_width=True
+        width="stretch"
     )
 
 with col4:
@@ -66,7 +66,7 @@ with col4:
 
     st.plotly_chart(
         customer_rating_chart(customer),
-        use_container_width=True
+        width="stretch"
     )
 
 st.divider()
