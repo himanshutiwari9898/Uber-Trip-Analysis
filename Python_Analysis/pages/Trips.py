@@ -56,7 +56,7 @@ st.subheader("🕒 Hourly Demand")
 
 st.plotly_chart(
     hourly_chart(hourly),
-    use_container_width=True
+    width="stretch"
 )
 
 col1,col2=st.columns(2)
@@ -67,7 +67,7 @@ with col1:
 
     st.plotly_chart(
         vehicle_chart(vehicle),
-        use_container_width=True
+        width="stretch"
     )
 
 with col2:
@@ -76,7 +76,7 @@ with col2:
 
     st.plotly_chart(
         cancellation_chart(cancel),
-        use_container_width=True
+        width="stretch"
     )
 
 col3,col4=st.columns(2)
@@ -87,7 +87,7 @@ with col3:
 
     st.plotly_chart(
         pickup_chart(pickup),
-        use_container_width=True
+        width="stretch"
     )
 
 with col4:
@@ -96,14 +96,14 @@ with col4:
 
     st.plotly_chart(
         drop_chart(drop),
-        use_container_width=True
+        width="stretch"
     )
 
 st.subheader("🛣️ Popular Routes")
 
 st.plotly_chart(
     route_chart(route),
-    use_container_width=True
+    width="stretch"
 )
 
 st.divider()
