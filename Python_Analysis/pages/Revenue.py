@@ -51,7 +51,7 @@ st.divider()
 st.subheader("📈 Daily Revenue Trend")
 st.plotly_chart(
     revenue_trend(daily),
-    use_container_width=True
+    width="stretch"
 )
 
 # Monthly Revenue & Vehicle Revenue
@@ -60,14 +60,14 @@ with col1:
     st.subheader("📅 Monthly Revenue")
     st.plotly_chart(
         monthly_revenue(monthly),
-        use_container_width=True
+        width="stretch"
     )
 
 with col2:
     st.subheader("🚗 Revenue by Vehicle")
     st.plotly_chart(
         vehicle_chart(vehicle),
-        use_container_width=True
+        width="stretch"
     )
 
 # Payment Method
@@ -75,7 +75,7 @@ st.divider()
 st.subheader("💳 Revenue by Payment Method")
 st.plotly_chart(
     payment_chart(payment),
-    use_container_width=True
+    width="stretch"
 )
 
 # Revenue Table
