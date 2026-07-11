@@ -35,7 +35,7 @@ with col1:
 
     st.plotly_chart(
         pickup_chart(pickup),
-        use_container_width=True
+        width="stretch"
     )
 
 with col2:
@@ -44,7 +44,7 @@ with col2:
 
     st.plotly_chart(
         drop_chart(drop),
-        use_container_width=True
+        width="stretch"
     )
 
 # ----------------------------
@@ -57,7 +57,7 @@ st.subheader("🌆 City Performance")
 
 st.plotly_chart(
     city_chart(city),
-    use_container_width=True
+    width="stretch"
 )
 
 # ----------------------------
@@ -70,7 +70,7 @@ st.subheader("🛣️ Popular Routes")
 
 st.plotly_chart(
     route_chart(route),
-    use_container_width=True
+    width="stretch"
 )
 
 # ----------------------------
